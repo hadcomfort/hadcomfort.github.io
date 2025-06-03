@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Ineligible - Retired Officer Not Disabled
+title: "Own Service: Ineligible - Retired Officer Not Disabled"
 ---
 
 ## Own Service: Ineligible - Retired Officer Not Disabled
