@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service (VOW Act): Retired Major/Lt. Cmdr+ - Check Disability
+title: "Own Service (VOW Act): Retired Major/Lt. Cmdr+ - Check Disability"
 ---
 
 ## Own Service (VOW Act): Retired Major/Lt. Cmdr+ - Check Disability
