@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: 5-Point Preference - Minimum Service Duration Fulfilled
+title: "Own Service: 5-Point Preference - Minimum Service Duration Fulfilled"
 ---
 
 You indicated your relevant original enlistment or start of active duty was after September 7, 1980, or on/after October 14, 1982, respectively. Did you complete at least 24 months of continuous active duty, OR the full period for which you were called or ordered to active duty (if less than 24 months)? (OPM Vet Guide, '5-Point Preference (TP)')
