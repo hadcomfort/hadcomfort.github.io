@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Discharged - Check Retiree Status
+title: "Own Service: Discharged - Check Retiree Status"
 ---
 
 Are you a military retiree at the rank of Major, Lieutenant Commander, or higher? (This generally does not apply to Reservists who will not begin drawing military retired pay until age 60. See OPM Vet Guide, 'Types of Preference' and Appendix C for rank equivalents).
