@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Discharged - Check Retiree Status
+title: "Own Service: Discharged - Check Retiree Status"
 ---
 
 ## Own Service: Discharged - Check Retiree Status
