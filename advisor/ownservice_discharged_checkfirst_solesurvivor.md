@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Check for Sole Survivorship Preference
+title: "Own Service: Check for Sole Survivorship Preference"
 ---
 
 You've indicated no current claim to disability/Purple Heart preference. Now we need to determine other types of preference you might be eligible for. Were you released or discharged from active duty after August 29, 2008, by reason of a 'sole survivorship discharge'? (See OPM Vet Guide, '0-point Preference (SSP)').
