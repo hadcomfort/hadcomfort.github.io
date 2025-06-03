@@ -1,0 +1,1877 @@
+OPM.gov / Policy / Veterans Services / Vet Guide for HR Professionals
+
+VET GUIDE FOR HR PROFESSIONALS
+
+On June 26, 2013, the Supreme Court ruled that Section 3 of the Defense of Marriage Act (DOMA) is
+unconstitutional. As a result of the Supreme Court’s decision, the United States Office of Personnel
+Management (OPM) will now be able to extend certain benefits to Federal employees and annuitants who
+have legally married a spouse of the same sex, regardless of the employee’s or annuitant’s state of residency.
+OPM is currently in the process of updating and revising the website to reflect this change, and will be
+updating this information as soon as possible. Please check back in the coming weeks for updates.
+
+Introduction
+The Office of Personnel Management (OPM) administers entitlement to veterans' preference in
+employment under title 5, United States Code, and oversees other statutory employment requirements in
+titles 5 and 38. (Title 38 also governs Veterans' entitlement to benefits administered by the Department of
+Veterans Affairs (VA).)
+Both title 5 and title 38 use many of the same terms, but in different ways. For example, service during a
+"war" is used to determine entitlement to Veterans' preference and service credit under title 5. OPM has
+always interpreted this to mean a war declared by Congress. But title 38 defines "period of war" to
+include many non-declared wars, including Korea, Vietnam, and the Persian Gulf. Such conflicts entitle a
+veteran to VA benefits under title 38, but not necessarily to preference or service credit under title 5.
+Thus it is critically important to use the correct definitions in determining eligibility for specific rights and
+benefits in employment.
+For additional information, including the complete text of the laws and regulations on Veterans' rights,
+consult the references cited.
+
+Veterans' Preference in Appointments
+
+Why Preference is Given
+Since the time of the Civil War, veterans of the Armed Forces have been given some degree of preference in
+appointments to Federal jobs. Recognizing their sacrifice, Congress enacted laws to prevent veterans seeking
+Federal employment from being penalized for their time in military service. Veterans' preference recognizes
+the economic loss suffered by citizens who have served their country in uniform, restores veterans to a
+favorable competitive position for Government employment, and acknowledges the larger obligation owed to
+disabled veterans.
+Veterans' preference in its present form comes from the Veterans' Preference Act of 1944, as amended, and is
+now codified in various provisions of title 5, United States Code. By law, veterans who are disabled or who
+served on active duty in the Armed Forces during certain specified time periods or in military campaigns are
+entitled to preference over others in hiring from competitive lists of eligibles and also in retention during
+reductions in force.
+In addition to receiving preference in competitive appointments, veterans may be considered for special
+noncompetitive appointments for which only they are eligible. See Chapter 4.
+
+When Preference Applies
+Preference in hiring applies to permanent and temporary positions in the competitive and excepted services
+of the executive branch. Preference does not apply to positions in the Senior Executive Service or to
+executive branch positions for which Senate confirmation is required. The legislative and judicial branches of
+the Federal Government also are exempt from the Veterans' Preference Act unless the positions are in the
+competitive service (Government Printing Office, for example) or have been made subject to the Act by
+another law.
+Preference applies in hiring from civil service examinations conducted by the Office of Personnel
+Management (OPM) and agencies under delegated examining authority, for most excepted service jobs
+including Veterans Recruitment Appointments (VRA), and when agencies make temporary, term, and
+overseas limited appointments. Veterans' preference does not apply to promotion, reassignment, change to
+lower grade, transfer or reinstatement.
+Veterans' preference does not require an agency to use any particular appointment process. Agencies have
+broad authority under law to hire from any appropriate source of eligibles including special appointing
+authorities. An agency may consider candidates already in the civil service from an agency-developed merit
+promotion list or it may reassign a current employee, transfer an employee from another agency, or reinstate
+a former Federal employee. In addition, agencies are required to give priority to displaced employees before
+using civil service examinations and similar hiring methods.
+Civil service examination: 5 U.S.C. 3304-3330, 5 CFR Part 332, OPM Delegation Agreements
+with individual agencies, OPM Examining Handbook, OPM Delegated Examining Operations
+Handbook; Excepted service appointments, including VRA's: 5 U.S.C. 3320; 5 CFR Part 302;
+Temporary and term employment: 5 CFR Parts 316 and 333; Overseas limited employment:
+5 CFR Part 301; Career Transition Program: 5 CFR Part 330, Subparts F and G.
+
+Types of Preference
+To receive preference, a veteran must have been discharged or released from active duty in the Armed Forces
+under honorable conditions (i.e., with an honorable or general discharge). As defined in 5 U.S.C. 2101(2),
+"Armed Forces" means the Army, Navy, Air Force, Marine Corps and Coast Guard. The veteran must also be
+eligible under one of the preference categories below (also shown on the Standard Form (SF) 50,
+Notification of Personnel Action).
+Military retirees at the rank of major, lieutenant commander, or higher are not eligible for preference in
+appointment unless they are disabled veterans. (This does not apply to Reservists who will not begin drawing
+military retired pay until age 60.)
+For non-disabled users, active duty for training by National Guard or Reserve soldiers does not qualify as
+"active duty" for preference.
+For disabled veterans, active duty includes training service in the Reserves or National Guard, per the Merit
+Systems Protection Board decision in Hesse v. Department of the Army, 104 M.S.P.R.647(2007).
+For purposes of this chapter and 5 U.S.C. 2108, "war" means only those armed conflicts declared by
+Congress as war and includes World War II, which covers the period from December 7, 1941, to April 28,
+1952.
+When applying for Federal jobs, eligible veterans should claim preference on their application or resume.
+Applicants claiming 10-point preference must complete Standard Form (SF) 15, Application for 10-Point
+Veteran Preference, and submit the requested documentation.
+The following preference categories and points are based on 5 U.S.C. 2108 and 3309 as modified by a length
+of service requirement in 38 U.S.C. 5303A(d).
+
+0-point Preference (SSP)
+On August 29, 2008, the Hubbard Act was enacted as Public Law 110-317. The Hubbard Act amended the
+eligibility categories for veterans’ preference purposes by adding subparagraph (H) to 5 U.S.C. 2108(3).
+Subparagraph (H) establishes a new veterans’ preference eligibility category for veterans released or
+discharged from a period of active duty from the armed forces, after August 29, 2008, by reason of a “sole
+survivorship discharge.”
+Under the sole survivorship preference, the individual:
+* does not receive veterans’ preference points as other preference eligibles do when the “rule of 3” is applied;
+* is entitled to be listed ahead of non-preference eligibles with the same score on an examination, or listed ahead of non-preference eligibles in the same quality category when agencies are using category rating;
+* is entitled to receive the same pass over rights as other preference eligibles; and
+* is entitled to credit experience in the armed forces to meet the qualification requirements for Federal jobs.
+No points are added to the passing score or rating of a veteran who is the only surviving child in a family in
+which the father or mother or one or more siblings:
+* served in the armed forces, and
+* was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status,
+or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed
+gainfully because of the disability or hospitalization), where
+* the death, status, or disability did not result from the intentional misconduct or willful neglect of the
+parent or sibling and was not incurred during a period of unauthorized absence.
+
+5-Point Preference (TP)
+Five points are added to the passing examination score or rating of a veteran who served:
+* During a war; or
+* During the period April 28, 1952 through July 1, 1955; or
+* For more than 180 consecutive days, other than for training, any part of which occurred after January
+31, 1955, and before October 15, 1976; or
+* During the Gulf War from August 2, 1990, through January 2, 1992; or
+* For more than 180 consecutive days, other than for training, any part of which occurred during the
+period beginning September 11, 2001, and ending on August 31, 2010, the last day of Operation Iraqi
+Freedom; or
+* In a campaign or expedition for which a campaign medal has been authorized. Any Armed Forces
+Expeditionary medal or campaign badge, including El Salvador, Lebanon, Grenada, Panama,
+Southwest Asia, Somalia, and Haiti, qualifies for preference.
+A campaign medal holder or Gulf War veteran who originally enlisted after September 7, 1980, (or began
+active duty on or after October 14, 1982, and has not previously completed 24 months of continuous active
+duty) must have served continuously for 24 months or the full period called or ordered to active duty. The
+24-month service requirement does not apply to 10-point preference eligibles separated for disability
+incurred or aggravated in the line of duty, or to veterans separated for hardship or other reasons under 10
+U.S.C. 1171 or 1173.
+
+A word about Gulf War Preference
+The Defense Authorization Act of Fiscal Year 1998 (Public Law 105-85) of November 18, 1997, contains a
+provision (section 1102 of Title XI) which accords Veterans' preference to everyone who served on active
+duty during the period beginning August 2, 1990, and ending January 2, 1992, provided, of course, the
+veteran is otherwise eligible.
+This means that anyone who served on active duty during the Gulf War, regardless of where or for how long,
+is entitled to preference if otherwise eligible (i.e., have been separated under honorable conditions and
+served continuously for a minimum of 24 months or the full period for which called or ordered to active
+duty). This applies not only to candidates seeking employment, but to Federal employees who may be
+affected by reduction in force, as well.
+
+Questions and Answers about Gulf War Preference
+* Public Law 105-85 of November 18, 1997, contains a provision (section 1102 of Title XI)
+which accords Veterans' preference to anyone who served on active duty, anywhere in
+the world, for any length of time between August 2, 1990, and January 2, 1992, provided
+the person is "otherwise eligible." What does "otherwise eligible" mean, here?
+It means the person must have been separated from the service under honorable conditions and have
+served continuously for a minimum of 24 months or the full period for which called or ordered to
+active duty. For example, someone who enlisted in the Army and was serving on active duty when the
+Gulf War broke out on Aug 2, 1990, would have to complete a minimum of 24 months service to be
+eligible for preference. On the other hand a Reservist who was called to active duty for a month and
+spent all his time at the Pentagon before being released would also be eligible. What the law did was to
+add an additional paragraph (C) covering Gulf War veterans to 5 U.S.C. 2108(1) (on who is eligible for
+preference). But, significantly, the law made no other changes to existing law. In particular, it did not
+change paragraph (4) of section 2108 (the Dual Compensation Act of 1973), which severely restricts
+preference entitlement for retired officers at the rank of Major and above. When the Dual
+Compensation Act was under consideration, there was extensive debate in Congress as to who should
+be entitled to preference. Congress basically compromised by giving preference in appointment to
+most retired military members (except for "high-ranking officers" who were not considered to need it),
+but severely limiting preference in RIF for all retired military because they had already served one
+career and should not have preference in the event of layoffs.
+So, "otherwise eligible" means that the individual must be eligible under existing law.
+* Which provision of the new law contains the 24 month service requirement for regular
+military service members on active duty as opposed to reservists who are called or
+ordered to active duty?
+The 24 month service requirement provision is found in Section 5303A of title 38, United States Code
+which defines the minimum active-duty service requirement for those who initially enter active duty
+after September 7, 1980.
+* Can an applicant claim preference based on Gulf War service after January 2, 1992?
+The law specifies that only those on active duty during the period beginning August 2, 1990, and
+ending January 2, 1992, are eligible for preference. Applicants who served on active duty exclusively
+after these dates would have to be in receipt of a campaign badge or expeditionary medal.
+* Are there any plans to extend Veterans' preference to any other groups of individuals
+who served on active duty during times of conflict that may not have served in specific
+theaters of operation?
+We are not aware of any plans to extend Veterans' preference to any other group of individuals.
+* An applicant is claiming preference based on service in Bosnia, but he/she has no DD
+Form 214 to support his claim. Can we give him/her preference?
+A service member whose record appears to show service qualifying for Veterans' preference (for
+example, there is an indication that the person served in Bosnia in 1996), may be accorded 5 points
+tentative preference on that basis alone. However, before the person can be appointed, he or she must
+submit proof of entitlement to preference. That proof may be an amended DD Form 214 showing the
+award of the Armed Forces Expeditionary Medal (AFEM) for Bosnia in the case of service members
+who served there and were released prior to enactment of the recent Veterans' preference
+amendments, or it may be other official documentation showing award of the Armed Forces
+Expeditionary Medal.
+* How are we to know that a Reservist was, in fact, a) called to active duty, and b) served
+the full period for which called? Don't some Reservists just receive a letter telling them
+they are being placed on active duty?
+A Reservist will always have orders placing him (or her) on active duty -- (it is the only way the
+Reservist can be paid). While the individual may also have a letter saying that he or she is being called
+up, there will always be orders backing this up. Similarly, when the Reservist is released from active
+duty, he or she will always have separation or demobilization orders.
+* Several employees have come to the agency personnel office claiming they should have
+preference under the new law, but they have no proof of service during the specified
+period. We are getting ready to issue Reduction In Force (RIF) notices. Should we take
+the employees' word for it or wait until they have proof?
+The employees cannot be given Veterans' preference without required documentation. The agency
+should work with the employee and the appropriate military service record organizations to obtain this
+documentation as soon as possible to avoid having to "rerun" the Reduction In Force at the last
+minute.
+* If our agency has "frozen" personnel actions and issued Reduction In Force notices but
+the Reduction In Force effective date has not yet arrived, how can we account for any
+changes in Veterans' preference status?
+Regardless of where you are in the process of carrying out the Reduction In Force, you must correct
+the Veterans' preference of employees who will now be eligible as a result of the statute. Veterans'
+preference cannot be "frozen" like qualifications or performance appraisals--it must be corrected right
+up until the day of the Reduction In Force. If a change in preference results in a different outcome for
+one or more employees, amended Reduction In Force notices must be issued. If such a change results
+in a worse offer, the affected employee must be given a full 60/120 day notice period required by
+regulation. This may require the agency to use a temporary exception to keep one or more employees
+on the rolls past the Reduction In Force effective date in order to meet this obligation.
+* Our agency already completed a Reduction In Force effective November 28, 1997. There
+is at least one separated employee who would now have Veterans' preference and would
+not have been separated if we had known about the change in statute. What do we do
+now?
+If an agency finds that an eligible employee reached for Reduction In Force separation or downgrading
+effective on or after November 18, 1997, was not provided retention preference consistent with P.L.
+105-85, The Office of Personnel Management recommends that the agency take appropriate corrective
+action.
+An employee not provided appropriate retention preference may appeal the Reduction In Force action
+to the Merit Systems Protection Board (MSPB). MSPB normally requires the appeal to be filed within
+30 days of the Reduction In Force effective date, but Merit Systems Protection Board may, at its
+option, accept later appeals filed within 30 days of the employee becoming aware of the change.
+If an employee was separated or downgraded by Reduction In Force, the agency should determine
+whether or not the employee would have been affected differently based on the change in Veterans'
+preference. If the employee would still be separated or downgraded, the agency should correct the
+employee's notice. If the employee was separated, the agency should also correct the Reemployment
+Priority List (RPL) registration (if any) to accurately reflect their Veterans' preference.
+If the corrective action results in a surplus of employees in one or more competitive levels, the agency
+may have to run a new Reduction In Force. However, the agency cannot retroactively adjust the results
+of the prior Reduction In Force.
+* What if an employee would have been registered as a I-A on the agency's Reemployment
+Priority List due to the new law, but has been listed as a I-B? What is the agency's
+obligation to make up for any lost consideration as a result?
+The employee's registration status on the Reemployment Priority List should be corrected immediately
+so that the employee will be considered as a I-A for the remainder of their time on the Reemployment
+Priority List. If the agency finds that a lower standing person was selected over the employee, the
+agency must notify the employee of the selection and their right to appeal to Merit Systems Protection
+Board. If the employee files a Reemployment Priority List appeal, Merit Systems Protection Board may
+order a retroactive remedy which could include extending the employee's time period for
+consideration under the Reemployment Priority List.
+
+A Word about Man-Day Tours
+On June 26, 2013, the Supreme Court ruled that Section 3 of the Defense of Marriage Act (DOMA) is
+unconstitutional. As a result of the Supreme Court’s decision, the United States Office of Personnel
+Management (OPM) will now be able to extend certain benefits to Federal employees and annuitants who
+have legally married a spouse of the same sex, regardless of the employee’s or annuitant’s state of residency.
+OPM is currently in the process of updating and revising the website to reflect this change, and will be
+updating this information as soon as possible. Please check back in the coming weeks for updates.
+We have received several inquiries concerning the status of "man-day tours." Specifically, agency personnel
+offices have asked, "Are man-day tours considered regular active duty -- and thus qualifying for Veterans'
+preference -- or are they really active duty for training and thereby not qualifying?"
+The questions arose because many Air Force Reservists were placed on these so-called man-day tours -- also
+known as, active duty in support (ADS) -- for only a few days during the Gulf War and Operation Provide
+Comfort (in support of the Kurds) during which they would fly a quick mission to the Gulf, get the Southwest
+Asia Service Medal (SWASM) and come home, then be released. Although they had orders, they received no
+DD Form 214.
+Some agency personnel offices were according these Reservists preference; while other offices were not.
+Some Reservists were awarded preference, then had it withdrawn on the basis that they were only
+performing active duty for training.
+Based on discussions with the Department of Defense, Office of Reserve Affairs and Air Force Instruction
+36-2619 of 7/22/94, which discusses man-day tours, man-day tours are apparently regular active duty tours.
+Therefore, these man-day tours are qualifying for preference if the individual was awarded the SWASM or
+served during the period 8/2/90 to 1/2/92.
+This service is also referred to as MPA man-days because it is funded out of the military appropriation
+account (MPA), an active duty account. Man-days support short-term needs of the active force by
+authorizing no more than 139 days annually to airmen and officers who are typically placed on active duty
+under 10 U.S.C. 12301(d) (ordered to active duty with the individual's consent). This authority should appear
+on the orders. Man-day tours are supposed to accommodate a temporary need for personnel with unique
+skills that cannot be economically met through the active force.
+Based on the above, we have determined that Federal agencies should treat man-day tours as regular active
+duty unless there is some clear indication on the orders that it is active duty for training. Also, please note
+that the SWASM (or any campaign or expeditionary medal) is awarded only for active service in hostile
+areas; a Reservist performing active duty for training would not be eligible for one of these medals.
+
+10-Point Compensable Disability Preference (CP)
+Ten points are added to the passing examination score or rating of:
+* A veteran who served at any time and who has a compensable service-connected disability rating of at
+least 10 percent but less than 30 percent.
+
+10-Point 30 Percent Compensable Disability Preference (CPS)
+Ten points are added to the passing examination score or rating of a veteran who served at any time and
+who has a compensable service-connected disability rating of 30 percent or more.
+
+10-Point Disability Preference (XP)
+Ten points are added to the passing examination score or rating of:
+* A veteran who served at any time and has a present service-connected disability or is receiving
+compensation, disability retirement benefits, or pension from the military or the Department of
+Veterans Affairs but does not qualify as a CP or CPS; or
+* A veteran who received a Purple Heart.
+
+10-Point Derived Preference (XP)
+Ten points are added to the passing examination score or rating of spouses, widows, widowers, or mothers
+of veterans as described below. This type of preference is usually referred to as "derived preference" because
+it is based on service of a veteran who is not able to use the preference.
+Both a mother and a spouse (including widow or widower) may be entitled to preference on the basis of the
+same veteran's service if they both meet the requirements. However, neither may receive preference if the
+veteran is living and is qualified for Federal employment.
+
+Spouse
+Ten points are added to the passing examination score or rating of the spouse of a disabled veteran who is
+disqualified for a Federal position along the general lines of his or her usual occupation because of a
+service-connected disability. Such a disqualification may be presumed when the veteran is
+unemployed and
+* is rated by appropriate military or Department of Veterans Affairs authorities to be 100 percent
+disabled and/or unemployable; or
+* has retired, been separated, or resigned from a civil service position on the basis of a disability that is
+service-connected in origin; or
+* has attempted to obtain a civil service position or other position along the lines of his or her usual
+occupation and has failed to qualify because of a service-connected disability.
+Preference may be allowed in other circumstances but anything less than the above warrants a more careful
+analysis.
+
+NOTE:
+Veterans' preference for spouses is different than the preference the Department of Defense is required by
+law to extend to spouses of active duty members in filling its civilian positions. For more information on that
+program, contact the Department of Defense.
+
+Widow/Widower
+Ten points are added to the passing examination score or rating of the widow or widower of a veteran who
+was not divorced from the veteran, has not remarried, or the remarriage was annulled, and the veteran
+either:
+* served during a war or during the period April 28, 1952, through July 1, 1955, or in a campaign or
+expedition for which a campaign medal has been authorized; or
+* died while on active duty that included service described immediately above under conditions that
+would not have been the basis for other than an honorable or general discharge.
+
+Mother of a deceased veteran
+Ten points are added to the passing examination score or rating of the mother of a veteran who died under
+honorable conditions while on active duty during a war or during the period April 28, 1952, through July 1,
+1955, or in a campaign or expedition for which a campaign medal has been authorized; and
+* she is or was married to the father of the veteran; and
+* she lives with her totally and permanently disabled husband (either the veteran's father or her
+husband through remarriage); or
+* she is widowed, divorced, or separated from the veteran's father and has not remarried; or
+* she remarried but is widowed, divorced, or legally separated from her husband when she claims
+preference.
+
+Mother of a disabled veteran
+Ten points are added to the passing examination score or rating of a mother of a living disabled veteran if
+the veteran was separated with an honorable or general discharge from active duty, including training
+service in the Reserves or National Guard, performed at any time and is permanently and totally disabled
+from a service-connected injury or illness; and the mother:
+* is or was married to the father of the veteran; and
+* lives with her totally and permanently disabled husband (either the veteran's father or her husband
+through remarriage); or
+* is widowed, divorced, or separated from the veteran's father and has not remarried; or
+* remarried but is widowed, divorced, or legally separated from her husband when she claims
+preference.
+
+Note: Preference is not given to widows or mothers of deceased veterans who qualify for preference under 5
+U.S.C. 2108 (1) (B), (C) or (2). Thus, the widow or mother of a deceased disabled veteran who served after
+1955, but did not serve in a war, campaign, or expedition, would not be entitled to preference. 5 U.S.C.
+2108, 3309; 38 U.S.C. 5303A
+
+A word about the VOW (Veterans Opportunity to Work) Act
+On November 21, 2011, the President signed the VOW (Veterans Opportunity to Work) to Hire Heroes Act of
+2011 (Public Law 112-56). The VOW Act amends chapter 21 of title 5, United States Code (U.S.C.) by adding
+section 2108a, “Treatment of certain individuals as veterans, disabled veterans, and preference eligibles.”
+This new section requires Federal agencies to treat certain active duty service members as preference
+eligibles for purposes of an appointment in the competitive or excepted service, even though the service
+members have not been discharged or released from active duty.
+Because many service members begin their civilian job search prior to being discharged or released from
+active duty service, they may not have a DD form 214, Certificate of Release or Discharge from Active Duty,
+when applying for Federal jobs. The VOW Act was enacted to ensure these individuals do not lose the
+opportunity to be considered for Federal service (and awarded their veterans’ preference entitlements if
+applicable) despite not having a DD form 214 to submit along with their résumés.
+Agencies are required to accept, process, and grant tentative veterans’ preference to those active duty service
+members who submit a certification (in lieu of a DD-form 214) along with their job application materials.
+Agencies must verify the individual meets the definition of ‘preference eligible’ under 5 U.S.C. 2108 prior to
+appointment.
+A “certification” is any written document from the armed forces that certifies the service member is expected
+to be discharged or released from active duty service in the armed forces under honorable conditions within
+120 days after the certification is submitted by the applicant. The certification letter should be on letterhead
+of the appropriate military branch of the service and contain (1) the military service dates including the
+expected discharge or release date; and (2) the character of service.
+If the certification has expired; an agency must request other documentation (e.g., a copy of the DD form
+214) that demonstrates the service member is a preference eligible per 5 U.S.C. 2108, before veterans’
+preference can be awarded.
+
+Adjudication of Veterans' Preference Claims
+Agencies are responsible for adjudicating all preference claims except claims for preference based on
+common-law marriage, which should be sent to the Office of Personnel Management (OPM), Office of the
+General Counsel, 1900 E. St. NW, Washington, DC 20415.
+5 U.S.C. 3309, 3313 and 5 CFR 332.401, 337.101
+
+Crediting Experience of Preference Eligibles
+In evaluating experience, an examining office must credit a preference eligible's Armed Forces service as an
+extension of the work performed immediately prior to the service, or on the basis of the actual duties
+performed in the service, or as a combination of both, whichever would most benefit the preference eligible.
+The examining office must also give all applicants credit for job-related experience, paid and unpaid,
+including experience in religious, civic, welfare, service and organizational activities.
+5 U.S.C. 3311, 5 CFR 337.101
+
+Physical Qualifications
+In determining qualifications, agencies must waive a medical standard or physical requirement when there is
+sufficient evidence that the employee or applicant, with or without reasonable accommodation, can perform
+the essential duties of the position without endangering the health and safety of the individual or others.
+Special provisions apply to the proposed disqualification of a preference eligible with a 30 percent or more
+compensable disability. See Disqualification of 30 Percent or more Disabled Veterans below. 5 U.S.C.
+3312, 5 CFR Part 339.204
+
+Age Qualifications
+On July 2, 2008, the Merit Systems Protection Board (Board) issued a final decision in Robert P. Isabella v.
+Department of State and Office of Personnel Management, 2008 M.S.P.B. 146, that affects preference
+eligibles who apply for federal positions having a maximum entry-age restriction. The Board decided that the
+agency's failure to waive the maximum entry-age requirements for Mr. Isabella, a preference eligible veteran,
+violated his rights under the Veteran Employment Opportunities Act of 1998 (VEOA) because there was no
+demonstration that a maximum entry-age was essential to the performance of the position.
+Based on the Board's decision in Isabella, qualified preference eligibles may now apply and be considered for
+vacancies regardless of whether they meet the maximum age requirements identified at 5 U.S.C. 3307. In
+order to determine whether it must waive a maximum entry-age requirement, an agency must first analyze
+the affected position to determine whether age is essential to the performance of the position. If the agency
+decides age is not essential to the position, then it must waive the maximum entry-age requirement for
+veterans' preference eligible applicants. In instances where the maximum entry-age is waived, the
+corresponding mandatory retirement age for these individuals will also be higher because it will be reached
+after 20 years of Law Enforcement Officer (LEO) service for the entitlement to an immediate enhanced
+annuity.
+The same principles set forth above would apply to appointments to other types of positions for which the
+setting of maximum entry ages are authorized under 5 U.S.C. § 3307. These types of positions are: (1)
+firefighters, (2) air traffic controllers, (3) United States Park police, (4) nuclear materials couriers, and (5)
+customs and border patrol officers (subject to the Federal Employees Retirement System, 5 U.S.C. § 8401 et
+seq. only).
+
+Preference in Competitive Examinations
+Preference in the competitive examining process is applied consistent with the provisions for using Category
+Rating, or the numerical ranking process. Category rating is described below in the sub-section, “Filling a
+Position Through the Competitive Examining Process.”
+When using the numerical ranking process (sometimes called the ‘Rule of Three’ method) certain preference
+eligibles who are qualified for a position and achieved a passing score have 5 or 10 extra points added to their
+numerical ratings, depending on which of the previously described categories of preference they meet. This
+means the highest possible rating is 110 (a disabled veteran who earns a score of 100 has 10 extra points
+added).
+Names of eligible applicants are placed on lists, or registers of eligibles, in the order of their ratings.
+Competitor inventories are established from which selections will be made over a period of time and for case
+examining in which a register is used to fill a single position or a group of positions and is closed after the
+needed selection(s) is made.
+For scientific and professional positions in grade General Schedule (GS) - 9 or higher, names
+of all qualified applicants are listed on competitor inventories in order of their ratings, augmented by veteran
+preference, if any.
+For all other positions, the names of 10-point preference eligibles who have a compensable, serviceconnected disability of 10 percent or more (CP and CPS) are listed at the top of the register in the order of
+their ratings ahead of the names of all other eligibles. The names of other 10-point preference eligibles, 5point preference eligibles, and other applicants are listed in order of their numerical ratings.
+A preference eligible is listed ahead of a nonpreference eligible having the same final rating.
+5 U.S.C. 3309, 3313 and 5 CFR 332.401 and 337.101
+
+Filling a Position Through the Competitive Examining Process
+
+Announcing the Vacancy
+To fill a vacancy by selection through the competitive examining process, the selecting official requests a list
+of eligibles from the examining office. The examining office must announce the competitive examining
+process through USAJOBS. OPM will notify the State employment service where the job is being filled.
+Subsequently, the examining office determines which applicants are qualified, rates and ranks them based
+on their qualifications, and issues a certificate of eligibles, which is a list of eligibles with the highest scores
+from the top of the appropriate register. A certificate of eligibles may be used for permanent, term, or
+temporary appointment.
+
+Category Rating
+Category rating is an alternative ranking and selection procedure authorized under the Chief Human Capital
+Officers Act of 2002 (Title XIII of the Homeland Security Act of 2002) and codified at 5 U.S.C. § 3319.
+Category rating is part of the competitive examining process. Under category rating, applicants who meet
+basic minimum qualification requirements established for the position and whose job-related competencies
+or knowledge, skills and abilities (KSAs) have been assessed are ranked by being placed in one of two or
+more predefined quality categories instead of being ranked in numeric score order. Preference eligibles are
+listed ahead of non-preference eligibles within each quality category. Veterans' preference is absolute within
+each quality category. For more detailed information on Category Rating please visit Chapter 5 of the
+Delegated Examining Operations Handbook.
+
+The "Rule of Three" and Veteran pass overs
+Selection must be made from the highest three eligibles on the certificate who are available for the job--the
+"rule of three." However, an agency may not pass over a preference eligible to select a lower ranking
+nonpreference eligible or nonpreference eligible with the same or lower score.
+Example: If the top person on a certificate is a 10-point disabled veteran (CP or CPS) and the second and
+third persons are 5-point preference eligibles, the appointing authority may choose any of the three.
+Example: If the top person on a certificate is a 10-point disabled veteran (CP or CPS), the second person is
+not a preference eligible, and the third person is a 5-point preference eligible, the appointing authority may
+choose either of the preference eligibles. The appointing authority may not pass over the 10-point disabled
+veteran to select the nonpreference eligible unless an objection has been sustained.
+
+Category Rating
+Category rating is an alternative ranking and selection procedure authorized under the Chief Human Capital
+Officers Act of 2002 (Title XIII of the Homeland Security Act of 2002) and codified at 5 U.S.C. § 3319.
+Category rating is part of the competitive examining process. Under category rating, applicants who meet
+basic minimum qualification requirements established for the position and whose job-related competencies
+or knowledge, skills and abilities (KSAs) have been assessed are ranked by being placed in one of two or
+more predefined quality categories instead of being ranked in numeric score order. Preference eligibles are
+listed ahead of non-preference eligibles within each quality category. Veterans' preference is absolute within
+each quality category. For more detailed information on Category Rating please visit Chapter 5 of the
+Delegated Examining Operations Handbook.
+
+Disqualifications of Preference Eligibles
+A preference eligible can be eliminated from consideration only if the examining office sustains the agency's
+objection to the preference eligible for adequate reason. These reasons, which must be recorded, include
+medical disqualification under 5 CFR Part 339, suitability disqualification under 5 CFR Part 731, or other
+reasons considered by the Office of Personnel Management (OPM) or an agency under delegated examining
+authority to be disqualifying.
+OPM must approve the sufficiency of an agency reason to medically disqualify or pass over a preference
+eligible on a certificate based on medical reasons to select a nonpreference eligible. Special provisions
+apply to the proposed disqualification or pass over for any reason of a preference eligible
+with a 30 percent or more compensable disability. See Disqualification of 30 Percent or more
+Disabled Veterans below.
+Agencies have delegated authority for determining suitability in accordance with 5 CFR Part 731.
+The preference eligible (or his or her representative) is entitled on request to a copy of the agency's reasons
+for the proposed pass over and the examining office's response.
+An appointing official is not required to consider a person who has three times been passed over with
+appropriate approval or who has already been considered for three separate appointments from the same or
+different certificates for the same position. But in each of these considerations, the person must have been
+within reach under the rule of three and a selection must have been made from that group of three. Further,
+the preference eligible is entitled to advance notice of discontinuance of certification.
+5 U.S.C. 3317, 3318 and 5 CFR 332.402, 332.404, 332.405, 332.406, and Parts 339 and 731
+
+Disqualification of 30 Percent or More Disabled Veterans
+The following special provisions apply to disabled veterans with a compensable service-connected disability
+of 30 percent or more:
+* If an agency proposes to pass over a disabled veteran on a certificate to select a person who is not a
+preference eligible, or to disqualify a disabled veteran based on the physical requirements of the
+position, it must at the same time notify both the Office of Personnel Management (OPM) and the
+disabled veteran of the reasons for the determination and of the veteran's right to respond to OPM
+within 15 days of the date of the notification.
+* The agency must provide evidence to OPM that the notice was timely sent to the disabled veteran's last
+known address.
+* OPM must make a determination on the disabled veteran's physical ability to perform the duties of the
+position, taking into account any additional information provided by the veteran.
+* OPM will notify the agency and the disabled veteran of its decision, with which the agency must
+comply. If OPM agrees that the veteran cannot fulfill the physical requirements of the position, the
+agency may select another person from the certificate of eligibles. If OPM finds the veteran able to
+perform the job, the agency may not pass over the veteran.
+* OPM is prohibited by law from delegating this function to any agency.
+5 U.S.C. 3312, 3318
+
+Preference Eligibles and the Nepotism Provision
+A public official may not advocate a relative for appointment, employment, promotion, or advancement, or
+appoint, employ, promote, or advance a relative, to a position in an agency in which the public official is
+employed or over which he or she exercises jurisdiction or control.
+This restriction does not, however, prohibit the appointment of a preference eligible whose name is within
+reach for selection on an appropriate certificate of eligibles when an alternative selection cannot be made
+from the certificate without passing over the preference eligible and selecting an individual who is not a
+preference eligible.
+5 U.S.C. 3110(e) and 5 CFR Part 310, Subpart A
+
+Filing Late Applications
+A veteran may file a late application under the following circumstances by contacting the employing agency.
+Agencies are responsible for accepting, retaining, and considering their applications as required by law and
+regulation regardless of whether the agency uses case examining or maintains a continuing register of
+eligibles.
+Applications from 10-point preference eligibles must be accepted, as described below, for future vacancies
+that may arise after a case examining register or continuing register is closed. Agencies must accept
+applications from other individuals who are eligible to file on a delayed basis only as long as a case
+examining register exists.
+* A 10-point preference eligible may file a job application with an agency at any time. If the
+applicant is qualified for positions filled from a register, the agency must add the candidate to the
+register, even if the register is closed to other applicants. If the applicant is qualified for positions filled
+through case examining, the agency will ensure that the applicant is referred on a certificate as soon as
+possible. If there is no immediate opening, the agency must retain the application in a special file for
+referral on certificates for future vacancies for up to three years. The Office of Personnel
+Management's Delegated Examining Operations Handbook provides detailed instructions.
+* A preference eligible is entitled to be reentered on each register (or its successor) where previously
+listed if he or she applies within 90 days after resignation without delinquency or misconduct from a
+career or career-conditional appointment.
+* A preference eligible is entitled to be entered on an appropriate existing register if he or she applies
+within 90 days after furlough or separation without delinquency or misconduct from a career or
+career-conditional appointment or if found eligible to apply after successfully appealing a
+furlough or discharge from career or career-conditional appointment.
+* A person who lost eligibility for appointment from a register because of active duty in the Armed
+Forces is entitled to be restored to the register (or its successor) and receive priority consideration
+when certain conditions are met. See 5 CFR 332.322 for more details.
+* A person who was unable to file for an open competitive examination or appear for a test because of
+service in the Armed Forces or hospitalization continuing for up to 1 year following discharge
+may file after the closing date if the register of eligibles still exists.
+* A Federal employee who was unable to file for an open competitive examination or appear for a test
+because of active Reserve duty continuing beyond 15 days may file after the closing date of an existing
+register.
+5 U.S.C. 3305, 3314, 3315, and 5 CFR 332.311, 332.312, 332.321, 332.322
+
+Excepted Service Employment
+The Veterans' Preference Act requires an appointing authority in the executive branch to select from among
+qualified applicants for appointment to excepted service vacancies in the same manner and under the same
+conditions required for the competitive service by 5 U.S.C. 3308-3318. Appointments made with the advice
+and consent of the Senate are exempt.
+
+Excepted Service Procedures for Pass Over of 30 Percent or More Disabled Veterans
+In light of the decision of the United States Court of Appeals for the Federal Circuit in Gingery v. Department
+of Defense, an agency that wishes to pass over any preference eligible with a compensable, service-connected
+disability of 30 percent or more who has applied for a position in the excepted service subject to the
+appointment procedures in 5 CFR Part 302 must send its request to OPM for adjudication. (Part 302
+procedures apply only to excepted service positions covered under title 5, United States Code, which have
+been excepted from the competitive service by the President or by OPM.)
+This does not apply to hiring for positions (e.g., attorneys) exempt from part 302 procedures pursuant to 5
+CFR 302.101(c). The Gingery panel did not overrule Patterson v. Department of Interior, which sustained
+section 302.101(c), and OPM's adoption of the standard that agencies filling positions that are exempt from
+Part 302 requirements need only follow the principle of veterans' preference as far as administratively
+feasible, i.e., consider veteran status as a positive factor when reviewing applications.
+Office of Personnel Management regulations governing the application of Veterans' preference in excepted
+appointments are in 5 CFR Part 302.
+5 U.S.C. 3320 and 5 CFR Part 302
+
+Administration and Enforcement of Veterans' Preference
+Office of Personnel Management (OPM) is charged with prescribing and enforcing regulations for the
+administration of Veterans' preference in the competitive service in executive agencies. OPM is charged with
+prescribing regulations for the administration of Veterans' preference in the excepted service in executive
+agencies. Agencies themselves are generally responsible for enforcement.
+5 U.S.C. 1302
+
+Veterans' Preference in Reduction in Force
+Veterans have advantages over nonveterans in a reduction in force (RIF). Also, special provisions apply in
+determining whether retired military members receive preference in RIF and whether their military service
+is counted. This chapter deals with RIF in the competitive service; some, but not all, of the provisions apply
+in the excepted service.
+
+Eligibility for Veterans' Preference in RIF
+Determinations of Veterans' preference eligibility are made in accordance with the information under
+Preference in Appointments in Chapter 2, except that a retired member of a uniformed service must
+meet an additional condition to be considered a preference eligible for RIF purposes. This condition differs
+depending on the rank at which the individual retired from the uniformed service. Uniformed service as
+defined in 5 United States Code (U.S.C.) 2101 means the Armed Forces, the commissioned corps of the
+Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric
+Administration.
+Retirees below the rank of major (or equivalent) get preference if:
+* Retirement from the uniformed service is based on disability that either resulted from injury or
+disease received in the line of duty as a direct result of armed conflict, or was caused by an
+instrumentality of war and was incurred in the line of duty during a period of war as defined in section
+101(11) of title 38, U. S. C. "Period of war" includes World War II, the Korean conflict, Vietnam era, the
+Persian Gulf War, or the period beginning on the date of any future declaration of war by the Congress
+and ending on the date prescribed by Presidential proclamation or concurrent resolution of the
+Congress; or
+* The employee's retired pay from a uniformed service is not based on 20 or more years of full-time
+active service, regardless of when performed but not including periods of active duty for training; or
+* The employee has been continuously employed in a position covered by the 5 U.S.C. chapter 35 since
+November 30, 1964, without a break in service of more than 30 days.
+Retirees at or above the rank of major (or equivalent) get preference if they are disabled veterans as
+defined in 5 U.S.C. 2108(2) (includes XP, CP, and CPS) and also meet one of the criteria above for a person
+retired below the rank of major.
+A preference eligible who at age 60 becomes eligible as a reservist for retired pay under 10 U.S.C. chapter
+1223 (previously chapter 67) and who retires at or above the rank of major (or equivalent) is considered a
+preference eligible for RIF purposes at age 60 only if he or she is a disabled veteran as defined in 5 U.S.C.
+2108(2) (includes categories XP, CP, and CPS). Receipt of retired pay under chapter 1223 meets the
+requirement that retired pay not be based on 20 or more years of full-time active service. Eligibility for
+retired reservist pay occurs at age 60; up to that time a reservist is not considered a retired member of a
+uniformed service and, if otherwise eligible, is a preference eligible for reduction in force purposes.
+5 U.S.C. 3501, 3502; 5 CFR 351.501
+
+RIF Retention Standing
+Employees are ranked on retention registers for competitive levels (groups of similar jobs) based on four
+factors: tenure, Veterans' preference, length of service, and performance.
+First they are placed in Tenure Group I, II, or III, depending on their type of appointment. Within each
+group, they are placed in a subgroup based on their veteran status:
+* Subgroup AD includes each preference eligible who has a compensable service-connected disability of
+30 percent or more.
+* Subgroup A includes all other preference eligibles not in Subgroup AD, including employees with
+derived preference (see Chapter 2).
+* Subgroup B includes all employees not eligible for Veterans' preference.
+Within each subgroup, employees are ranked in descending order by the length of their creditable Federal
+civilian and military service, augmented by additional service according to the level of their performance
+ratings.
+When a position in a competitive level is abolished, the employee affected (released from the competitive
+level) is the one who stands the lowest on the retention register. Because veterans are listed ahead of
+nonveterans within each tenure group, they are the last to be affected by a RIF action.
+Employees are not subject to a reduction in force while they are serving in the uniformed services. After
+return from active duty, they are protected from RIF action. If they served for more than 180 days, they may
+not be separated by RIF for 1 year after their return. If they served for more than 30 but less than 181 days,
+they may not be separated by RIF for 6 months.
+5 U.S.C. 3502; 5 CFR 351.404(a), 351.606(a), and Subpart E
+
+Assignment Rights (Bump and Retreat)
+When an employee in Tenure Group I or II with a minimally successful performance rating is released from
+a competitive level within the competitive area where the RIF takes place, he or she is entitled under certain
+circumstances to displace another employee with lower retention standing. The superior standing of
+preference eligibles gives them an advantage in being retained over other employees. These displacement
+actions apply to the competitive service although an agency may, at its discretion, adopt similar provisions
+for its excepted employees.
+Bumping
+An employee may bump in the same competitive area to a position no more than three grades (or
+grade intervals) lower than the position from which the employee is released that is held by an
+employee in a lower group or subgroup.
+Retreating
+An employee may retreat in the same competitive area to a position held by another employee with
+lower retention standing in the same tenure group and subgroup that is essentially identical to one
+previously held by the retreating employee and is no more than three grades (or grade
+intervals) lower than the position from which the employee is released.
+A preference eligible with a compensable service-connected disability of 30 percent or more
+may retreat to a position up to five grades (or grade intervals) lower.
+An employee with an unacceptable performance rating has no right to bump or retreat.
+An employee with a performance rating of minimally successful may retreat only to positions held by an
+employee with the same or lower rating.
+
+Qualifications
+In reviewing the qualifications of a preference eligible to determine assignment rights in a RIF, the agency
+must waive requirements as described under Physical Qualifications in Chapter 2. If the veteran involved
+has a 30 percent or more compensable disability, special procedures apply as described under
+Disqualification of 30 Percent or more Disabled Veterans in Chapter 2. OPM must approve the sufficiency
+of the agency's reasons to medically disqualify a 30 percent or more compensably disabled veteran for
+assignment to another position in a RIF.
+5 U.S.C. 3502, 3504; 5 CFR Part 351, Subpart G, and Part 339
+
+Appeal of RIF Actions
+An employee who has been furloughed, separated, or demoted by RIF action has the right to appeal the
+action to the Merit Systems Protection Board except when a negotiated procedure must be used. Assignment
+to a position at the employee's same grade or representative rate is not appealable. Appeals must be filed
+during the period beginning on the day after the effective date of the RIF action and ending 30 days after the
+effective date. Time limits for filing a grievance under a negotiated procedure are contained in the negotiated
+agreement.
+5 CFR 351.901, Part 1201
+
+Reemployment Priority for Separated Employees
+After a RIF, separated competitive service employees in tenure groups I and II are listed on the agency's
+Reemployment Priority List. The agency generally may not hire from most outside sources when qualified
+employees are on the List. In hiring from the List, preference eligibles receive preference over other
+employees. Excepted service employees separated by RIF receive similar priority in excepted employment.
+5 U.S.C. 3315; 5 CFR Part 330, Subpart B, and Part 302
+
+Miscellaneous Provisions Pertaining to Veterans
+
+Jobs Restricted to Preference Eligibles
+Appointment through competitive examination and "outside the register" procedures for positions of guards,
+elevator operators, messengers, and custodians are restricted to preference eligibles when they are available.
+5 U.S.C. 3310; 5 CFR Part 330, Subpart D
+
+Reinstatement
+Preference eligibles, including those with derived preference, who served under career or career-conditional
+appointment for any period of time have lifetime reinstatement eligibility to any competitive service position
+for which qualified. They have this eligibility regardless of whether their Armed Forces service occurred
+before or after career or career-conditional appointment. Competition under the agency's merit promotion
+plan is required if the position is at a higher grade level or has more promotion potential than a position
+previously held.
+5 U.S.C. 3316; 5 CFR Part 315, Subpart D
+
+180-Day Restriction on Department Of Defense (DOD) Employment of Military Retirees
+A retired member of the Armed Forces may not be appointed to a civilian position in DOD (including a
+nonappropriated fund position) within 180 days after retirement unless:
+* the Secretary concerned authorizes the appointment; or
+* the position is authorized special pay under 5 U.S.C. 5305; or
+* a state of national emergency exists.
+Although the Office of Personnel Management (OPM) approval is required by law, OPM has delegated the
+authority to DOD to make these determinations.
+5 U.S.C. 3326; no regulation
+
+Reduction in Military Retired Pay (Repealed)
+On October 5, 1999, President Clinton signed the National Defense Authorization Act for Fiscal Year 2000
+(P.L.106-65). Section 651 of this law repeals section 5532 of title 5, United States Code. This action ends the
+reductions in retired or retainer pay previously required of retired members of a uniformed service who are
+employed in a civilian office or position of the U.S. Government. This repeal is effective retroactively to
+October 1, 1999.
+The repeal ends two former reductions in military retired pay that applied to some Federal employees:
+* the pay cap that limited the combined total of Federal civilian basic salary plus military retired pay to
+$110,700 (Executive Level V) for all Federal employees who are retirees of a uniformed service; and
+* the partial reduction in retired pay required of retired officers of a regular component of a uniformed
+service.
+As a consequence of the repeal, prior exceptions and waivers to these reductions approved by OPM, or by
+agencies under delegated authority, are no longer needed effective October 1, 1999.
+The uniformed services finance centers are responsible for making all adjustments in military retired or
+retainer pay for current Federal employees.
+
+Affirmative Action for Certain Veterans Under Title 38
+Section 4214 of title 38, U.S.C., was enacted as part of the Veterans Readjustment Appointment Act of 1974.
+This act placed into law the provisions of the executive order that authorized the noncompetitive
+appointment of Vietnam era veterans under Veterans Readjustment Appointment (VRA), now known as
+Veterans Recruitment Appointments.
+The law also requires a separate affirmative action program for disabled veterans as defined in 38 U.S.C.
+4214. The program is part of agency efforts to hire, place, and advance persons with disabilities under the
+Rehabilitation Act of 1973 [29 U.S.C. 791(b)]. Title 38 does not provide any preference for veterans;
+preference is provided only under title 5, U.S.C. Rather, section 4214 calls upon agencies to:
+* provide placement consideration under special noncompetitive hiring authorities for VRA eligibles
+and 30 percent or more disabled veterans; and
+* ensure that all veterans are considered for employment and advancement under merit system rules;
+and
+* establish an affirmative action plan for the hiring, placement, and advancement of disabled veterans.
+38 U.S.C. 4214; 5 CFR Part 720, Subpart C
+
+Service Credit
+
+Service Credit for Leave Rate Accrual and Retirement
+Not Retired from Uniformed Service
+For non-retired members, full credit for uniformed service (including active duty and active duty for
+training) performed under honorable conditions is given for leave accrual purposes, and for retirement
+purposes provided a deposit, as required by law, is made to the retirement fund. Uniformed service as
+defined in 5 U.S.C. 2101 means the Armed Forces, the commissioned corps of the Public Health Service, and
+the commissioned corps of the National Oceanic and Atmospheric Administration.
+Veterans first employed in a position covered by the Civil Service Retirement System (CSRS) on or after
+October 1, 1982, or in a position covered by the Federal Employee Retirement System (FERS) on or after
+January 1, 1984, must make a deposit to the retirement fund of 7 percent (for CSRS) or 3 percent (for
+FERS) of basic military pay to obtain retirement credit.
+Veterans employed in civil service positions before October 1, 1982, have the option of either making a
+deposit to cover their military service or having their civil service annuity recomputed to delete post-1956
+military service if they are eligible for social security at age 62.
+If civilian service is interrupted by uniformed service, special rules apply (see Chapter 7, Restoration After
+Uniformed Service).
+
+Retired from Uniformed Service
+Credit for uniformed service is substantially limited for retired members. In enacting the Dual Compensation
+Act in 1964, Congress adopted a compromise between the view that retired members should receive
+preference and full credit for their service and the view that there should be no advantage for retired
+members.
+
+For leave accrual, retirees receive credit only for:
+* actual service during a war declared by Congress (includes World War II covering the period
+December 7, 1941, to April 28, 1952) or while participating in a campaign or expedition for which a
+campaign badge is authorized; or
+* all active duty when retirement was based on a disability received as a direct result of armed conflict or
+caused by an instrumentality of war and incurred in the line of duty during a period of war as defined
+in 38 U.S.C. 101(11). "Period of war" includes World War II, the Korean conflict, Vietnam era, the
+Persian Gulf War, or the period beginning on the date of any future declaration of war by the Congress
+and ending on the date prescribed by Presidential proclamation or concurrent resolution of the
+Congress.
+
+For retirement:
+An employee must waive military retired pay to receive any credit for military service unless the retired pay
+is awarded based on a service-connected disability incurred in combat with an enemy of the United States or
+caused by an instrumentality of war and incurred in the line of duty during a period of war as defined by 38
+U.S.C. 301, or awarded under 10 U.S.C. chapter 1223 (previously chapter 67).
+5 U.S.C. 6303, 8332 and 8411(c); and the CSRS and FERS Handbook
+
+Creditable Service for RIF -- Not Retired from Uniformed Service
+Total time in active service in the Armed Forces, including active duty and active duty for training as defined
+in 37 U.S.C. 101, is credited for reduction in force purposes for those who are not retired members,
+regardless of the type of discharge.
+If civilian service is interrupted by uniformed service, special rules apply (see Chapter 5 on "Restoration
+After Uniformed Service").
+
+Creditable Service for RIF--Retired from Uniformed Service
+Credit for uniformed service is substantially limited for retired members. In enacting the Dual Compensation
+Act in 1964, Congress adopted a compromise between the view that retired members should receive
+preference and full credit for their service and the view that there should be no advantage for retired
+members. Thus, retirees receive credit only as follows:
+* A uniformed services retiree who is a preference eligible for RIF purposes receives service credit for all
+active duty. Other retirees receive service credit only for active duty during a war as defined in Chapter
+2, or service in a campaign or expedition for which a campaign badge has been authorized. See
+Eligibility for Veterans Preference in RIF in this chapter to determine if a retiree is a preference
+eligible for RIF purposes.
+5 U.S.C. 3501, 3502; 5 CFR 351.501(d), 351.503
+
+Creditable Service for Severance Pay
+In computing the amount of severance pay a separated employee receives, credit is given only for military
+service performed by an employee who returns to civilian service by exercising a restoration right under law,
+executive order, or regulation. Military service performed prior to an individual's Federal civilian service is
+not creditable for severance pay purposes.
+5 U.S.C. 5595; 5 CFR 550.708
+
+Special Appointing Authorities for Veterans
+
+Veterans Recruitment Appointment (VRA) Authority
+The VRA is a special authority by which agencies can, if they wish, appoint eligible veterans without
+competition to positions at any grade level through General Schedule (GS) 11 or equivalent. (The promotion
+potential of the position is not a factor.) VRA appointees are hired under excepted appointments to positions
+that are otherwise in the competitive service. There is no limitation to the number of VRA appointments an
+individual may receive, provided the individual is otherwise eligible.
+If the agency has more than one VRA candidate for the same job and one (or more) is a preference eligible,
+the agency must apply the Veterans' preference procedures prescribed in 5 CFR Part 302 in making VRA
+appointments. A veteran who is eligible for a VRA appointment is not automatically eligible for Veterans'
+preference.
+After two years of satisfactory service, the agency must convert the veteran to career or career-conditional
+appointment, as appropriate.
+
+Eligibility Criteria:
+The Jobs for Veterans Act, Public Law 107-288, amended title 38 U.S.C. 4214 by making a major change in
+the eligibility criteria for obtaining a Veterans Recruitment Appointment (VRA). Those who are eligible:
+* Disabled veterans; or
+* Veterans who served on active duty in the Armed Forces during a war, or in a campaign or expedition
+for which a campaign badge has been authorized; or
+* Veterans who, while serving on active duty in the Armed Forces, participated in a United States
+military operation for which an Armed Forces Service Medal was awarded; or
+* Recently separated veterans.
+Veterans claiming eligibility on the basis of service in a campaign or expedition for which a medal was
+awarded must be in receipt of the campaign badge or medal.
+In addition to meeting the criteria above, eligible veterans must have been separated under honorable
+conditions (i.e., the individual must have received either an honorable or general discharge).
+Note: Under the eligibility criteria, not all 5-point preference eligible veterans may be eligible for a VRA
+appointment. For example, a veteran who served during the Vietnam era (i.e., for more than 180 consecutive
+days, after January 31, 1955, and before October 15, 1976) but did not receive a service-connected disability
+or an Armed Forces Service medal or campaign or expeditionary medal would be entitled to 5 pt. veterans'
+preference. This veteran, however, would not be eligible for a VRA appointment under the above criteria.
+As another example, a veteran who served during the Gulf War from August 2, 1990, through January 2,
+1992, would be eligible for veterans' preference solely on the basis of that service. However, service during
+that time period, in and of itself, does not confer VRA eligibility on the veteran unless one of the above VRA
+eligibility criteria is met.
+Lastly, if an agency has 2 or more VRA candidates and 1 or more is a preference eligible, the agency must
+apply Veterans' preference. For example, one applicant is VRA eligible on the basis of receiving an Armed
+Forces Service Medal (this medal does not confer veterans' preference eligibility). The second applicant is
+VRA eligible on the basis of being a disabled veteran (which does confer veterans' preference eligibility). In
+this example, both individuals are VRA eligible but only one of them is eligible for Veterans' preference. As a
+result, agencies must apply the procedures of 5 CFR 302 when considering VRA candidates for appointment.
+
+Making Appointments
+Ordinarily, an agency may simply appoint any VRA eligible who meets the basic qualifications requirements
+for the position to be filled without having to announce the job or rate and rank applicants. However, as
+noted, Veterans' preference applies in making appointments under the VRA authority. This means that if an
+agency has 2 or more VRA candidates and 1 or more is a preference eligible, the agency must apply Veterans'
+preference. Furthermore, an agency must consider all VRA candidates on file who are qualified for the
+position and could reasonably expect to be considered for the opportunity; it cannot place VRA candidates in
+separate groups or consider them as separate sources in order to avoid applying preference or to reach a
+favored candidate.
+
+Terms and Conditions of Employment
+A VRA appointee may be promoted, demoted, reassigned, or transferred in the same way as a career
+employee. As with other competitive service employees, the time in grade requirement applies to the
+promotion of VRAs. If a VRA-eligible employee is qualified for a higher grade, an agency may, at its
+discretion, give the employee a new VRA appointment at a higher grade up through GS-11 (or equivalent)
+without regard to time-in-grade.
+Agencies must establish a training or education program for any VRA appointee who has less than 15 years
+of education. This program should meet the needs of both the agency and the employee.
+
+Appeal Rights
+During their first year of employment, VRA appointees have the same limited appeal rights as competitive
+service probationers, but otherwise they have the appeal rights of excepted service employees. This means
+that VRA employees who are preference eligibles have adverse action protections after one year (see Chapter
+7). VRA's who are not preference eligibles do not get this protection until they have completed 2 years of
+current continuous employment in the same or similar position.
+
+Nonpermanent Appointment Based on VRA Eligibility
+Agencies may make a noncompetitive temporary or term appointment based on an individual's eligibility for
+VRA appointment. The temporary or term appointment must be at the grades authorized for VRA
+appointment but is not a VRA appointment itself and does not lead to conversion to career-conditional.
+38 U.S.C. 4214; Pub. L. 107-288; 5 CFR Part 307; 5 CFR 752.401 (c)(3)
+
+30 Percent or More Disabled Veterans
+An agency may give a noncompetitive temporary appointment of more than 60 days or a term appointment
+to any veteran:
+* retired from active military service with a disability rating of 30 percent or more; or
+* rated by the Department of Veterans Affairs (VA) since 1991 or later to include disability
+determinations from a branch of the Armed Forces at any time, as having a compensable serviceconnected disability of 30 percent or more.
+There is no grade level limitation for this authority, but the appointee must meet all qualification
+requirements, including any written test requirement.
+The agency may convert the employee, without a break in service, to a career or career-conditional
+appointment at any time during the employee's temporary or term appointment.
+5 U.S.C. 3112; 5 CFR 316.302, 316.402 and 315.707
+
+Disabled Veterans Enrolled in a VA Training Program
+Disabled veterans eligible for training under the VA vocational rehabilitation program may enroll for
+training or work experience at an agency under the terms of an agreement between the agency and VA.
+While enrolled in the VA program, the veteran is not a Federal employee for most purposes but is a
+beneficiary of the VA.
+Training is tailored to the individual's needs and goals, so there is no set length. If the training is intended to
+prepare the individual for eventual appointment in the agency rather than just provide work experience,
+the agency must ensure that the training will enable the veteran to meet the qualification requirements for
+the position.
+Upon successful completion, the host agency and VA give the veteran a Certificate of Training showing the
+occupational series and grade level of the position for which trained. The Certificate of Training allows any
+agency to appoint the veteran noncompetitively under a status quo appointment which may be converted to
+career or career-conditional at any time.
+38 U.S.C. chapter 31; 5 CFR 3.1 and 315.604
+
+Veterans Employment Opportunities Act of 1998 (VEOA)
+The Veterans Employment Opportunities Act (VEOA) of 1998 as amended by Section 511 of the Veterans
+Millennium Health Care Act (Pub. Law 106-117) of November 30, 1999, provides that agencies must allow
+preference eligibles or eligible veterans to apply for positions announced under merit promotion procedures
+when the agency is recruiting from outside its own workforce. ("Agency," in this context, means the parent
+agency, i.e., Treasury, not the Internal Revenue Service and the Department of Defense, not Department of
+the Army.) A VEOA eligible who competes under merit promotion procedures and is selected will be given a
+career or career conditional appointment. Veterans' preference is not a factor in these appointments.
+
+Eligibility Requirements
+To be eligible for a VEOA appointment, an applicant must:
+* Be a preference eligible OR veteran separated from the armed forces after 3 or more years of
+continuous active service performed under honorable conditions. Veterans who were released shortly
+before completing a 3-year tour are considered to be eligible. ("Active service" defined in title 37,
+United States Code, means active duty in the uniformed services and includes full-time training duty,
+annual training duty, full-time National Guard duty, and attendance, while in the active service, at a
+school designated as a service school by law or by the Secretary of the military department concerned).
+
+Terms and Conditions of Employment
+Veterans who were appointed before the 1999 amendments to the VEOA were given Schedule B
+appointments in the excepted service. Those veterans who actually competed under merit promotion
+procedures will be converted to career conditional appointments retroactive to the date of their original
+VEOA appointments. Those who did not compete and were appointed noncompetitively will remain under
+Schedule B until they do compete. While under Schedule B, these employees may be promoted, demoted, or
+reassigned at their agency's discretion and may compete for jobs (whether in their own or other agencies)
+under the terms and conditions of the VEOA authority -- i.e., they may apply when the agency has issued a
+merit promotion announcement open to candidates outside the agency. If selected, they, too, will be given
+career conditional appointments.
+All employees appointed under the VEOA are subject to a probationary period and to the requirements of
+their agency's merit promotion plan.
+Agencies should use ZBA-Pub. L. 106-117, Sec 511 as the legal authority for any new appointments under the
+VEOA. This new authority code is effective December 1, 1999, and may be used with nature of action codes
+100, 101, 500, and 501.
+
+Appeal Rights
+Employees who are appointed in the competitive service have the appeal rights of competitive service
+employees. Those under Schedule B have the appeal rights of excepted service employees.
+
+A Word About VEOA
+The VEOA gives preference eligibles or veterans access and opportunity to apply for positions for which the
+agency is accepting applications beyond its own workforce under merit promotion procedures. Access and
+opportunity are not an entitlement to the position and it is not a guarantee for selection.
+Agencies announcing a position outside their workforces have three options for posting their vacancy
+announcements. Agencies can:
+Post a merit promotion "internal" vacancy announcement. When posting a merit promotion
+announcement, the agency must include information concerning consideration under the VEOA. This option
+meets the intent of the law that allows preference eligibles or veterans to compete with "status" candidates
+for these vacancies announced under merit promotion procedures.
+VEOA eligibles are rated and ranked with other merit promotion candidates under the same assessment
+criteria such as a crediting plan; however, veterans' preference is not applied. The appointing official may
+select any candidate from those who are among the best qualified. If selected, the VEOA eligible is given a
+career or career-conditional appointment, as appropriate.
+Post a Delegated Examining Unit (DEU) "external" vacancy announcement for "all sources."
+By posting the announcement as "all sources," that the VEOA eligible is treated in the same manner as any
+other applicant. If the VEOA eligible is qualified and within reach for referral, he or she is referred on the
+DEU list of eligibles.
+With an "all sources" announcement, most agencies consider applicants under a variety of other appointing
+authorities, such as, merit promotion, Veterans' Recruitment Appointment (VRA) or Schedule A of the
+excepted service. If the agency chooses to consider VEOA eligibles with the merit promotion candidates, the
+agency must include specific application instructions for the VEOA eligible in the vacancy announcement
+that are consistent with the agency's policies and procedures for accepting and processing applications.
+* Post two separate vacancy announcements - DEU and merit promotion. The VEOA eligible
+may apply for both announcements since the agency posted the vacancy announcements separately.
+The VEOA eligible is given two opportunities to be considered for one position and must be referred
+and considered on both lists, if eligible under the applicable procedures. The agency cannot remove
+the VEOA eligible from either list to make a selection. This means the agency may not deny
+consideration under one referral, e.g., DEU, because the VEOA eligible is being considered under a
+different referral, e.g., merit promotion.
+
+Questions and Answers
+* Do the amendments made by Pub. L. 106-117 mean that agencies may no longer use
+authority code YKB/SchB 213.3202(n) to appoint eligible veterans under the Veterans
+Employment Opportunities Act of 1998 (VEOA)?
+As of the date of enactment of the new amendments (November 30, 1999), agencies should not make
+any new appointments under the Schedule B authority. However, we are allowing a 1-month grace
+period to cover any appointments under the Schedule B authority that may already have been in
+progress.
+* If VEOA-eligible veterans should no longer be appointed under the above Schedule B
+authority, how are they appointed?
+The law provides that preference eligibles or eligible veterans who compete under agency Merit
+Promotion procedures open to candidates outside the agency ("agency" in this context means the
+parent agency such as Treasury, not IRS), and who are selected from among the best qualified, shall
+receive a career or career conditional appointment, as appropriate. Agencies should use the authority
+ZBA-Pub.L. 106-117, Sec 511 for these appointments.
+* What happens to veterans who were appointed under Schedule B?
+Agencies should first determine whether their Schedule B appointees actually competed under Merit
+Promotion procedures or were selected noncompetitively as a separate source of eligibles.
+Those veterans who competed under agency Merit Promotion procedures are to be converted to career
+conditional (or career) retroactive to the date of their original appointments. These individuals will
+have been serving probation as of the original date of their appointments and this must be made clear
+to the employees.
+Those veterans who did not compete under an agency Merit Promotion announcement and were given
+a Schedule B appointment noncompetitively, remain under Schedule B until such time as they can be
+appointed based on competition ? either under Merit Promotion procedures open to candidates
+outside the agency or through an open competitive announcement. Because an employee may remain
+under the Schedule B authority until such time as he or she is selected competitively, we are leaving
+the authority in place indefinitely; he or she may not be required to compete for a career conditional position.
+* Did the new amendments change the eligibility criteria for appointment under the
+VEOA?
+Yes. Prior to these amendments, a veteran had to be either a preference eligible or have at least 3 years
+of continuous active duty military service in order to qualify for appointment under the VEOA. The
+new amendments provide that OPM is authorized to regulate the circumstances under which
+individuals who were released from active duty "shortly before completing 3 years of active duty" may
+be appointed. In our interim regulations implementing this provision, we are proposing to use the
+term "substantially completed an initial 3-year term." Agencies will then decide, in individual cases,
+whether a candidate has met this standard. In general, most individuals completing an initial 3-year
+military tour are typically released a few days early. These individuals, if otherwise qualified, should be
+considered eligible.
+* Does Veterans' preference apply to appointments under the VEOA?
+No. Veterans preference does not apply to merit promotion actions.
+* Are eligible veterans permitted to apply for vacancies that are open to CTAP candidates
+only?
+No. Since CTAP is limited to internal agency candidates, VEOA eligibles may not apply.
+* Are eligible veterans permitted to apply for vacancies that are open to ICTAP candidates
+only?
+Yes. Since ICTAP is open to candidates outside the agency, the law requires that VEOA eligibles be
+allowed to apply.
+* Do VEOA appointees serve a probationary period?
+Yes. Since they are appointed in the competitive service, they are subject to a probationary period.
+Please note, however, that for those employees converted from the Schedule B authority, prior service
+counts towards completion of probation provided it is in the same agency, same line of work, and
+without a break in service. Where applicable, agencies must inform individuals that their original
+appointment under the VEOA authority marked the beginning of a probationary period.
+* Can VEOA candidates be considered for temporary and term positions?
+No. Because VEOA mandates that eligible veterans be given career or career conditional
+appointments, temporary or term appointments cannot be offered.
+* Can a current career/career conditional employee who lacks time-in-grade apply as a
+VEOA candidate under an agency merit promotion announcement?
+No. Such an employee remains subject to time-in-grade restrictions. The VEOA is not a
+noncompetitive-entry authority like the VRA where an employee could be given a new appointment at
+a higher grade.
+* Can a current career/career conditional employee who meets time-in-grade and
+eligibility requirements apply as a VEOA candidate under an agency merit promotion
+announcement and, if selected, be given a new career/career conditional appointment
+using the VEOA appointing authority?
+Yes. Currently, a career/career conditional employee who meets time-in-grade and eligibility
+requirements would be able to apply directly to a merit promotion announcement without the need to
+use the VEOA authority. However, under the plain language of the VEOA, the law would allow current
+career/career conditional Federal employees who are preference eligibles or veterans meeting the
+eligibility criteria of the vacancy announcement to apply to those positions advertised under an
+agency's merit promotion procedures when seeking candidates from outside its own workforce. The
+term preference eligibles is defined in title 5, United States Code section 2108.
+* Can a current career/career conditional employee who meets time-in-grade and
+eligibility requirements apply as a VEOA candidate under an agency merit promotion
+announcement when he or she is outside the stated area of consideration?
+Yes. A career/career conditional employee who meets time-in-grade and eligibility requirements
+would be able to apply using VEOA to a merit promotion announcement when outside the stated area
+of consideration.
+* Can a preference eligible or eligible veteran who is outside the agency merit promotion
+announcement's area of consideration apply as a VEOA candidate?
+Yes. A preference eligible or eligible veteran would be able to apply using VEOA to a merit promotion
+announcement even though he or she is outside the vacancy announcement's area of consideration.
+* We understand that VEOA eligibles are expected to compete with agency merit
+promotion eligibles under the agency's merit promotion plan. But, is the agency
+expected to create a different crediting plan for considering VEOA candidates?
+No. VEOA candidates are considered along with agency candidates, and under the same crediting
+plan.
+* To be eligible for an appointment under the VEOA authority, a veteran must be
+"separated" from the service. Does this mean that he or she cannot apply and be
+considered until actually separated?
+No. Whether or not to consider someone who is still in the military is entirely at the discretion of the
+employing agency. By law, a person on military duty cannot be appointed to a civilian position (unless
+on terminal leave), but he or she can certainly be considered should the agency wish to do so. The
+determining factor, here, should be whether the person will be available when the agency needs to
+have the job filled.
+5 U.S.C. 3304, 3330; 5 CFR 213.3202 (n) and 335.106
+
+Restoration after Uniformed Service
+
+Basic Entitlement
+Any Federal employee, permanent or temporary, in an executive agency other than an intelligence agency,
+but including the U.S. Postal Service, Postal Rate Commission, and nonappropriated fund activity, who
+performs duty with a uniformed service (including active duty, active duty for training, or inactive duty
+training), whether voluntary or involuntary, is entitled to be restored to the position he or she would have
+attained had the employee not entered the uniformed service, provided the employee:
+* gave the agency advance notice of departure except where prevented by military circumstances; and
+* was released from uniformed service under honorable conditions; and
+* served no more than a cumulative total of 5 years (exceptions are allowed for training and involuntary
+active duty extensions, and to complete an initial service obligation of more than 5 years); and
+* applies for restoration within the appropriate time limits.
+Employees in the intelligence agencies have substantially the same rights, but are covered under agency
+regulations rather than the Office of Personnel Management's (OPM) and have different appeal rights.
+While on duty with the uniformed services, the agency carries the employee on leave without pay unless the
+employee requests separation. A separation under these circumstances does not affect restoration rights.
+Uniformed service as defined in 38 United States Code (U.S.C.) 4303(16) means the Armed Forces; the Army
+and Air National Guard when engaged in active duty for training, inactive duty training, or full-time National
+Guard duty; the commissioned corps of the Public Health Service; and any other category of persons
+designated by the President in time of war or emergency.
+Title 38 U.S.C. chapter 43; 5 CFR Part 353
+
+Advising Employees / Resolving Employment Conflicts
+Agencies must tell employees who enter the service about their entitlements, obligations, benefits, and
+appeal rights.
+Employees in a Reserve component have an obligation both to the military and to their civilian employers.
+Because of military downsizing, the Reserves are being used increasingly to complement the active duty
+component on operational missions that go beyond week-end drills and summer training. As a result, some
+conflict may be unavoidable and good-faith efforts by the employee and the agency are needed to resolve any
+differences.
+Agencies may not question the timing, frequency, duration, and nature of the uniformed service, but
+employees are obligated to try to minimize the agency's burden. For example, Department of Defense (DOD)
+directives provide that it is DOD policy for Reserve component members to give their employer as much
+advance written notice as practicable of any pending military duty.
+When there is a conflict between the Reserve duty and the legitimate needs of the agency, the agency may
+contact appropriate military authorities (typically, the unit commander) to express concern or to determine
+if the military service could be rescheduled or performed by another member. If military authorities
+determine that the service is necessary, the agency is required to permit the employee to go.
+
+Time Limits
+Employees who served in the uniformed services:
+* Less than 31 days (or who leave to take a fitness exam for service) must report back to work at the
+beginning of the next regularly scheduled work day following their completion of service and the
+expiration of 8 hours after a time for safe transportation back to the employee's residence.
+* More than 30 but less than 181 days must apply for reemployment no later than 14 days after
+completion of service.
+* More than 180 days have 90 days after completion of service to apply for restoration.
+Employees who fail to meet these time limits are subject to disciplinary action.
+Agencies must reemploy as soon as practicable, but no later than 30 days after receiving the
+application. Agencies have the right to ask for documentation showing the length and
+character of the employee's service and the timeliness of the application.
+
+Positions to Which Restored
+Employees who served less than 91 days must be placed in the position for which qualified that they
+would have attained had their employment not been interrupted. If not qualified for such position after
+reasonable efforts by the agency to qualify the person, the employee is entitled to be placed in the position he
+or she left.
+Employees who served more than 90 days have essentially the same rights as described above except
+that the agency has the option of placing the employee in a position for which qualified of like seniority,
+status, and pay.
+Employees with service-connected disabilities who are not qualified for the above must be
+reemployed in a position that most closely approximates the position they would have been entitled to,
+consistent with the circumstances in each case.
+Employees who were under time-limited appointments finish the unexpired portion of their
+appointments upon their return.
+
+Service Credit
+Upon restoration, employees are generally treated as though they had never left. This means that time spent
+in the uniformed services counts for seniority, within-grade increases, completion of probation, career
+tenure, retirement, and leave rate accrual. (Employees do not earn sick or annual leave while off the rolls or
+in a nonpay status.)
+To receive civil service retirement credit for military service, a deposit to the retirement fund is usually
+required to cover the period of military service. Only active, honorable military service is creditable for
+retirement purposes. If the employee is under the Civil Service Retirement System (CSRS), a deposit of 7
+percent of military basic pay (plus interest under certain conditions) is required. The deposit is 3 percent if
+the employee is under the Federal Employees Retirement System (FERS). However, these amounts may be
+different if:
+* the employee's creditable civilian service was interrupted by military duty; and
+* reemployment occurred pursuant to 38 U.S.C. chapter 43 on or after August 1, 1990.
+In such a situation, the contribution is either the above-prescribed amount or the amount of civilian
+retirement deductions which would have been withheld had the individual not entered uniformed service if
+this amount is less than the normal deposit for military service.
+National Guard Service - Special rules apply to crediting National Guard service.
+Prior to the enactment of Public Law 103-353 in October 1994, National Guard service was creditable
+military service for civil service retirement only when the National Guard was activated in the service of the
+United States.
+The 1994 law made full-time National Guard service (as defined by 10 U.S.C. 101(d)) which interrupted
+creditable Federal civilian employment under CSRS or FERS and was followed by restoration under chapter
+43 of title 38, U.S.C., on or after August 1, 1990, creditable as military service.
+
+OPM Placement
+If the employing agency is unable to reemploy an individual returning from duty with a uniformed service,
+OPM will order placement in another agency when:
+* OPM determines that it is impossible or unreasonable for an agency in the executive branch (other
+than an intelligence agency) to reemploy the person; or
+* an intelligence agency or an agency in the legislative or judicial branch notifies OPM that it is
+impossible or unreasonable to reemploy the person, and the person applies to OPM for placement
+assistance; or
+* a noncareer National Guard technician who is not eligible for continued membership in the Guard for
+reasons beyond his or her control applies to OPM for placement assistance.
+
+Employee Protections
+Employees are not subject to a reduction in force while they are serving in the uniformed services. If they
+served for more than 180 days, they may not be separated, except for cause, for 1 year after their return. If
+they served for more than 30 but less than 181 days, they may not be separated, except for cause, for 6
+months. (Reduction in force is not considered "for cause" under OPM's regulations.)
+The law expressly prohibits any kind of discrimination or act of reprisal against an applicant or employee
+because of his or her application, membership or service in the uniformed services.
+
+Paid Military Leave
+Each fiscal year, employees under permanent appointment are entitled to 15 days (120 hours) of military
+leave, with pay, to perform active duty, active duty training, or inactive duty training as a member of a
+Reserve component or National Guard. Reservists may use military leave to cover drill periods or to perform
+funeral honors duty since both are considered inactive duty training for the purposes of military leave. Parttime employees and employees on uncommon tours of duty are entitled to military leave pro-rated according
+to the number of hours in the regularly scheduled tour of duty, e.g., an employee who works 20 hours a week
+earns 7 days (56 hours) of military leave.
+Employees may carry over 15 (120 hours) days of unused military leave into a new fiscal year. Therefore,
+potentially they may have a total of 30 (240 hours) days to use in any one fiscal year. This means that
+Reservists whose military duty spans two fiscal years may use up to 45 days of military leave at one time.
+Military leave should be credited to a full-time employee on the basis of an 8-hour workday. The minimum
+charge to leave is 1 hour. An employee may be charged military leave only for hours that the employee would
+otherwise have worked and received pay. Employees who request military leave for inactive duty training
+(which generally is 2, 4, or 6 hours in length) are charged only the amount of military leave necessary to
+cover the period of training and necessary travel. Members of the Reserves or and National Guard are not
+charged military leave for weekends and holidays that occur within the period of military service.
+Upon request, an employee performing duty with the uniformed services is entitled to use either accrued
+annual leave or military leave for such service.
+5 U.S.C. 6323; Comptroller General opinions: B-227222 (11/05/78), B-211249 (09/20/83), and
+B-241272 (02/15/91)
+
+Life and Health Insurance
+The life insurance of an employee who takes leave without pay to enter the uniformed services continues for
+up to 12 months. If the employee separates, life insurance continues for up to 12 months, or 90 days after
+uniformed service ends, whichever is sooner. There is no cost to the employee for this extension of coverage.
+Employees who enter the uniformed services may elect to have their health insurance coverage continue
+for up to 12 months, and the employee continues to pay his or her share of the premium. Employees who
+remain in the uniformed services beyond 12 months may continue their health insurance for an additional 6
+months by paying 102 percent of the premium, i.e., the employee's share, the Government's share, and a 2
+percent administrative fee.
+5 CFR Parts 870.501 and 890.303, 304, 305, 502
+
+Thrift Savings
+Employees who perform uniformed service may make up any contributions to the thrift savings plan they
+missed because of such service.
+5 CFR Part 1620
+
+Special Redress And Appeals
+
+Adverse Actions
+Preference eligibles have protections against adverse actions, including demotion, suspension for more than
+14 days, furlough for 30 days or less, and removal. These protections include advance notice, a reasonable
+time to respond, representation by an attorney or other person, a final written decision, and an appeal right
+to the Merit Systems Protection Board.
+The law provides adverse action rights to preference eligibles of any rank who are:
+* under career or career-conditional appointment and not serving probation.
+* under competitive service appointments other than a temporary appointment not to exceed 1 year or
+less and who have completed 1 year of continuous service.
+* under excepted appointment in an executive agency, the U.S. Postal Service or the Postal Rate
+Commission and who have completed 1 year of current continuous service in the same or similar
+positions. Because the law also exempts certain categories of excepted employees, it is always
+necessary to check the law in specific cases.
+5 U.S.C. 2108 (4) chapters 43 and 75; 5 CFR Parts 432 and 752
+
+Reduction in Force
+Employees who believe that an agency has not complied with the law or with the Office of Personnel
+Management's (OPM) regulations governing reduction in force may appeal to the Merit Systems Protection
+Board as discussed in Chapter 3.
+5 CFR 351.901
+
+Restoration after Uniformed Service
+Applicants or employees who believe that an agency has not complied with the law or with OPM regulations
+governing the restoration rights of employees who perform duty with the uniformed services may file a
+complaint with the Department of Labor's local Veterans Employment and Training Service office or appeal
+directly to the Merit Systems Protection Board.
+38 U.S.C. chapter 43
+
+Other Actions
+The Veterans Employment Opportunities Act of 1998 allows preference eligibles to complain to the
+Department of Labor's Veteran's Employment and Training Service (VETS) when the person believes an
+agency has violated his or her rights under any statute or regulation relating to Veterans' preference.
+Under a separate Memorandum of Understanding (MOU) between OPM and Department of Labor, eligible
+veterans seeking employment who believe that an agency has not properly accorded them their Veterans'
+preference, failed to list jobs with State employment service offices as required by law, or failed to provide
+special placement consideration noted above, may file a complaint with the local Department of Labor VETS
+representative (located at State employment service offices). To be eligible to file a complaint under the
+MOU a veteran must:
+* have served on active duty for more than 180 days and have other than a dishonorable discharge;
+* have a service-connected disability; or
+* if a member of a Reserve component, have been ordered to active duty under sections 12301 (a), (d), or
+(g) of title 10, United States Code, or served on active duty during a period of war, or received a
+campaign badge or expeditionary medal (e.g., the Southwest Asia Service Medal).
+The Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA) prohibits
+discrimination in employment, retention, promotion, or any benefit of employment in the basis of a person's
+service in the uniformed services. Complaints under this law should also be filed with the local Department
+of Labor VETS representative (located at State employment service offices).
+Since a willful violation of a provision of law or regulation pertaining to Veterans' preference is a Prohibited
+Personnel Practice, a preference eligible who believes his or her Veterans' preference rights have been
+violated may file a complaint with the local Department of Labor VETS representative, as noted above.
+A disabled veteran who believes he or she has been discriminated against in employment because of his or
+her disability may file a handicapped discrimination complaint with the offending agency under regulations
+administered by the Equal Employment Opportunity Commission.
+Finally, since OPM is committed to ensuring that agencies carry out their responsibilities to veterans, any
+veteran with a legitimate complaint may also contact any OPM Service Center.
+Because there is considerable overlap in where and on what basis a complaint may be filed, a veteran should
+carefully consider his or her options before filing. Generally speaking, complaints on the same issue may not
+be filed with more than one party.
+Pub. L. 105-339; Title 38 U.S.C. 4103(c)(13) and (14); Interagency Advisory Group memo of
+1/18/94 from OPM to Directors of Personnel, subject: Special Employment Complaint
+Procedure for Veterans under 38 U.S.C. 4103.
+
+VetGuide Appendix A: Wars, Campaigns and Expeditions of the Armed Forces Since WW II
+Which Qualify for Veterans Preference
+War Service Creditable for Veterans Preference. In the absence of statutory definition for "war" and
+"campaign or expedition," OPM considers to be "wars" only those armed conflicts for which a declaration of
+war was issued by Congress. The title 38, U.S.C., definition of "period of war," which is used in determining
+benefits administered by the Department of Veterans Affairs, includes the Vietnam Era and other armed
+conflicts. That title 38 definition is NOT applicable for civil service purposes.
+Thus the last "war" for which active duty is qualifying for Veterans preference is World War II. The inclusive
+dates for World War II service are December 7, 1941, through April 28, 1952.
+Non-combat operations that are not qualifying for Veterans preference. Many medals are
+awarded for non-combat operations. These medals are not a basis for preference and include the following:
+* Global War on Terrorism Service Medal for service from September 11, 2001, to date to be determined.
+* The Medal of Merit for meritorious service in World War II.
+* The Medal of Freedom for meritorious achievements or meritorious service to the United States on or
+after December 7, 1941, in the war against an enemy outside the continental limits of the United
+States.
+* The Antarctica Service Medal for participating in a scientific, direct support, or exploratory operation
+on the Antarctic Continent.
+* The National Defense Service Medal for honorable service between June 27, 1950 and July 27, 1954 or
+January 1, 1961 and August 14, 1974; or for the period between August 2, 1990, and November 30,
+1995.
+* The Armed Forces Service Medal for participation in a United States military operation deemed to be a
+significant activity for which there was no threat of encounter of foreign armed opposition or
+imminent threat of hostile action.
+* The Armed Forces Reserve Medal for 10 years of honorable service in a Reserve component; or active
+duty service in a Reserve component on or after August 1, 1990; or volunteer service for active duty on
+or after August 1, 1990.
+Military Operations Since 1937 for Which a Campaign or Expeditionary Medal Has Been
+Awarded, Except for Operations Occurring During a Declared War
+Military personnel receive many awards and decorations. To help agencies make decisions concerning
+entitlement to Veterans preference and other benefits, the following list identifies those awards that are
+campaign and expeditionary medals. Any Armed Forces expeditionary Medal, whether listed here
+or not, is qualifying for Veterans preference. The Department of Defense, not OPM, determines who
+is entitled to receive a medal, and under what circumstances. The list below is derived from DoD 1348.33-M,
+Manual of Military Decorations and Awards.
+DD 214, Certificate of Discharge or Separation from Active Duty, or other official documents issued by the
+branch of service are required as verification of eligibility for Veterans preference.
+
+Campaigns and Expeditions Which Qualify For Veterans preference
+Campaign or Expedition | Inclusive dates
+----------------------------------------------------------------------------------------------------
+Armed Forces Expeditionary Medal (AFEM) A veteran's DD Form 214 showing the award of any
+Armed Forces Expeditionary Medal is acceptable proof. The DD form 214 does not have to show the
+name of the theater or country of service for which that medal was awarded. |
+Afghanistan (Operations Enduring Freedom (OEF) and Iraqi Freedom (OIF)) | OEF September 11, 2001, to present; OIF March 19, 2003, to present
+Berlin | August 14, 1961, to June 1, 1963
+Bosnia (Operations Joint Endeavor, Joint Guard, and Joint Forge) ) | November 20, 1995 to December 20, 1996; December 20, 1996 to June 20, 1998; June 21, 1998 to present
+Cambodia | March 29, 1973, to August 15, 1973
+Cambodia Evacuation (Operation Eagle Pull) | April 11 - 13, 1975
+Congo | July 14, 1960, to September 1, 1962, and November 23, to 27, 1964
+Cuba | October 24, 1962, to June 1, 1963
+Dominican Republic | April 28, 1965, to September 21, 1966
+El Salvador | January 1, 1981, to February 1, 1992
+Global War on Terrorism | September 11, 2001 to present
+Grenada (Operation Urgent Fury) | October 23, 1983, to November 21, 1983
+Haiti Operation Uphold Democracy) | September 16, 1994, to March 31, 1995
+Iraq (Operations Northern Watch, Desert Spring, Enduring Freedom (OEF), and Iraqi Freedom (OIF)) | January 1, 1997 to present; December 31, 1998 to December 31, 2002 (projected); OEF September 11, 2001, to present; OIF March 19, 2003, to present
+Korea | October 1, 1966, to June 30, 1974
+Kosovo | March 24, 1999 to present
+Laos | April 19, 1961, to October 7, 1962
+Lebanon | July 1, 1958, to November 1, 1958, and June 1, 1983, to December 1, 1987
+Mayaguez Operation | May 15, 1975 to May 15, 1975
+Operations in the Libyan Area (Operation Eldorado Canyon) | April 12, 1986 to April 17, 1986
+Panama (Operation Just Cause) | December 20, 1989, to January 31, 1990
+Persian Gulf Operation (Operation Earnest Will) | July 24, 1987, to August 1, 1990
+Persian Gulf Operation (Operation Southern Watch) | December 1, 1995, to present
+Persian Gulf Operation (Operation Vigilant Sentinel) | December 1, 1995 to February 1, 1997
+Persian Gulf Operation (Operation Desert Thunder) | November 11, 1998 to December 22, 1998
+Persian Gulf Operation (Operation Desert Fox) | December 16, 1998 to December 22, 1998
+Persian Gulf Intercept Operation | December 1, 1995, to present
+Quemoy and Matsu Islands | August 23, 1958, to June 1, 1963
+Somalia (Operations Restore Hope and United Shield) | December 5, 1992, to March 31, 1995
+Taiwan Straits | August 23, 1958, to January 1, 1959
+Thailand | May 16, 1962, to August 10, 1962
+Vietnam Evacuation (Operation Frequent Wind) | April 29, 1975, to April 30, 1975
+Vietnam (including Thailand) | July 1, 1958, to July 3, 1965
+
+Note:
+Section 572 of Subtitle G of the Defense Authorization Act of Fiscal Year 1998 (Public Law 105-85), signed
+into law on November 18, 1997, allows the Secretary of the military department concerned to determine
+whether individual members who participated in Operation Joint Endeavor or Operation Joint Guard in the
+Republic of Bosnia and Herzegovina and in such other areas in the region as the Secretary of Defense
+considers appropriate, meet the individual service requirements for award of the Armed Forces
+Expeditionary Medal (AFEM). Generally, service members will be considered eligible if they:
+* deployed to Bosnia and Herzegovina (or other area that the Secretary of Defense considers
+appropriate) in direct support of one or both of the operations;
+* served on board a ship in the Adriatic in direct support of one or both of the operations; or
+* operated in airspace above Bosnia, Herzegovina (or other area that the Secretary of Defense considers
+appropriate) while the operations were in effect.
+
+Navy Expeditionary Medal and Marine Corps Medal for These Operations
+Campaign or Expedition | Inclusive dates
+----------------------------------------------------------------------------------------------------
+Cuba | January 3, 1961 to October 23, 1962
+Indian Ocean/Iran | November 21, 1979, to October 20, 1981
+Iranian/Yemen/Indian Ocean | December 8, 1978 to June 6, 1979
+Lebanon | August 20, 1982 to May 31, 1983
+Liberia (Operation Sharp Edge) | August 5, 1990 to February 21, 1991
+Libyan Area | January 20, 1986 to June 27, 1986
+Panama | April 1, 1980 to December 19, 1986 and February 1, 1990 to June 13, 1990
+Persian Gulf | February 1, 1987 to July 23, 1987
+Rwanda (Operation Distant runner) | April 7 - 18, 1994
+Thailand | May 16 - August 10, 1962
+
+Vet Guide
+Campaign or Expedition | Inclusive dates
+----------------------------------------------------------------------------------------------------
+Army Occupation of Austria | May 9, 1945 to July 27, 1955
+Army Occupation of Berlin | May 9, 1945 to October 2, 1990
+Army Occupation of Germany (exclusive of Berlin) | May 9, 1945 to May 5, 1955
+Army Occupation of Japan | September 3, 1945 to April 27, 1952
+Chinese Service Medal (Extended) | September 2, 1945 to April 1, 1957
+Korea Defense Service Medal | July 28, 1954 to (date to be determined)
+Korean Service | June 27, 1950 to July 27, 1954
+Kosovo Campaign Medal (KCM) & Operation Allied Force | March 24, 1999 to June 10, 1999
+Kosovo Campaign Medal (KCM) & Operation Joint Guardian | June 11, 1999 to (date to be determined)
+Kosovo Campaign Medal (KCM) & Operation Allied Harbor | April 4, 1999 to September 1, 1999
+Kosovo Campaign Medal (KCM) & Operation Sustain Hope/Shining Hope | April 4, 1999 to July 10, 1999
+Kosovo Campaign Medal (KCM) & Operation Noble Anvil | March 24, 1999 to July 20, 1999
+Kosovo Campaign Medal (KCM) & Task Force Hawk | April 5, 1999 to June 24, 1999
+Kosovo Campaign Medal (KCM) & Task Force Saber | March 31, 1999 to July 8, 1999
+Kosovo Campaign Medal (KCM) & Task Force Falcon | June 11, 1999 to (date to be determined)
+Kosovo Campaign Medal (KCM) & Task Force Hunter | April 1, 1999 to November 1, 1999
+Navy Occupation of Austria | May 8, 1945 to October 25, 1954
+Navy Occupation of Trieste | May 8, 1945 to October 25, 1954
+Southwest Asia Service Medal (SWASM) (Operations Desert Shield and Desert Storm) | August 2, 1990 to November 30, 1995
+Units of the Sixth Fleet (Navy) | May 9, 1945 to October 25, 1955
+Vietnam Service Medal (VSM) | July 4, 1965 to March 28, 1973
+Rwanda (Operation Distant runner) | April 7 - 18, 1994
+Thailand | May 16 - August 10, 1962
+
+VetGuide Appendix B: Uniformed Service Qualifying for Veterans Preference Purposes
+
+Appendix B
+Capacity or Organization in Which Service is Performed | Qualify for Preference?
+----------------------------------------------------------------------------------------------------
+Air Force Service: |
+Air Force Nurse Corps | YES
+Air Force Reserve, service on active duty | YES
+Air Force Reserve Officer's Training Corps | NO
+Air Force Service |
+Air National Guard of the United Sates (including all Federally Recognized
+Units, Organizations, and members of the Air National Guard of the several
+States, Territories and the District of Columbia), when mustered or called
+into service | YES
+Cadets of the Air Force | YES
+Regular Air Force | YES
+Women in the Air Force | YES
+Air lines under contract | NO
+Air Transport Field Service | NO
+American Field Service | NO
+American Volunteer Guard | NO
+Army Service: |
+Army field clerks | YES
+Army Nurse Corps | YES
+Army Reserve (formerly Organized Reserve Corps) service on active duty | YES
+Army Specialist Corps | NO
+Army Transport Service: |
+(Commissioned officers of the Army assigned as transport quartermasters in
+the Army Transport Service) | YES
+Army Transport Service: |
+(Other personnel) | NO
+Cadets of the United States Military Academy | YES
+Contract Surgeons, service since June 3, 1916 | YES
+Female Dietetic and physical therapy personnel service since April 1, 1943
+(exclusive of students and apprentices) | YES
+Licensed female physicians and surgeons, service since April 16, 1943 | YES
+National Guard of the United States (including all Federally recognized
+units, organizations and members of the National Guard of the several
+States, Territories and the District of Columbia) when called or mustered
+into active Federal Service | YES
+Philippine Army (organized military forces of the Government of the
+Commonwealth of the Philippines, including recognized guerilla units) {see
+note 2 below} | NO
+Philippine Scouts | YES
+Regular Army | YES
+Reserve Officers' Training Corps (ROTC) | NO
+Women's Army Auxiliary Corps (WAACS) {see note 5 below} | NO
+Women's Army Corps (WACS) | YES
+Women's Medical Specialist Corps | YES
+Auxiliary Military Police | NO
+Bureau of Marine Inspection and Navigation | NO
+Cadet Nurse Corps | NO
+Chaplains: |
+Army | YES
+Knights of Columbus | NO
+Navy | YES
+Y.M.C.A. | NO
+Chemical Warfare Service: |
+Civilian and Contract employees | NO
+Military personnel on active duty | YES
+Citizens Military Training Camps | NO
+Civil Aeronautics Administration Pilot Training: |
+Prior to September 1, 1943 | NO
+After September 1, 1943 | YES
+Civil Air Patrol | NO
+Civilian Conservation Corps (reserve Officers of the Army called to active
+duty with the Civilian Conservation Corps): |
+Service for at least 30 days before July 25, 1939 | YES
+Other personnel | NO
+Coast and Geodetic Survey Personnel {see note 4 below}: |
+Service under transfer by the President in time of natural emergency to the
+service and jurisdiction of the Armed Forces with proper military status
+(section 16 of the Act of May 22, 1917; 40 Stat. 87, as amended; 33 U.S.C. 855) | YES
+Service of commissioned officers of the Coast Guard and Geodetic Survey
+assigned to duty on projects of immediate military hazard under the
+provisions of Section 2, of the Act of December 2, 1942, 56 Sta. 1038, as
+amended (68 Stat. 730) | NO
+Coast Guard Service in or in connection with: |
+Cadets of the United States Coast Guard Academy | YES
+Coast Guard Auxiliary | YES
+Coast Guard Reserve Service (temporary): |
+Members enrolled for full-time duty with military pay and allowances other
+than for uniforms | YES
+Coast Guard Reserve Service (temporary): |
+Members enrolled for part-time or intermittent duty without pay and
+allowances for uniforms | NO
+Coast Guard Reserve Service (temporary): |
+Pilots without pay and allowances other than for uniforms | NO
+Coast Guard Reserve Service (temporary): |
+Officers of Great Lakes vessels without pay and allowances other than for
+uniforms | NO
+Coast Guard Reserve Service (temporary): |
+Coast Guard police without pay and allowances | NO
+Coast Guard Reserve Service (temporary): |
+Civil Service employees of the Coast Guard without pay other than
+compensation of their civilian positions | NO
+Regular Coast Guard | YES
+Women's Reserve (SPARS), service on active duty | YES
+Marine Corps: |
+Aviation Cadets |
+Enlisted aviation cadet under 10 U.S.C. 6911, service after August 4, 1942 | YES
+Aviation Cadets |
+Aviation cadet (appointive grade), service while undergoing flight training | NO
+Marine Corps Reserve including: |
+Fleet marine reserve; Organized Marine Corps Reserve; Women's Reserve;
+provided service is on active duty | YES
+Regular Marine Corps | YES
+Merchant Marine | NO
+Merchant Marine Cadet Corps | NO
+Military Sea Transportation Service (MSTS) | NO
+Navy, service in connection with: |
+Aviation Cadets: |
+Enlisted aviation cadet under 10 U.S.C. 6911, service after August 4, 1942 | YES
+Aviation Cadets: |
+Aviation cadet (appointive grade), service while undergoing flight training | NO
+Licensed female physicians and surgeons, service since April 16, 1943 | YES
+Midshipmen: |
+Midshipmen (Regular) of the United States naval Academy | YES
+Midshipmen: |
+Midshipmen (Reserve), service between September 8, 1939 and 1946 while
+attending Midshipmen schools | YES
+Naval Reserve Including: |
+Fleet Reserve; Merchant marine Reserve {see note 5 below}; Volunteer
+Reserve; Women's Reserve (WAVES); provided service is on active duty | YES
+Naval Reserve Officer's Training Corps Students |
+Service before July 1, 1943 | NO
+Naval Reserve Officer's Training Corps Students |
+Service between July 1, 1943 and June 30, 1946 | YES
+Naval Reserve Officer's Training Corps Students |
+Service after June 30, 1946 | NO
+Navy College Program personnel, service between July 1, 1943 and June
+30,1946 | YES
+Navy Nurse Corps | YES
+Regular Navy | YES
+Office of Strategic Services | YES
+Public Health Service: |
+Officers and employees detailed to duty with the Army or Navy by Executive
+Order 2571, during World War I | YES
+Commissioned officers performing active service: |
+Under individual detail for duty with the Army, Navy, Air Force, Marine
+Corps, or Coast Guard; | YES
+Commissioned officers performing active service: |
+In the Public Health Service while the service is part of the Armed Forces of
+the United States pursuant to Executive Order {see Note 6 below}; | YES
+Commissioned officers performing active service: |
+In the Public Health Service in time of war: |
+whether or not the individual detail to the Army, Navy, or Air Force, Marine
+Corps, or Coast Guard and
+whether or not the Public Health Service was at that time a part of the Armed
+Forces | YES
+Red Cross | NO
+State Guards | NO
+State Maritime Academy | NO
+State or Territorial police or Constabularies | NO
+Volunteer Defense Force Units, Territory of Hawaii (1942 to 1945) | NO
+War correspondents | NO
+Women's Air Service Pilots (WASPS) | NO
+
+Notes:
+1. Military service under the Veterans preference laws is:
+* Active duty in the Armed forces of the United States
+* Active service in the Public Health Service which is a basis for entitlement to "full military benefits"
+under the Public Health Service Act of July 1, 1944
+* Active service in the Coast and Geodetic Survey and successor organizations (NASA, NOAA) under
+transfer to the jurisdiction of the Armed Forces under 33 U.S.C. 855
+* Service in the organized military forces of the Government of the Commonwealth of the Philippines
+(including recognized guerilla units) between July 26, 1941 and June 30, 1946 when the forces were in
+the service if the Armed Forces of the United States, is not service in the military or naval forces if the
+United States for preference.
+* Members of the Women's Army Auxiliary Corps served with but not in the Army. This organization
+was abolished on September 30, 1943.
+* Coverage applies also to successor organizations, i.e. Environment Science Service Administration and
+National Oceanic and Atmospheric Administration.
+* Service of Merchant Marine Reservists (U.S. Naval Reserve) called to active duty in the Navy, even
+though assigned to duty on merchant vessels or at shore establishments of the U.S. Maritime Service,
+is considered active duty for preference purposes.
+* The Commissioned Corps of the Public Health Service was declared to be a military service branch of
+the land and naval forces of the United States beginning July 29, 1945, and continuing through July 3,
+1952. (Executive Orders 9575, 10349, 10356, 10362, and 10367.)
+
+VetGuide Appendix C: Officer Personnel by Pay Grades and Titles (Ranks)
+
+Appendix C
+Pay Grade | Army, Air Force, and Marine Corps | Navy, Coast Guard, and NOAA | Public Health Service | Major and Above | Below Major
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O-10 | General | Admiral | n/a | X |
+O-09 | Lieutenant General | Vice Admiral | n/a | X |
+O-08 | Major General | Rear Admiral | Asst. Surgeon General | X |
+O-07 | Brigadier General | Rear Admiral (lower half) or Commodore | Asst. Surgeon General | X |
+O-06 | Colonel | Captain | Direct Grade | X |
+O-05 | Lieutenant Colonel | Commander | Senior Grade | X |
+O-04 | Major | Lieutenant Commander | Full Grade | X |
+O-03 | Captain | Lieutenant | Senior Assistant Grade | X |
+O-02 | First Lieutenant | Lieutenant (jg) | Assistant Grade | X |
+O-01 | Second Lieutenant | Ensign | Junior Assistant | X |
+W-4 | Chief Warrant Officer | Chief Warrant Officer (see note 1 below) | n/a | | X
+W-3 | Chief Warrant Officer | Chief Warrant Officer | n/a | | X
+W-2 | Chief Warrant Officer | Chief Warrant Officer | n/a | | X
+W-1 | Warrant Officer | Warrant Officer | n/a | | X
+E- | (see note 2 below) | (see note 2 below) | n/a | | X
+
+Notes:
+1. National Oceanic and Atmospheric Administration (Environmental Sciences Services Administration,
+formerly Coast and Geodetic Survey) and Public Health Service do not have warrant officer ranks.
+2. Pay grades indicated by the letter "E" (e.g., E-5) are for enlisted (non officer) personnel.
+
+VetGuide Appendix D: A Brief History of Veterans Preference
+
+Preference Before the Civil War
+The use of preference in Federal appointments extends back to the days of the Revolutionary War. Though
+no legal basis existed to govern the treatment of war veterans, certain soldiers were rewarded for their
+service by the Federal government. Early forms of preference were often based on European models and
+featured the use of pensions, bonuses for service, disability allowance, and hospitalization for injuries
+incurred while in uniform, as rewards for one's country. It wasn't until the heyday of the spoils
+system, however, that appointments to Federal positions as a reward for military service become a popular
+practice. These appointments, however, were usually reserved for ex-officers, and not for the rank and file
+soldier.
+
+Civil War to the end of World War I
+Towards the end of the Civil War, congress passed the first significant Veterans preference legislation. This
+act provided that,
+"Persons honorably discharged from the military or naval service by reason of disability
+resulting from wounds or sickness incurred in the line of duty shall be preferred for
+appointments to civil offices, provided they are found to possess the business capacity necessary
+for the proper discharge of the duties of such offices."
+Under this legislation, preference in appointments was limited to disabled veterans who were otherwise
+qualified for the work to be performed. This 1865 law stood as the basic preference legislation until the end
+of World War I.
+Along the way, however, several modifications were made to the 1865 legislation. An amendment in 1871
+contained the first instance of "suitability" requirements for job seeking veterans. The language read as
+follows,
+"The President is authorized to prescribe such regulations for the admission of persons into the
+civil service of the United States as may best promote the efficiency thereof, and ascertain the
+fitness of each candidate in respect to age, health, character, knowledge, and ability for the
+branch of service into which he seeks to enter, and for this purpose he may employ suitable
+persons to conduct such inquiries, and may prescribe their duties, and establish regulations for
+the conduct of persons who may receive appointment in the civil service."
+In 1876, another Congressional amendment gave preference for RIF retention to veterans, their widows, and
+their orphans. This amendment marked the introduction of the use of preference as RIF protection. It
+provided:
+"That in making any reduction in force in any of the executive departments the head of such
+department shall retain those persons who may be equally qualified who have been honorably
+discharged from the military or naval service of the United States and the widows and orphans
+of deceased soldiers and sailors."
+Determination of the "equal qualifications" of a person entitled to preference under this law was left to the
+appointing officer.
+In 1888, a Civil Service Commission regulation gave absolute preference to all disabled veterans over all
+other eligibles. In other words, they would qualify with a score of 65, when the minimum passing score for
+everyone else was a 70, and would be placed at the top of the certification list.
+A year later, President Harrison issued an Executive Order allowing honorably discharged veterans who
+were former Federal employees to be reinstated without time limit. This was the first appearance of
+reinstatement eligibility as applied to veterans. In 1892, reinstatement rights were extended to the widows
+and orphans of veterans. The reinstatement provision was the last significant addition to preference
+legislation until 1919.
+
+Preference Between the World Wars
+The first major expansion of Veterans Preference benefits occurred in 1919 in the form of the Census Act.
+This act, amended shortly thereafter by the Deficiency Act of 1919 granted preference to all honorably
+discharged veterans, their widows, and the wives of injured veterans. An excerpt reads as follows:
+"That hereafter in making appointments to clerical and other positions in the executive branch
+of the Government, in the District of Columbia or elsewhere preference shall be given to
+honorably discharged soldiers, sailors, and marines, and widows of such, and to the wives of
+injured soldiers, sailors, and marines, who themselves are not qualified, but whose wives are
+qualified to hold such positions."
+This act is significant for two reasons: it no longer emphasized a service-connected disability as the primary
+basis for granting Veterans preference, and it introduced the concept of spousal preference in the appointing
+process. This act redefined eligible veterans to mean all persons who served in an active military capacity
+and were honorably discharged, whether the service was in wartime or peacetime. Added were their widows
+and the wives of those too disabled to qualify for government employment. This act remained the basic
+Federal law for appointment preference until June 27, 1944, when the Veterans Preference Act of 1944 was
+enacted.
+Two significant modifications were made to the 1919 Act. In 1923, an Executive Order was created which
+added 10-points to the score of disabled veterans and added 5-points to the scores of non-disabled veterans.
+This was the first time the points were added to the examination scores in the appointing process. Under this
+Executive Order, however, veterans were no longer placed at the top of the certification lists. In 1929,
+another executive order restored the placement of 10-point disabled veterans to the top of certification lists.
+In 1938, a Civil Service Commission rule required that the decision by an appointing official to pass over a
+veteran and select a non-veteran for appointment be subject to review by the commission. Language
+regarding the passover of eligible veterans existed in earlier executive orders, but these early versions only
+required that the CSC be notified if a passover occurred. The 1938 rule strengthened this requirement and
+marked the first time that the Commission could overturn the passover if it did not regard the reasons as
+being adequate.
+
+Veterans Preference Act of 1944
+Veterans preference, as it exists today, derives from the Veterans Preference Act of 1944. This act, to a large
+extent, resulted from the veterans organizations' desire to elevate the existing Executive and regulatory
+orders governing preference to the level of National policy. With a victorious end to World War II clearly in
+sight, both Congress and the Administration were sympathetic to the veterans organizations' objective. In his
+endorsement of the legislation, President Roosevelt wrote,
+"I believe that the Federal Government, functioning in its capacity as an employer, should take
+the lead in assuring those who are in the armed forces that when they return special
+consideration will be given to them in their efforts to obtain employment. It is absolutely
+impossible to take millions of our young men out of their normal pursuits for the purpose of
+fighting to preserve the Nation, and then expect them to resume their normal activities without
+having any special consideration shown them."
+The act, in essence, was a consolidation of the various preference provision already in effect by the various
+Executive Orders and CSC regulations. It went a step further by broadening and strengthening existing
+Veterans preference rules by giving them legislative sanction. Thus, the Executive Branch could no longer
+change the provisions of Veterans preference. Any changes must now be sought through legislation. In
+addition, the act made clear that preference was to be a reward for patriotic duties by a grateful country
+willing to recognize the sacrifices of its servicemen when peace comes. The Act would help ensure that
+veterans obtain or regain an economic position they otherwise would have attained had they not served in
+the armed forces.
+The Veterans preference Act of 1944 defined to whom and under what circumstances preference would be
+granted. It provided that Preference be given in competitive examinations, in appointments to positions in
+the Federal service, in reinstatement to positions, in reemployment, and in retention during reductions in
+force. Preference would apply to civilian positions - permanent or temporary - in all departments, agencies,
+bureaus, administrations, establishments, and projects of the Federal Government, and in the civil service of
+the District of Columbia. Further, the law provided that preference apply to positions in the classified civil
+service (now the competitive service), the unclassified civil service (positions excepted from the competitive
+service), and in any temporary or emergency establishment, agency, bureau, administration, project and
+department created by acts of Congress or Presidential Executive order. The legislative and judicial branches
+of the Government, as well as positions in the executive branch, which are required to be confirmed by the
+Senate, except Postmaster-ships, in the first-, second-, and third-class post offices were exempt from the Act.
+The Act originally granted preference to non-disabled veterans, disabled veterans, wives of disabled
+veterans, and the widows of disabled veterans. These were substantially the same groups granted preference
+under previous laws and regulations with two exceptions. Non-disabled veterans whose only service was
+performed during peacetime and the wives of non-service-connected disabled veterans over 55 years of age
+were no longer eligible for preference.
+
+Veterans Preference Since 1944
+In 1948, the Veterans Preference Act of 1944 was amended to include the mothers of veterans. Mother
+preference was granted to certain widowed, or divorced or legally separated mothers of veterans (men and
+women) who (a) died under honorable conditions while on active duty in any branch of the armed forces of
+the United States in wartime or in peacetime campaigns or expeditions for which campaign badges or service
+medals have been authorized; or (b) have permanent and total service-connected disabilities which
+disqualify them for civil service appointment to positions along the general line of their usual occupations. In
+the case of such widowed mothers, preference was granted provided they were widowed at the time of death
+or disability of the veteran and had not remarried. The divorced or legally separated mothers were granted
+preference only if the veteran was the mother's only child. This provision was later amended in 1950 to allow
+preference to mothers who are living with their husbands but whose husbands are totally and permanently
+disabled.
+In 1952, a bill was passed granting preference benefits to those honorably separated veterans who served on
+active duty in any branch of the armed forces of the United States during the period beginning April 28, 1952
+and ending July 1, 1955 (the period after the termination of the state of war between the United States and
+the Government of Japan during which persons could be inducted under existing law for training and service
+in the armed forces). The bill also extended preference to the widows and mothers of such veterans.
+The Vietnam conflict in the 1960s resulted in several modifications of the VP law of 1944. In 1966, legislation
+was passed which granted peace-time preference for Vietnam-era vets who served on active duty for more
+than 180 consecutive days between January 31 1955 and Oct 10, 1976; National guard and reserve service
+was excluded from this legislation.
+In 1967 legislation was passed which expanded preference to all veterans who served on active duty for more
+than 180 days (no requirement to serve during war, campaign, or conflict) between January 31, 1955 and
+October 10, 1976. As with the previous year's law, National guard and reserve service was not included in this
+expansion.
+The end of the Vietnam conflict brought with it yet another law, passed in 1976. This law put added
+restrictions on veterans whose service begins after October 14, 1976. For post-Vietnam era veterans,
+preference was granted only if these veterans became disabled, or served in a declared war, a campaign, or
+expedition. This legislation was the result of the conclusion of the Vietnam conflict and its draft, the
+Department of Defenses' desire to build a career military service, and veterans organizations' concern that
+preference was not appropriate for purely peacetime service.
+The Civil Service reform act of 1978 created new benefits for veterans with a 30 percent or more disability. It
+also gave veterans extra protection in hiring and retention. Under this act, preference was no longer granted
+to nondisabled veterans who retired at the rank of major or above.
+In 1988, a law was passed that required the Department of Labor to report agencies' violations of Veterans
+preference and failure to list vacancies with State employment services to the Office of Personnel
+Management for enforcement.
+The last major legislation affecting Veterans preference occurred in the form of the Defense Appropriations
+act of 1997. Under this legislation, preference was accorded to anyone who served on active duty during the
+Gulf War period (August 2, 1990 through January 2, 1992). This law also granted preference to certain
+service members who earned campaign medals for service in Bosnia and Herzegovina in support of
+Operation Joint Endeavor (November 20, 1995 through December 20, 1996) or Operation Joint Guard
+(December 20, 1996 through a date designated by the Secretary of Defense).
+
+Time line of Veterans Preference in the Federal Civil Service
+1865
+* First Veterans preference (VP) in appointment law; for Union veterans separated for wounds or
+illnesses. Vets must have been honorably discharged and qualified for job.
+1876
+* First VP in reduction in force (RIF) law
+1919
+* After World War I, law grants VP to all honorably discharged veterans, their widows, and the spouses
+of veterans too disabled to work
+1923
+* To distinguish between the preference and granted by the 1865 and 1919 laws, an Executive Order
+grants disabled vets 10 points and other vets 5 points, to be added to their individual numerical ratings
+in examinations (point system first introduced)
+1929
+* Executive Order places disabled vets at the top of examination lists of eligibles and continues 10 extra
+points
+1944
+* Veterans Preference Act incorporates 1865, 1876, and 1919 laws, plus Executive Orders for extra
+points, passover protection, and rule of three. Continues to be cornerstone of Veterans civil service
+legislation today (applied preference to active duty service during war, expedition, or campaign for
+which badge was authorized, must be separated under honorable conditions, rule of three)
+1952
+* Amendment extended 1944 law to include active duty service from 4/28/52 - 7/1/55 Korean War
+1966
+* Peacetime preference for Vietnam-era vets added active duty for >180 consecutive days between Jan
+31 1955 and Oct 10, 1976; guard and reserve service not included
+1967
+* Expanded 1967 act to all vets who served on active duty for >180 days (no requirement to serve during
+war, campaign, or conflict) between Jan 31, 1955 and Oct 10, 1976 (guard and reserve service not
+included)
+1968
+* Executive Order creates Veterans Transitional Appointment, a new way for Vietnam-era veterans to
+enter Federal service without public examination. Forerunner of Veterans Readjustment Appointment
+(VRA)
+1974
+* VRA enacted into law
+1976
+* By law, veterans whose service begins after October 14, 1976 are granted preference only if they
+become disabled, or serve in a declared war, a campaign, or expedition. (This resulted from the end of
+the Vietnam conflict and draft, Department of Defense's desire to build a career military service, and
+Veterans groups concern that preference was not appropriate for purely peacetime service.)
+1978
+* Civil Service reform act creates new benefits for 30 percent or more disabled veterans; special
+appointing authority, and extra protection in hiring and retention. Preference ends for nondisabled
+retired majors and above. Efforts to broaden rule of three and make exceptions to numerical ratings in
+examinations defeated by Veterans groups
+1988
+* Law requires Dept. of Labor to report agencies' violations of Veterans preference and failure to list
+vacancies with State employment services to OPM for enforcement
+1990
+* VRA law amended to include post-Vietnam-era veterans, but end coverage of most Vietnam-era
+veterans
+1992
+* VRA law revised to restore eligibility to Vietnam-era veterans
+1997
+* Defense Appropriations Act grants preference to gulf war veterans and certain campaign medal
+holders in Bosnia (included guard or reserve service if for other than training)
+2006
+* National Defense Authorization Act, Public Law 109-163, granted preference to those serving on active
+duty in the armed forces for a period of more than 180 consecutive days any part of which occurred
+during the period beginning September 11, 2001 and ending on a date prescribed by Presidential
+proclamation or by law as the last day of Operation Iraqi Freedom. The law also amended 5 U.S.C.
+2108(1) clarifying that individuals discharged or released from active duty in the armed forces, as
+opposed to being separated, may receive veterans' preference provided they meet other applicable
+veterans' preference eligibility requirements.
