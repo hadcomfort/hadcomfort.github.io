@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service (VOW Act): Expected Character of Service
+title: "Own Service (VOW Act): Expected Character of Service"
 ---
 
 ## Own Service (VOW Act): Expected Character of Service
