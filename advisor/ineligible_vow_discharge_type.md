@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service (VOW Act): Ineligible - Discharge Not Expected to be Honorable
+title: "Own Service (VOW Act): Ineligible - Discharge Not Expected to be Honorable"
 ---
 
 ## Own Service (VOW Act): Ineligible - Discharge Not Expected to be Honorable
