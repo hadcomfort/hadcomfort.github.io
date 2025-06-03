@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Veteran's Preference Advisor - Ineligible Service Status
+title: Ineligible Based on Current Service Status
 ---
 
-To claim preference based on your own service, you generally need to have been discharged/released from active duty or be an active duty member covered by the VOW Act (expected discharge within 120 days with certification). (See OPM Vet Guide, 'A word about the VOW Act'). If neither of these applies, you may not be eligible for preference at this time through this path.
+Based on your responses, you do not currently meet the preliminary requirements for veteran's preference. Generally, you must be discharged or released from active duty under honorable conditions to be eligible. If you are still on active duty, you may be eligible under the VOW Act if you are within 120 days of discharge and can provide a certification. <!-- TODO: Add link to VOW Act info or back to VOW questions if applicable --> For more information, please review the OPM Vet Guide [Appendix A - Definitions of Terms and Categories, Page 31].
 
+*   [I made a mistake in my previous answers, take me back.](./ownservice_intro.md)
 *   [Return to Advisor Start](./start.md)
