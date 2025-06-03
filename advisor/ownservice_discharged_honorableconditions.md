@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Discharged - Character of Service
+title: "Own Service: Discharged - Character of Service"
 ---
 
 To receive preference, a veteran must have been discharged or released from active duty in the Armed Forces under honorable conditions. This typically means an Honorable or General discharge. (OPM Vet Guide, 'Types of Preference'). What was the character of your discharge?
