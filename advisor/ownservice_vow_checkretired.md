@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service (VOW Act): Check Retiree Status
+title: "Own Service (VOW Act): Check Retiree Status"
 ---
 
 ## Own Service (VOW Act): Check Retiree Status
