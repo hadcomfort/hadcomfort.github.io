@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Veteran's Preference Advisor - Based on Your Own Service
+title: "Veteran's Preference Advisor - Based on Your Own Service"
 ---
 
 # Veteran's Preference Advisor - Based on Your Own Service
