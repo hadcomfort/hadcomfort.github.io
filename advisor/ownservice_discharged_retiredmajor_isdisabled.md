@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Retired Major/Lt. Cmdr+ - Check Disability
+title: "Own Service: Retired Major/Lt. Cmdr+ - Check Disability"
 ---
 
 ## Own Service: Retired Major/Lt. Cmdr+ - Check Disability
