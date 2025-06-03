@@ -25,7 +25,7 @@ Navigating veteran's preference can be challenging. This tool is designed to hel
 
 ## How the Veteran's Preference Advisor Works
 
-You (or the veteran you are assisting) will be guided through a series of questions. Each step is a separate page:
+You (or the veteran you are assisting) will be guided through a series of questions. Each step is a separate page within the `/advisor/` section of this site:
 
 1.  Read the question or information carefully on each page.
 2.  Select the option that best applies to the veteran's situation.
@@ -46,7 +46,6 @@ To make the process smoother, you may find it helpful to have the following info
 Click the link below to begin the process of determining veteran's preference.
 
 **➡️ [Start the Veteran's Preference Advisor](./advisor/start.md)**
-*(You will need to create an `advisor` folder and a `start.md` or `start.html` file inside it for this link to work.)*
 
 ---
 
@@ -60,7 +59,7 @@ Click the link below to begin the process of determining veteran's preference.
 
 For the most current, detailed, and official information, please consult:
 
-* **U.S. Office of Personnel Management (OPM) - VetGuide:** [Link to OPM VetGuide] *(<- Update with the correct OPM URL, specifically the VetGuide if possible)*
-* **U.S. Department of Veterans Affairs (VA) - Careers and Employment:** [Link to VA Careers/Preference Page] *(<- Update with the correct VA URL)*
+* **U.S. Office of Personnel Management (OPM) - VetGuide for HR Professionals:** [https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/)
+* **U.S. Department of Veterans Affairs (VA) - Careers and Employment:** [https://www.va.gov/careers-employment/](https://www.va.gov/careers-employment/) (For general career resources; specific preference information is often handled by OPM or individual hiring agencies)
 
 We hope this resource empowers you with valuable insights. Thank you for your service!
