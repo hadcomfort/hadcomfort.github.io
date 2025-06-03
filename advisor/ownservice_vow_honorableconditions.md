@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service (VOW Act): Expected Character of Service
+title: "Own Service (VOW Act): Expected Character of Service"
 ---
 
 To receive preference, discharge must be under honorable conditions. Does your VOW Act certification state you are expected to be discharged/released under honorable conditions (i.e., an Honorable or General discharge)? (See OPM Vet Guide, 'A word about the VOW Act' regarding certification requirements).
