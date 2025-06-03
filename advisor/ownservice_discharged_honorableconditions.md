@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Discharged - Character of Service
+title: "Own Service: Discharged - Character of Service"
 ---
 
 ## Own Service: Discharged - Character of Service
