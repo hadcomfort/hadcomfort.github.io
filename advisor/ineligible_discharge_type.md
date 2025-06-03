@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: Ineligible - Discharge Not Under Honorable Conditions
+title: "Own Service: Ineligible - Discharge Not Under Honorable Conditions"
 ---
 
 ## Own Service: Ineligible - Discharge Not Under Honorable Conditions
