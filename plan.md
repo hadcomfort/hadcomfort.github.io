@@ -1,151 +1,141 @@
-The AI agent will need access to:
-1.  Your **"Updated Veteran's Preference Advisor: Site Development Plan (Phase 1 Focus)"** (the document you just provided).
-2.  The actual Markdown files in the `/advisor/` directory as they are developed.
-3.  The `hrdocs.txt` (OPM Vet Guide) for citation verification.
+Phase 2
 
-Here's the QA plan:
+This plan will define the new Markdown files required for veterans seeking preference based on a service-connected disability or Purple Heart. Each task represents the creation of a specific file and can be worked on independently.
 
----
+This plan assumes that users arrive at this phase from advisor/ownservice_checkdisability_intro.md (from Phase 1), by selecting "Yes, I have a service-connected disability OR I received a Purple Heart," which should then link to the first file in this phase: advisor/ownservice_disability_details.md.
 
-## Veteran's Preference Advisor: Phase 1 Development - Quality Assurance Plan
+Veteran's Preference Advisor: Site Development Plan - Phase 2: Disability Path
+Overall Goal for Phase 2: To create the decision tree paths for veterans claiming 10-point preference based on their own service due to a service-connected disability or receipt of a Purple Heart.
+General Instructions for AI Agent:
+* For each task below, create the specified Markdown file in the /advisor/ directory.
+* Ensure each file uses layout: default (or the custom advisor layout).
+* Include a link back to the start: [Return to Advisor Start](./start.md) on nearly every page.
+* Incorporate citations from hrdocs.txt as indicated.
+* The content should guide the user to determine potential eligibility for different types of 10-point preference (XP, CP, CPS).
 
-**Overall Goal:** To verify that all components outlined in the "Updated Veteran's Preference Advisor: Site Development Plan (Phase 1 Focus)" have been implemented accurately and completely.
+Phase 2 Development Tasks (Asynchronous)
+Each task involves creating one Markdown file with the specified attributes.
+Task 2.1: Create advisor/ownservice_disability_details.md
+* File: advisor/ownservice_disability_details.md (New)
+* Title: Own Service: Disability or Purple Heart Details
+* Purpose: To gather more specific information about the nature of the disability or Purple Heart to determine the type of 10-point preference.
+* Content/Question: Markdown     You indicated you have a service-connected disability or received a Purple Heart. To determine the type of 10-point preference, please select the option that best describes your situation. [cite_start](Remember, if you are claiming 10-point preference, you will typically need to complete an SF-15 form and provide supporting documentation. )
+*     
+* Choices:
+    * "I received a Purple Heart." -> advisor/ownservice_xp_purpleheart.md
+    * "I have a service-connected disability rating of 30% or more from the VA or my branch of service." -> advisor/ownservice_cps_details.md 1
+    * "I have a service-connected disability rating of 10% or 20% from the VA or my branch of service." -> advisor/ownservice_cp_details.md 2
+    * "I have a service-connected disability (rated less than 10% or not yet rated but recognized) OR I am receiving compensation, disability retirement benefits, or pension from the military or VA due to a service-connected disability, but I don't fit the 10-30%+ categories above." -> advisor/ownservice_xp_generaldisability_details.md 3
+    * "I'm not sure about the percentage or type." -> advisor/ownservice_disability_clarify_sf15.md
+    * "Return to Advisor Start" -> advisor/start.md
 
-**General Instructions for AI Agent:**
-* For each QA phase and task, review the specified Markdown files against the requirements detailed in the "Updated Veteran's Preference Advisor: Site Development Plan (Phase 1 Focus)" (referred to as "the Plan Document" below).
-* Note any discrepancies, errors, or omissions for correction.
-* Pull requests should be specific to the items verified in that task.
+Task 2.2: Create advisor/ownservice_xp_purpleheart.md
+* File: advisor/ownservice_xp_purpleheart.md (New)
+* Title: Own Service: 10-Point Preference (XP) - Purple Heart
+* Purpose: Confirms potential eligibility for 10-point XP preference based on Purple Heart.
+* Content/Question: Markdown     You indicated you received a Purple Heart. [cite_start]Receipt of a Purple Heart qualifies you for 10-point Veteran's Preference (XP), provided your discharge was (or will be, if VOW Act applies) under honorable conditions and all other general eligibility requirements are met. [cite_start]For disabled veterans, active duty includes training service in the Reserves or National Guard. 
+*     
+* Choices:
+    * "Confirm, proceed to eligibility summary." -> advisor/eligible_xp_10point.md
+    * "I made a mistake, review disability/Purple Heart options." -> advisor/ownservice_disability_details.md
+    * "Return to Advisor Start" -> advisor/start.md
 
----
+Task 2.3: Create advisor/ownservice_cps_details.md
+* File: advisor/ownservice_cps_details.md (New)
+* Title: Own Service: 10-Point Preference (CPS) - 30%+ Disability
+* Purpose: Confirms potential eligibility for 10-point CPS preference based on 30%+ disability.
+* Content/Question: Markdown     You indicated a service-connected disability rating of 30% or more. [cite_start]This generally qualifies you for 10-point Veteran's Preference (CPS), provided your discharge was (or will be, if VOW Act applies) under honorable conditions and all other general eligibility requirements are met. [cite_start]For disabled veterans, active duty includes training service in the Reserves or National Guard.  [cite_start]Remember to complete the SF-15 form. 
+*     
+* Choices:
+    * "Confirm, proceed to eligibility summary." -> advisor/eligible_cps_10point.md
+    * "I made a mistake, review disability/Purple Heart options." -> advisor/ownservice_disability_details.md
+    * "Return to Advisor Start" -> advisor/start.md
 
-### QA Phase 1: Core File Existence and Naming Conventions Verification
+Task 2.4: Create advisor/ownservice_cp_details.md
+* File: advisor/ownservice_cp_details.md (New)
+* Title: Own Service: 10-Point Preference (CP) - 10-20% Disability
+* Purpose: Confirms potential eligibility for 10-point CP preference based on 10-20% disability.
+* Content/Question: Markdown     You indicated a service-connected disability rating of 10% or 20%. [cite_start]This generally qualifies you for 10-point Veteran's Preference (CP), provided your discharge was (or will be, if VOW Act applies) under honorable conditions and all other general eligibility requirements are met. [cite_start]For disabled veterans, active duty includes training service in the Reserves or National Guard.  [cite_start]Remember to complete the SF-15 form. 
+*     
+* Choices:
+    * "Confirm, proceed to eligibility summary." -> advisor/eligible_cp_10point.md
+    * "I made a mistake, review disability/Purple Heart options." -> advisor/ownservice_disability_details.md
+    * "Return to Advisor Start" -> advisor/start.md
 
-* **Objective:** Ensure all specified files for Phase 1 exist with the correct names and in the correct directory. Verify correct handling of new vs. replaced files.
-* **Files to View (from the Plan Document):** All files listed in Phase 1, Sections 1 through 6.
-* **Verification Tasks (can be parallelized per file):**
+Task 2.5: Create advisor/ownservice_xp_generaldisability_details.md
+* File: advisor/ownservice_xp_generaldisability_details.md (New)
+* Title: Own Service: 10-Point Preference (XP) - General Disability
+* Purpose: Confirms potential eligibility for 10-point XP preference based on a general service-connected disability or receipt of related benefits.
+* Content/Question: Markdown     You indicated you have a present service-connected disability OR are receiving compensation, disability retirement benefits, or pension from the military or the Department of Veterans Affairs, not specifically categorized as 10-20% (CP) or 30%+ (CPS). [cite_start]This may qualify you for 10-point Veteran's Preference (XP), provided your discharge was (or will be, if VOW Act applies) under honorable conditions and all other general eligibility requirements are met. [cite_start]For disabled veterans, active duty includes training service in the Reserves or National Guard.  [cite_start]Remember to complete the SF-15 form. 
+*     
+* Choices:
+    * "Confirm, proceed to eligibility summary." -> advisor/eligible_xp_10point.md
+    * "I made a mistake, review disability/Purple Heart options." -> advisor/ownservice_disability_details.md
+    * "Return to Advisor Start" -> advisor/start.md
 
-    1.  **Directory Check:**
-        * For each file specified in the Plan Document:
-            * Confirm the file resides in the `/advisor/` directory.
-    2.  **Filename Accuracy:**
-        * For each file specified in the Plan Document:
-            * Confirm the filename exactly matches the name given in the Plan Document (e.g., `advisor/start.md`, `advisor/ineligible_general.md`).
-    3.  **New File Creation:**
-        * Identify all files marked as "(New)" or "(File to be created...)" in the Plan Document.
-        * Confirm each of these files has been created.
-            * `advisor/ownservice_vow_checkretired.md`
-            * `advisor/ownservice_vow_retiredmajor_isdisabled.md`
-            * `advisor/ineligible_vow_retiredmajor_notdisabled.md`
-            * `advisor/ownservice_vow_honorableconditions.md`
-            * `advisor/ineligible_vow_discharge_type.md`
-            * `advisor/ownservice_checkdisability_intro.md`
-            * `advisor/ownservice_tp_24month_duration.md`
-            * `advisor/ownservice_tp_24month_exceptions.md`
-            * `advisor/eligible_tp_5point.md`
-            * `advisor/ineligible_tp_minduration.md`
-            * `advisor/ineligible_ownservice_noqualifyingperiod.md`
-            * *(Note: `advisor/derived_intro.md`, `advisor/ownservice_disability_details.md`, `advisor/ownservice_ssp_eligible.md` are future phase files but their placeholders might be checked for link validity later if linked from Phase 1 files).*
-    4.  **File Replacement:**
-        * Identify all files specified as replacing others in the Plan Document:
-            * `advisor/ineligible_general.md` (replaces `ineligible_start.md`)
-            * `advisor/ownservice_intro.md` (replaces `own_service_step1.md`)
-            * `advisor/ownservice_nodisability_nossps_checkserviceperiod.md` (replaces `ownservice_nodisability_checkserviceperiod.md`)
-        * Confirm the new file exists and the old file (if it existed) is no longer present or is clearly marked for deprecation if still needed for other branches.
+Task 2.6: Create advisor/ownservice_disability_clarify_sf15.md
+* File: advisor/ownservice_disability_clarify_sf15.md (New)
+* Title: Own Service: Disability Preference - Clarification Needed
+* Purpose: Advises users unsure of their disability status to check documentation and the SF-15.
+* Content/Question: Markdown     Understanding your specific disability rating and type is important for determining 10-point preference. Please review your documentation from the Department of Veterans Affairs (VA) or your branch of service. [cite_start]The Standard Form 15 (SF-15), 'Application for 10-Point Veteran Preference,' also provides details on required documentation.  Once you have more information, you can select the appropriate option from the previous page.
+*     
+* Choices:
+    * "Return to disability/Purple Heart options." -> advisor/ownservice_disability_details.md
+    * "Return to Advisor Start" -> advisor/start.md
 
----
+Task 2.7: Create advisor/eligible_xp_10point.md
+* File: advisor/eligible_xp_10point.md (New)
+* Title: Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
+* Purpose: Informs the user they may be eligible for 10-point preference (XP) based on Purple Heart or general disability criteria.
+* Content/Question: Markdown     [cite_start]Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP).  This is an initial assessment and not a final determination of preference.
+* 
+* Key considerations for XP preference:
+* * [cite_start]It can be based on receiving a Purple Heart OR having a service-connected disability (or receiving compensation/pension for it) that doesn't fall into the specific CP (10-20%) or CPS (30%+) categories. 
+* * [cite_start]You must have been discharged or released from active duty under honorable conditions (or expect to be if applying under the VOW Act). 
+* * [cite_start]Applicants claiming 10-point preference must typically complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit required documentation. 
+* * [cite_start]For disabled veterans, "active duty" includes training service in the Reserves or National Guard. 
+* * [cite_start]The 24-month minimum active duty service requirement that applies to some 5-point preference situations generally does not apply to those eligible for 10-point preference due to a separation for disability incurred or aggravated in the line of duty. 
+* 
+* Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
+*     
+* Choices:
+    * "Learn more about applying with 10-point preference (SF-15)" (Link to OPM guidance on SF-15 or a future detailed info page)
+    * "Return to Advisor Start" -> advisor/start.md
 
-### QA Phase 2: Page Titles and Layout Verification
+Task 2.8: Create advisor/eligible_cp_10point.md
+* File: advisor/eligible_cp_10point.md (New)
+* Title: Veteran's Preference Advisor - Potential 10-Point Eligibility (CP)
+* Purpose: Informs the user they may be eligible for 10-point preference (CP) based on a 10-20% disability.
+* Content/Question: Markdown     [cite_start]Based on your responses, you appear to meet the criteria for 10-point veteran's preference (CP) due to a service-connected disability rating of at least 10 percent but less than 30 percent.  This is an initial assessment and not a final determination of preference.
+* 
+* Key considerations for CP preference:
+* * [cite_start]You must have been discharged or released from active duty under honorable conditions (or expect to be if applying under the VOW Act). 
+* * [cite_start]Applicants claiming 10-point preference must typically complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit required documentation (like your VA rating decision). 
+* * [cite_start]For disabled veterans, "active duty" includes training service in the Reserves or National Guard. 
+* * [cite_start]The 24-month minimum active duty service requirement that applies to some 5-point preference situations generally does not apply to those eligible for 10-point preference due to a separation for disability incurred or aggravated in the line of duty. 
+* 
+* Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
+*     
+* Choices:
+    * "Learn more about applying with 10-point preference (SF-15)" (Link to OPM guidance on SF-15 or a future detailed info page)
+    * "Return to Advisor Start" -> advisor/start.md
 
-* **Objective:** Verify that each Phase 1 Markdown file has the correct title and specified layout.
-* **Files to View (from the Plan Document and corresponding developed .md files):** All files listed in Phase 1, Sections 1 through 6.
-* **Verification Tasks (can be parallelized per file):**
+Task 2.9: Create advisor/eligible_cps_10point.md
+* File: advisor/eligible_cps_10point.md (New)
+* Title: Veteran's Preference Advisor - Potential 10-Point Eligibility (CPS)
+* Purpose: Informs the user they may be eligible for 10-point preference (CPS) based on a 30%+ disability.
+* Content/Question: Markdown     [cite_start]Based on your responses, you appear to meet the criteria for 10-point veteran's preference (CPS) due to a service-connected disability rating of 30 percent or more.  This is an initial assessment and not a final determination of preference.
+* 
+* Key considerations for CPS preference:
+* * [cite_start]You must have been discharged or released from active duty under honorable conditions (or expect to be if applying under the VOW Act). 
+* * [cite_start]Applicants claiming 10-point preference must typically complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit required documentation (like your VA rating decision). 
+* * [cite_start]For disabled veterans, "active duty" includes training service in the Reserves or National Guard. 
+* * [cite_start]The 24-month minimum active duty service requirement that applies to some 5-point preference situations generally does not apply to those eligible for 10-point preference due to a separation for disability incurred or aggravated in the line of duty. 
+* 
+* Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
+*     
+* Choices:
+    * "Learn more about applying with 10-point preference (SF-15)" (Link to OPM guidance on SF-15 or a future detailed info page)
+    * "Return to Advisor Start" -> advisor/start.md
 
-    1.  **Title Verification:**
-        * For each file listed in the Plan Document:
-            * Open the corresponding Markdown file.
-            * Check that the `Title:` frontmatter matches the exact title specified in the Plan Document.
-    2.  **Layout Verification:**
-        * For each file listed in the Plan Document:
-            * Open the corresponding Markdown file.
-            * Confirm the frontmatter includes `layout: default` (or the specified custom advisor layout, if one was decided upon).
-
----
-
-### QA Phase 3: Content, Purpose, and Citation Accuracy Verification
-
-* **Objective:** Ensure the content (Purpose, Content/Question) of each page aligns with the Plan Document and that citations are correctly indicated.
-* **Files to View (from the Plan Document, corresponding developed .md files, and hrdocs.txt):** All files listed in Phase 1, Sections 1 through 6.
-* **Verification Tasks (can be parallelized per file):**
-
-    1.  **Purpose Alignment:**
-        * For each file in the Plan Document:
-            * Read the stated `Purpose:`.
-            * Review the actual `Content/Question:` in the Markdown file.
-            * Confirm the content fulfills the stated purpose.
-    2.  **Content/Question Accuracy:**
-        * For each file in the Plan Document:
-            * Compare the `Content/Question:` in the Markdown file with the text specified in the Plan Document.
-            * Verify accuracy and completeness. Minor wording changes for clarity are acceptable if they don't alter the meaning or logic, but should be noted.
-    3.  **Citation Marker Presence:**
-        * For each file, check the `Content/Question:` and `Notes:` in the Plan Document for mentions of "OPM Vet Guide" or specific sections/appendices.
-        * In the corresponding Markdown file, ensure that:
-            * The relevant information from the OPM Vet Guide is incorporated or accurately summarized.
-            * Where the Plan Document says "(See OPM Vet Guide...)" or similar, ensure the Markdown file includes such a reference or that the information is directly integrated. (The Plan notes "Citations from hrdocs.txt are incorporated into the content/questions as appropriate"). Verify this incorporation.
-
----
-
-### QA Phase 4: Navigational Choices and Links Verification
-
-* **Objective:** Verify that all navigational choices (links) within each Phase 1 file are correctly implemented as per the Plan Document, including "Return to Advisor Start" links.
-* **Files to View (from the Plan Document and corresponding developed .md files):** All files listed in Phase 1, Sections 1 through 6.
-* **Verification Tasks (can be parallelized per file):**
-
-    1.  **Choice Text and Destination Verification:**
-        * For each file detailed in the Plan Document:
-            * Locate the `Choices:` section.
-            * For each choice listed:
-                * Verify the link text in the Markdown file accurately matches the specified choice text (e.g., "My own service in the U.S. Armed Forces").
-                * Verify the link destination (e.g., `-> advisor/ownservice_intro.md`) correctly points to the specified target Markdown file. Ensure relative paths are correct (e.g., `./filename.md`).
-    2.  **"Return to Advisor Start" Link:**
-        * For almost every page (as per "Overall Site Structure Considerations"):
-            * Confirm the presence of the link: `[Return to Advisor Start](./start.md)`.
-            * Verify it correctly links to `advisor/start.md`.
-            * Note any files where this link is missing (unless intentionally omitted and documented).
-    3.  **External/Informational Links (if any):**
-        * For `advisor/eligible_tp_5point.md`:
-            * Check the choice: `"Learn more about what to do next" (Link to a general info page, or OPM guidance)`.
-            * Verify this link exists and, if the target is defined, that it's correct. If the target is not yet defined, note it as pending.
-
----
-
-### QA Phase 5: Logic Flow and Notes Implementation Verification
-
-* **Objective:** Check that any specific logic flows or conditions mentioned in the "Notes" or content of the Plan Document are correctly implemented.
-* **Files to View (from the Plan Document and corresponding developed .md files):** Primarily files with "Notes:" or complex branching logic.
-* **Verification Tasks (can be parallelized per file where notes exist):**
-
-    1.  **`advisor/start.md` Notes:**
-        * Plan Note: "Links updated to new standardized filenames."
-        * Confirm all links in `start.md` use the standardized filenames as per the Plan Document.
-    2.  **`advisor/ownservice_intro.md` Notes:**
-        * Plan Note: "Review and potentially update `ineligible_ownservice_status.md`."
-        * While the AI can't "review" in a subjective sense, it can confirm that `ineligible_ownservice_status.md` reflects the content described for it in the Plan Document.
-    3.  **`advisor/ownservice_discharged_retiredmajor_isdisabled.md` Content Logic:**
-        * Plan Content: "Yes, I am a disabled veteran." -> `advisor/ownservice_discharged_honorableconditions.md` (Disability preference will be key, but other conditions like honorable discharge are still checked first).
-        * Confirm this specific routing logic is implemented.
-    4.  **`advisor/ownservice_vow_honorableconditions.md` Content Logic:**
-        * Plan Choice: "Yes, my certification indicates an expected Honorable or General discharge." -> `advisor/ownservice_checkdisability_intro.md` (Routing to check disability first... wording on subsequent pages may need to remind user this is based on certification until DD214 issued).
-        * Confirm this routing. Note if subsequent pages (`ownservice_checkdisability_intro.md` path) have reminders about VOW Act certification basis (though this might be a Phase 2 check depending on how content is structured).
-    5.  **`advisor/ownservice_checkdisability_intro.md` Link to Future Phase:**
-        * Plan Choice: "Yes, I have a service-connected disability OR I received a Purple Heart." -> `advisor/ownservice_disability_details.md` (File to be created in Phase 2 - Disability Path).
-        * Verify the link exists. The target file might not be fully developed, but the link should be present.
-    6.  **`advisor/ownservice_discharged_checkfirst_solesurvivor.md` Link to Future Phase & Content:**
-        * Plan Choice: "Yes, I believe I had a sole survivorship discharge." -> `advisor/ownservice_ssp_eligible.md` (File to be created in Phase 4 - Sole Survivor Path).
-        * Verify the link exists.
-        * Plan Note: "content adjusted for flow" & "Renamed from `ownservice_nodisability_checkserviceperiod.md` for clarity of this path".
-        * Confirm the content aligns with what's in the Plan Doc for `advisor/ownservice_discharged_checkfirst_solesurvivor.md`.
-    7.  **`advisor/ownservice_tp_24month_exceptions.md` Link to Future Phase:**
-        * Plan Choice: "Yes, I was separated due to a service-connected disability." -> `advisor/ownservice_disability_details.md` (Link to Phase 2 - Disability Path...).
-        * Verify the link exists.
-    8.  **Disclaimer Accessibility:**
-        * Per "Overall Site Structure Considerations," verify that the disclaimer is "visible or easily accessible from all advisor pages." Determine how this was implemented (e.g., footer, standard include) and check its presence/accessibility on a sample of pages, then extrapolate or list all pages for verification.
+This concludes the development plan for Phase 2. Once these files are created, the next step would be a QA plan similar to the one you previously generated for Phase 1, to check these new Phase 2 files.
