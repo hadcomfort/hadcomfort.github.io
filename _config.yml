@@ -1,3 +1,21 @@
 theme: jekyll-theme-minimal
 title: Veterans Information Resource
 description: Veterans Information Resource
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-mentions
+  - jekyll-include-cache
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: true
+  footnote_nr: 1
+  entity_output: as_char
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+  math_engine: mathjax
