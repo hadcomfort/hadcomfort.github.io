@@ -12,9 +12,9 @@ The OPM Vet Guide for HR Professionals specifies for both "Mother of a deceased 
 
 Is this condition true in your case?
 
-* `"Yes, I am or was married to the father of the veteran."` -> `advisor/derived_mother_common_currentmarital.md`
-* `"No, I am not nor was I ever married to the father of the veteran."` -> `advisor/ineligible_derived_mother_notmarriedtofather.md`
-* `"[Go back to the previous question about the veteran's service/status]"` -> `advisor/derived_mother_vetstatus.md` (This link might need to be dynamic based on user path, but for now, it points to the general start of mother's preference questions)
-* `"[Return to Advisor Start]"` -> `advisor/start.md`
+*   [Yes, I am or was married to the father of the veteran.](./derived_mother_common_currentmarital.md)
+*   [No, I am not nor was I ever married to the father of the veteran.](./ineligible_derived_mother_notmarriedtofather.md)
+*   [Go back to the previous question about the veteran's service/status](./derived_mother_vetstatus.md)
+*   [Return to Advisor Start](./advisor/start.md)
 
 [Return to Advisor Start](./start.md)
