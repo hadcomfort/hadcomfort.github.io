@@ -1,10 +1,36 @@
 # Frequently Asked Questions
 
-This page answers common questions about Veteran's Preference in federal hiring. The information is based on the OPM Vet Guide for HR Professionals.
+This page answers common questions about Veteran's Preference and special appointing authorities for veterans in federal hiring. The information is based on the OPM Vet Guide for HR Professionals and related guidance.
+
+## What are the main special appointing authorities available to help veterans get federal jobs?
+
+There are several key authorities:
+*   **Veterans Recruitment Appointment (VRA):** Allows agencies to non-competitively appoint eligible veterans to positions up to GS-11 or equivalent.
+*   **30 Percent or More Disabled Veterans:** Enables agencies to make non-competitive temporary or term appointments to veterans with a VA disability rating of 30% or more, which can be converted to permanent.
+*   **Disabled Veterans Enrolled in a VA Training Program:** Facilitates work experience and training for disabled veterans in federal agencies, potentially leading to a non-competitive appointment after program completion.
+*   **Veterans Employment Opportunities Act of 1998 (VEOA):** Permits preference eligibles and certain other veterans to apply for federal jobs announced under merit promotion procedures that are not open to the general public.
+
+Each authority has specific eligibility requirements and procedures. You can find more details on the [Special Appointing Authorities for Veterans](special_appointing_authorities.md) page.
+
+## How does the Veterans Recruitment Appointment (VRA) differ from VEOA?
+
+VRA and VEOA are distinct authorities that help veterans in different ways:
+*   **VRA (Veterans Recruitment Appointment):** This is an excepted service appointing authority (see 5 CFR Part 307) that allows agencies to appoint eligible veterans to positions up to GS-11 (or equivalent) *without competition*. Eligibility for VRA includes being a disabled veteran, serving during a war or in a campaign for which a medal was awarded, receiving an Armed Forces Service Medal, or being a "recently separated veteran." After two years of satisfactory service, a VRA appointee must be converted to a career or career-conditional appointment.
+*   **VEOA (Veterans Employment Opportunities Act):** This authority (see 5 U.S.C. § 3304) allows preference eligibles and other eligible veterans (generally those with 3 or more years of continuous active service) to *compete* for positions announced under merit promotion procedures when an agency is recruiting from outside its own workforce. It's not a non-competitive authority, and veterans' preference points (5 or 10 points) are not applied as they are in competitive examinations. If selected under VEOA, the appointment is to a career or career-conditional position.
+
+In short, VRA is a non-competitive hiring path for specific roles, while VEOA provides broader access to compete for jobs that might otherwise be restricted to current federal employees.
+
+## Can I be appointed non-competitively if I have a significant disability?
+
+Yes, there are specific authorities for this:
+*   **30 Percent or More Disabled Veterans:** This authority (5 U.S.C. § 3112) allows agencies to give a non-competitive temporary appointment (longer than 60 days) or a term appointment to veterans who retired from active military service with a disability rating of 30% or more, or who have a VA rating of a compensable service-connected disability of 30% or more. These appointments can be converted to career or career-conditional status at any time.
+*   **Disabled Veterans Enrolled in a VA Training Program:** Veterans eligible for training under the VA vocational rehabilitation program (38 U.S.C. § Chapter 31) can be placed in a federal agency for work experience or training. Upon successful completion, the agency and VA issue a Certificate of Training, which allows any agency to appoint the veteran non-competitively. This appointment may also be converted to career or career-conditional.
+
+These authorities are designed to provide a direct path to federal employment for veterans with significant disabilities.
 
 ## How is "war" defined for preference purposes?
 
-For veteran's preference purposes, "war" means only those armed conflicts declared by Congress as war. This includes World War II (December 7, 1941, to April 28, 1952). Title 38 U.S.C. defines "period of war" to include many non-declared wars for VA benefits, but this definition is NOT applicable for civil service preference purposes. (OPM Vet Guide, 'Introduction')
+For veteran's preference purposes, "war" means only those armed conflicts declared by Congress as war. This includes World War II (December 7, 1941, to April 28, 1952). 38 U.S.C. § defines "period of war" to include many non-declared wars for VA benefits, but this definition is NOT applicable for civil service preference purposes. (OPM Vet Guide, 'Introduction')
 
 ## What's the difference between 5-point and 10-point preference?
 
@@ -18,7 +44,7 @@ When using a numerical ranking process for competitive examinations, eligible ve
 * For more than 180 consecutive days (other than for training) any part of which occurred during the period beginning September 11, 2001, and ending on August 31, 2010 (last day of Operation Iraqi Freedom); or
 * In a campaign or expedition for which a campaign medal has been authorized.
 
-A campaign medal holder or Gulf War veteran who originally enlisted after September 7, 1980, (or began active duty on or after October 14, 1982, and had not previously completed 24 months of continuous active duty) must have served continuously for 24 months or the full period for which called or ordered to active duty. **Importantly, this 24-month service requirement does not apply to 10-point preference eligibles, particularly those separated for a service-connected disability (incurred or aggravated in the line of duty) or to veterans separated for hardship or other reasons under 10 U.S.C. 1171 or 1173.**
+A campaign medal holder or Gulf War veteran who originally enlisted after September 7, 1980, (or began active duty on or after October 14, 1982, and had not previously completed 24 months of continuous active duty) must have served continuously for 24 months or the full period for which called or ordered to active duty. **Importantly, this 24-month service requirement does not apply to 10-point preference eligibles, particularly those separated for a service-connected disability (incurred or aggravated in the line of duty) or to veterans separated for hardship or other reasons under 10 U.S.C. § 1171 or § 1173.**
 
 **10-Point Preference:** Ten points are added for:
 * **Compensable Disability Preference (CP):** Veterans with a compensable service-connected disability rating of at least 10% but less than 30%.
@@ -47,7 +73,7 @@ The VOW (Veterans Opportunity to Work) to Hire Heroes Act of 2011 allows active 
 
 A "certification" is any written document from the armed forces that certifies the service member is expected to be discharged or released from active duty service under honorable conditions within 120 days after the certification is submitted. The certification letter should be on letterhead of the appropriate military branch and contain (1) the military service dates including the expected discharge or release date; and (2) the character of service.
 
-Agencies are required to accept, process, and grant tentative veterans’ preference to those active duty service members who submit such a certification. However, agencies must verify the individual meets the definition of ‘preference eligible’ under 5 U.S.C. 2108 prior to appointment, which may involve providing the DD Form 214 after it is issued.
+Agencies are required to accept, process, and grant tentative veterans’ preference to those active duty service members who submit such a certification. However, agencies must verify the individual meets the definition of ‘preference eligible’ under 5 U.S.C. § 2108 prior to appointment, which may involve providing the DD Form 214 after it is issued.
 
 If an applicant is claiming preference based on service (e.g., in Bosnia) and does not have a DD Form 214 to support the claim, tentative preference may be accorded, but proof of entitlement (like an amended DD Form 214 or other official documentation) must be submitted before appointment. (OPM Vet Guide, 'A word about the VOW (Veterans Opportunity to Work) Act' and 'Questions and Answers about Gulf War Preference')
 

@@ -27,7 +27,9 @@ Additional protections are in place for preference eligibles who have a compensa
 The guidelines concerning physical qualifications, waivers, and special provisions for disabled veterans are primarily found in:
 
 *   **5 U.S.C. § 3312:** This section of the United States Code addresses physical qualifications for federal employment and the waiver of such requirements.
-*   **5 CFR Part 339.204:** This part of the Code of Federal Regulations details medical qualification determinations, including the process for waiving physical requirements.
+*   **5 CFR § 339.204:** This section of the Code of Federal Regulations details medical qualification determinations, including the process for waiving physical requirements.
 *   **5 U.S.C. § 3318:** This section is also relevant for the procedures regarding the disqualification of disabled veterans.
 
-Ultimately, preference eligibles cannot be disqualified based on physical requirements unless those requirements are essential for the job and alternatives (like reasonable accommodation or waiver) are not possible. An "annuitant" generally refers to someone receiving a retirement annuity. A "compensable disability" refers to a service-connected disability for which monetary compensation is paid by the Department of Veterans Affairs.
+In summary, preference eligibles, particularly those with significant service-connected disabilities, have specific rights and protections concerning physical qualifications for federal employment. Agencies must follow established procedures, including potential waivers and OPM review, to ensure these individuals are not unfairly disqualified.
+
+*Note: An "annuitant" generally refers to someone receiving a retirement annuity. A "compensable disability" refers to a service-connected disability for which monetary compensation is paid by the Department of Veterans Affairs.*

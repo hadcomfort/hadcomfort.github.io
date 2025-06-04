@@ -68,7 +68,7 @@ USERRA provides significant protections for employees:
 
 The primary legal and regulatory authorities for these restoration rights are:
 
-*   **Title 38 U.S.C. chapter 43:** This chapter of the United States Code is the main body of law for USERRA.
+*   **38 U.S.C. Chapter 43 (Uniformed Services Employment and Reemployment Rights Act - USERRA):** This chapter of the United States Code (specifically sections 4301-4335) is the main body of law outlining reemployment rights.
 *   **5 CFR Part 353:** This part of the Code of Federal Regulations contains OPM's (Office of Personnel Management) regulations on restoration after uniformed service.
 
 These restoration rights are crucial for ensuring that individuals are not disadvantaged in their civilian careers due to military service obligations.

@@ -1,6 +1,6 @@
 # Appointment of 30 Percent or More Disabled Veterans
 
-This page details a special appointing authority that allows federal agencies to non-competitively appoint veterans with a service-connected disability rating of 30% or more to federal positions. This authority facilitates the hiring of these highly deserving veterans by providing a more direct path to federal employment, bypassing traditional competitive examining procedures.
+This page details the special appointing authority that enables federal agencies to non-competitively appoint eligible veterans with a service-connected disability rating of 30% or more to federal positions. This authority facilitates the hiring of these highly deserving veterans by providing a more direct path to federal employment, bypassing traditional competitive examining procedures.
 
 ## Eligibility Criteria
 

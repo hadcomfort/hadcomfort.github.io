@@ -1,8 +1,21 @@
 # Special Appointing Authorities for Veterans
 
+## Key Takeaways
+
+This page outlines several special appointing authorities designed to help eligible veterans secure federal employment. These include:
+
+*   **Veterans Recruitment Appointment (VRA):** Allows agencies to appoint eligible veterans to positions up to GS-11 or equivalent without competition.
+*   **30 Percent or More Disabled Veterans:** Enables agencies to noncompetitively appoint veterans with a disability rating of 30% or more.
+*   **Disabled Veterans Enrolled in a VA Training Program:** Facilitates work experience and training for disabled veterans in federal agencies, potentially leading to noncompetitive appointment.
+*   **Veterans Employment Opportunities Act of 1998 (VEOA):** Permits preference eligibles and certain veterans to apply for merit promotion positions open to candidates outside the agency's workforce.
+
+These authorities acknowledge the contributions of veterans and provide pathways into civil service. Each authority has specific eligibility criteria and appointment procedures.
+
 Several special appointing authorities are available to assist eligible veterans in obtaining federal employment. These authorities recognize the sacrifices of veterans and aim to facilitate their entry or return to the civil service.
 
 ## Veterans Recruitment Appointment (VRA) Authority
+
+The Veterans Recruitment Appointment (VRA) authority is a special hiring path that allows federal agencies to appoint eligible veterans to positions up to the GS-11 level (or equivalent) without going through the usual competitive hiring process. This authority streamlines the hiring process for veterans meeting specific service and discharge criteria.
 
 The VRA authority allows agencies to appoint eligible veterans to positions up to GS-11 or equivalent without competition. These are excepted appointments to positions that would otherwise be in the competitive service.
 
@@ -32,13 +45,17 @@ An individual must be separated under honorable conditions (honorable or general
 **Nonpermanent Appointment Based on VRA Eligibility:**
 Agencies can make noncompetitive temporary or term appointments based on VRA eligibility at authorized grade levels. These are not VRA appointments and do not lead to conversion.
 
+In summary, the VRA authority provides a valuable route for eligible veterans to enter federal service or advance their careers, recognizing their service with a streamlined appointment process.
+
 **Citations:**
-*   38 U.S.C. 4214
+*   38 U.S.C. § 4214
 *   Pub. L. 107-288
 *   5 CFR Part 307
-*   5 CFR 752.401(c)(3)
+*   5 CFR § 752.401(c)(3)
 
 ## 30 Percent or More Disabled Veterans
+
+This authority provides a noncompetitive pathway for veterans with significant service-connected disabilities to be appointed to federal positions. It allows agencies to make temporary or term appointments to eligible disabled veterans, which can then be converted to permanent positions.
 
 This authority allows agencies to give a noncompetitive temporary appointment (more than 60 days) or a term appointment to certain disabled veterans.
 
@@ -52,12 +69,16 @@ The veteran must be:
 *   The appointee must meet all qualification requirements, including any written test.
 *   **Conversion:** The agency may convert the employee to a career or career-conditional appointment at any time during the temporary or term appointment, without a break in service.
 
+This authority is crucial for providing employment opportunities to veterans whose disabilities might otherwise pose barriers to traditional hiring processes.
+
 **Citations:**
-*   5 U.S.C. 3112
-*   5 CFR 316.302, 316.402
-*   5 CFR 315.707
+*   5 U.S.C. § 3112
+*   5 CFR § 316.302, 316.402
+*   5 CFR § 315.707
 
 ## Disabled Veterans Enrolled in a VA Training Program
+
+This program offers disabled veterans who are eligible for VA vocational rehabilitation the chance to gain valuable work experience or training within a federal agency. This practical experience can be a stepping stone to permanent federal employment.
 
 Disabled veterans eligible for training under the VA vocational rehabilitation program can gain work experience or training at a federal agency.
 
@@ -72,12 +93,16 @@ Disabled veterans eligible for training under the VA vocational rehabilitation p
 *   This certificate allows any agency to appoint the veteran noncompetitively via a status quo appointment.
 *   **Conversion:** This appointment may be converted to career or career-conditional at any time.
 
+By participating in this program, disabled veterans can develop new skills and demonstrate their capabilities in a real-world work environment, enhancing their employability within the federal government.
+
 **Citations:**
-*   38 U.S.C. chapter 31
-*   5 CFR 3.1
-*   5 CFR 315.604
+*   38 U.S.C. § chapter 31
+*   5 CFR § 3.1
+*   5 CFR § 315.604
 
 ## Veterans Employment Opportunities Act of 1998 (VEOA)
+
+The Veterans Employment Opportunities Act of 1998 (VEOA) is a significant piece of legislation that expands employment opportunities for veterans in the federal government. It allows preference eligibles and other eligible veterans to compete for federal job openings that are announced under merit promotion procedures, even if those openings are not otherwise available to external candidates.
 
 The VEOA allows preference eligibles or eligible veterans to apply for positions announced under merit promotion procedures when an agency is recruiting from outside its own workforce.
 
@@ -103,10 +128,12 @@ An applicant must be:
 *   Employees appointed to the competitive service have competitive service appeal rights.
 *   Those under Schedule B (appointed prior to amendments or noncompetitively) have excepted service appeal rights.
 
+In essence, VEOA levels the playing field, giving eligible veterans a chance to compete for a broader range of federal jobs and facilitating their transition into or advancement within the civil service.
+
 **Citations:**
-*   5 U.S.C. 3304, 3330
-*   5 CFR 213.3202(n) (refers to the older Schedule B authority)
-*   5 CFR 335.106
+*   5 U.S.C. § 3304, 3330
+*   5 CFR § 213.3202(n) (refers to the older Schedule B authority)
+*   5 CFR § 335.106
 *   Pub. L. 106-117, Section 511 (for new VEOA appointments)
 
 ## Detailed Guides on Specific Authorities
