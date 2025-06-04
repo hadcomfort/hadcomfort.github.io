@@ -18,7 +18,7 @@ When using a numerical ranking process for competitive examinations, eligible ve
 * For more than 180 consecutive days (other than for training) any part of which occurred during the period beginning September 11, 2001, and ending on August 31, 2010 (last day of Operation Iraqi Freedom); or
 * In a campaign or expedition for which a campaign medal has been authorized.
 
-A campaign medal holder or Gulf War veteran who originally enlisted after September 7, 1980, (or began active duty on or after October 14, 1982, and has not previously completed 24 months of continuous active duty) must have served continuously for 24 months or the full period called or ordered to active duty. This 24-month requirement does not apply to 10-point preference eligibles separated for disability or hardship.
+A campaign medal holder or Gulf War veteran who originally enlisted after September 7, 1980, (or began active duty on or after October 14, 1982, and had not previously completed 24 months of continuous active duty) must have served continuously for 24 months or the full period for which called or ordered to active duty. **Importantly, this 24-month service requirement does not apply to 10-point preference eligibles, particularly those separated for a service-connected disability (incurred or aggravated in the line of duty) or to veterans separated for hardship or other reasons under 10 U.S.C. 1171 or 1173.**
 
 **10-Point Preference:** Ten points are added for:
 * **Compensable Disability Preference (CP):** Veterans with a compensable service-connected disability rating of at least 10% but less than 30%.
@@ -80,3 +80,21 @@ No, preference does not apply to all federal jobs.
 * Promotions, reassignments, changes to lower grade, transfers, or reinstatements.
 
 Agencies have broad authority to hire from any appropriate source of eligibles, including special appointing authorities, and are required to give priority to displaced employees before using civil service examinations. (OPM Vet Guide, 'When Preference Applies')
+
+## What is 0-point "Sole Survivorship Preference" (SSP)?
+
+Sole Survivorship Preference (SSP) is a type of veteran's preference established by the Hubbard Act (Public Law 110-317) for veterans released or discharged from active duty after August 29, 2008, by reason of a "sole survivorship discharge."
+
+Under this preference, the individual:
+* Does not receive numerical points (like 5 or 10 points) added to their score.
+* Is entitled to be listed ahead of non-preference eligibles with the same score on an examination, or listed ahead of non-preference eligibles in the same quality category when agencies use category rating.
+* Is entitled to the same pass over rights as other preference eligibles.
+* Is entitled to credit experience in the armed forces to meet qualification requirements.
+
+This preference applies to the only surviving child in a family where the father, mother, or one or more siblings served in the armed forces and was killed, died as a result of wounds/accident/disease, is in a captured/missing in action status, or is permanently 100% disabled or hospitalized (and not gainfully employed due to it), where the death, status, or disability was not due to intentional misconduct or willful neglect and not incurred during unauthorized absence. (OPM Vet Guide, 'Types of Preference', '0-point Preference (SSP)')
+
+## Are "Man-Day Tours" considered active duty for preference?
+
+Yes, "Man-Day Tours," also known as active duty in support (ADS), are generally considered regular active duty for preference purposes if the individual was awarded a campaign or expeditionary medal (like the Southwest Asia Service Medal - SWASM) or served during a qualifying period (e.g., August 2, 1990, to January 2, 1992, for Gulf War preference).
+
+This service is often funded from a military appropriation account (MPA) and supports short-term active force needs. Federal agencies should treat man-day tours as regular active duty unless there is a clear indication on the orders that it was active duty *for training*. A reservist performing active duty for training would typically not be eligible for a campaign or expeditionary medal. (OPM Vet Guide, 'A Word about Man-Day Tours')

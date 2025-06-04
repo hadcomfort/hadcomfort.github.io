@@ -3,6 +3,8 @@ layout: default
 title: Veteran's Preference Advisor - Start
 ---
 
+This interactive advisor will guide you through a series of questions to help determine potential eligibility for U.S. Federal employment veteran's preference. Your answers will help navigate the complexities of preference rules.
+
 Let's determine your potential veteran's preference.
 This tool is designed to help you understand potential eligibility for U.S. Federal employment veterans' preference. Please select the primary basis on which you are seeking to determine potential eligibility: (Note: 'Armed Forces' generally means Army, Navy, Air Force, Marine Corps, and Coast Guard as defined in 5 U.S.C. 2101(2). Specific conditions apply for other uniformed services like NOAA and Public Health Service; see OPM Vet Guide Appendix B for details.)
 
