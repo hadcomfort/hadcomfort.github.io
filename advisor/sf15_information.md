@@ -3,7 +3,7 @@ layout: default
 title: Understanding the SF-15, Application for 10-Point Veteran Preference
 ---
 
-## Understanding the SF-15: Application for 10-Point Veteran Preference
+# Understanding the SF-15: Application for 10-Point Veteran Preference
 
 The Standard Form 15 (SF-15) is an official government form used by federal agencies to adjudicate claims for 10-point veteran preference. If you are claiming 10-point preference as a disabled veteran or as an eligible relative (e.g., spouse, widow/widower, or mother of a veteran), you will likely need to complete and submit this form along with required supporting documentation.
 

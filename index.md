@@ -59,7 +59,7 @@ Click the link below to begin the process of determining veteran's preference.
 
 For the most current, detailed, and official information, please consult:
 
-* **U.S. Office of Personnel Management (OPM) - VetGuide for HR Professionals:** [https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/)
-* **U.S. Department of Veterans Affairs (VA) - Careers and Employment:** [https://www.va.gov/careers-employment/](https://www.va.gov/careers-employment/) (For general career resources; specific preference information is often handled by OPM or individual hiring agencies)
+* **U.S. Office of Personnel Management (OPM) - VetGuide for HR Professionals:** [OPM VetGuide for HR Professionals](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/)
+* **U.S. Department of Veterans Affairs (VA) - Careers and Employment:** [VA Careers and Employment](https://www.va.gov/careers-employment/) (For general career resources; specific preference information is often handled by OPM or individual hiring agencies)
 
 We hope this resource empowers you with valuable insights. Thank you for your service!
