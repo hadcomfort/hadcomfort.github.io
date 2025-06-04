@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Spouse): Veteran's Disability Details
 ---
 
+# Derived Preference (Spouse): Veteran's Disability Details
+
 You indicated the veteran is disqualified for their usual occupation due to a service-connected disability. Such disqualification may be presumed if the veteran is unemployed AND one of the following situations applies. Which best describes the veteran's situation?
 
 *   `"The veteran is unemployed AND is rated by appropriate military or Department of Veterans Affairs authorities to be 100 percent disabled and/or unemployable."` (OPM Vet Guide, section [133]) -> `advisor/eligible_xp_derived_spouse.md`

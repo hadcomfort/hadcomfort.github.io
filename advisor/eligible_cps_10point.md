@@ -3,6 +3,8 @@ layout: default
 title: Veteran's Preference Advisor - Potential 10-Point Eligibility (CPS)
 ---
 
+# Veteran's Preference Advisor - Potential 10-Point Eligibility (CPS)
+
 Based on your responses, you appear to meet the criteria for 10-point veteran's preference (CPS) due to a service-connected disability rating of 30 percent or more. This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. Importantly, CPS eligibility may also allow you to be considered for certain positions non-competitively. (OPM Vet Guide, '10-Point Preference Due to Compensable Service-Connected Disability of 30 Percent or More (CPS)')
 
 Key considerations for CPS preference:

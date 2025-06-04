@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Spouse): Veteran's Status
 ---
 
+# Derived Preference (Spouse): Veteran's Status
+
 Is the veteran on whose service you are basing your claim currently living?
 
 *   `"Yes, the veteran is living."` -> `advisor/derived_spouse_vetqualifiedforemployment.md`

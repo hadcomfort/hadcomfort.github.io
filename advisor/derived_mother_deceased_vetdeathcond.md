@@ -3,6 +3,8 @@ layout: default
 title: Mother of Deceased Veteran - Conditions of Veteran's Death & Service
 ---
 
+# Mother of Deceased Veteran - Conditions of Veteran's Death & Service
+
 Regarding your deceased veteran child: Did they die under honorable conditions while on active duty, AND was this active duty performed during:
 * a declared war (e.g., World War II), OR
 * the period April 28, 1952, through July 1, 1955, OR

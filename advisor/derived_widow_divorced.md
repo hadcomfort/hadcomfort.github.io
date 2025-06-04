@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Widow/Widower): Marital Status at Veteran's Death
 ---
 
+# Derived Preference (Widow/Widower): Marital Status at Veteran's Death
+
 Were you divorced from the veteran at the time of their death? (OPM Vet Guide, section [139])
 
 *   `"Yes, I was divorced."` -> `ineligible_derived_widow_divorced.md`

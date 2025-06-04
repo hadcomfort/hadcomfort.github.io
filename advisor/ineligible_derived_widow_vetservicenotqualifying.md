@@ -2,6 +2,9 @@
 layout: default
 title: Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
 ---
+
+# Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
+
 ## Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
 
 For derived preference as a widow/widower, the veteran's service generally must have been during a declared war, specific post-war periods (April 28, 1952 - July 1, 1955), or in a campaign or expedition for which a medal was authorized; OR the veteran must have died on active duty during such qualifying service (OPM Vet Guide, sections [139, 140]).

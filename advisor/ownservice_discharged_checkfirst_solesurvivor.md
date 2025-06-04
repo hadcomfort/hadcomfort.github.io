@@ -3,6 +3,8 @@ layout: default
 title: "Own Service: Check for Sole Survivorship Preference"
 ---
 
+# Own Service: Check for Sole Survivorship Preference
+
 You've indicated no current claim to disability/Purple Heart preference. Now we need to determine other types of preference you might be eligible for.
 
 The Sole Survivorship Preference (SSP) is a specific type of preference. Let's check if this might apply to you.

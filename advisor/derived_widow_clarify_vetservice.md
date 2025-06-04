@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Widow/Widower) - Clarification on Veteran's Service
 ---
 
+# Derived Preference (Widow/Widower) - Clarification on Veteran's Service
+
 To determine eligibility, please review the veteran's service records (such as the DD Form 214). Specifically, check if their service included:
 * A declared war (e.g., World War II: December 7, 1941 - April 28, 1952).
 * Service during the period April 28, 1952, through July 1, 1955.
