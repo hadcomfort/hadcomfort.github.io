@@ -1,47 +1,112 @@
-# Veteran's Preference Advisor Website (hadcomfort.github.io)
+# Veteran's Preference Advisor & Information Hub
 
-This README provides an overview of the Veteran's Preference Advisor website project, how to run it locally, and its content structure.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://img.shields.io/github/deployments/hadcomfort/hadcomfort.github.io/github-pages?label=docs%20%26%20demo&logo=github)](https://hadcomfort.github.io/)
 
-## Purpose
+**Demystifying U.S. Federal Veteran's Preference, one click at a time.**
 
-The primary goal of the Veteran's Preference Advisor website is to provide a clear, accessible, and user-friendly tool for U.S. veterans to understand their eligibility for veteran's preference in federal hiring. We aim to demystify the complex regulations and guidance provided by the Office of Personnel Management (OPM) and empower veterans with the knowledge to confidently navigate the federal job application process.
+This project provides a clear, accessible, and user-friendly resource for U.S. veterans, their families, and those assisting them to understand eligibility for veteran's preference in federal hiring. Our core feature is an interactive **Veteran's Preference Advisor** tool, complemented by a wealth of informational content based directly on official U.S. Office of Personnel Management (OPM) guidance.
 
-## Overview
+**➡️ Visit the Live Site & Advisor Tool: [https://hadcomfort.github.io/](https://hadcomfort.github.io/)**
 
-### Project Description
+---
 
-Welcome to our Veteran's Preference Advisor! This website is designed to help you understand how U.S. Veteran's Preference works in federal hiring.
+## 🌟 About The Project
 
-Our core feature is the "Veteran's Preference Advisor" tool. This interactive tool will guide you through a series of questions to help you determine your potential eligibility for different types of veteran's preference.
+Navigating the rules and regulations surrounding U.S. Veteran's Preference for federal employment can be a daunting task. The official guidelines are comprehensive but can be dense and difficult to parse for specific situations. This project aims to bridge that gap.
 
-The information provided by this tool is based on the Office of Personnel Management (OPM) Vet Guide. Our goal is to make this information more accessible and easier to understand.
+**Our Mission:** To empower U.S. veterans and their advocates with an intuitive tool and clear information, making the complexities of veteran's preference more understandable and accessible.
 
-We hope this tool empowers you with the knowledge to navigate the federal hiring process with greater confidence.
+**What This Project Offers:**
 
-## Contributing
+*   **The Veteran's Preference Advisor:** An interactive, step-by-step tool that guides users through a series of questions to help determine potential eligibility for different types of veteran's preference (0-point, 5-point, 10-point, derived, etc.).
+*   **A Comprehensive Information Hub:** Detailed explanations of key concepts, specific appointing authorities (like VRA, VEOA), a glossary of terms, FAQs, and more.
+*   **Credible Foundation:** All guidance and logic within the Advisor are meticulously based on the official [OPM Vet Guide for HR Professionals](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/) (a copy of which is included in this repository as `hrdocs.txt` for reference).
 
-We welcome contributions to improve and expand the Veteran's Preference Advisor. If you have suggestions, find errors, or want to contribute to the content or codebase, please feel free to:
+**Who Is This For?**
 
-1.  **Open an issue:** Report bugs, suggest enhancements, or discuss new features.
-2.  **Fork the repository and submit a pull request:** For direct contributions to code or content, please fork the project, make your changes in a separate branch, and then submit a pull request for review.
+*   U.S. Veterans seeking federal employment.
+*   Family members (spouses, mothers) exploring derived preference.
+*   Veteran Service Officers (VSOs) and advocates.
+*   HR professionals looking for a supplementary tool to explain preference.
+*   Anyone interested in understanding the intricacies of veteran's preference.
 
-Please ensure that any contributions align with the project's goal of providing clear and accurate information to veterans.
+---
 
-## Development
+## 🚀 Key Features
 
-This section covers how to set up and run the website locally, and provides an overview of the project's content structure.
+*   **Interactive Veteran's Preference Advisor:** A decision-tree style tool that simplifies complex eligibility criteria into a series of manageable questions.
+*   **Visual Advisor Logic:** Includes a [Mermaid diagram](./advisor/advisor_diagram.md) visually mapping the entire decision flow of the Advisor tool, generated by a Python script (`generate_diagram.py`).
+*   **Detailed Informational Pages:**
+    *   [Frequently Asked Questions (FAQ)](./faq.md)
+    *   [Comprehensive Glossary of Terms](./glossary.md)
+    *   In-depth guides on [Special Appointing Authorities](./special_appointing_authorities.md) including:
+        *   [Veterans Recruitment Appointment (VRA)](./vra.md)
+        *   [Veterans Employment Opportunities Act (VEOA)](./veoa.md)
+        *   [Appointment of 30% or More Disabled Veterans](./disabled_vets_30_percent.md)
+        *   [Hubbard Act (Sole Survivor Preference)](./hubbard_act.md)
+    *   Guidance on [Crediting Experience](./crediting_experience.md), [Physical Qualifications](./physical_qualifications.md), and [Restoration Rights](./restoration_rights.md).
+*   **Grounded in Official Sources:** Information is derived from the OPM Vet Guide, ensuring accuracy and reliability.
+*   **User-Friendly Interface:** Built with Jekyll and a clean theme for easy navigation and readability.
+*   **Open Source & Community Driven:** We welcome contributions to enhance and improve this resource.
 
-### Running the Site Locally
+---
 
-To run this website on your local machine, you'll need to have a few prerequisites installed and then follow the steps below.
+## 🛠️ Built With
 
-#### Prerequisites
+This website and its tools are built using a combination of open-source technologies:
 
-- **Ruby**: It's recommended to use the latest stable version (e.g., 3.x). You can check if Ruby is installed by running `ruby -v`. If not, consider using a version manager like rbenv or RVM, or download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
-- **Bundler**: Bundler is a Ruby gem that manages project dependencies. Install it by running `gem install bundler`. Once Bundler is installed, other gems should generally be installed via `bundle install`.
-- **Jekyll**: Jekyll is a static site generator. While `gem install jekyll` works, running `bundle install` in the project directory (see step 3 below) is the preferred way to install Jekyll and other project-specific gems if a `Gemfile` is present (which is good practice, though not currently in this project).
+*   [Jekyll](https://jekyllrb.com/): A simple, blog-aware, static site generator.
+*   [Ruby](https://www.ruby-lang.org/): The programming language Jekyll is built on.
+*   [Bundler](https://bundler.io/): Manages Ruby gem dependencies.
+*   [Markdown](https://www.markdownguide.org/): For writing content in an easy-to-read, easy-to-write plain text format.
+*   [Python](https://www.python.org/): Used for the `generate_diagram.py` script to create the Advisor logic diagram.
+*   [Mermaid JS](https://mermaid.js.org/): For rendering the Advisor logic diagram from a text-based definition.
+*   HTML5 & CSS3 (SASS): For structure and styling.
+*   [GitHub Pages](https://pages.github.com/): For hosting the live site.
 
-#### Step-by-Step Instructions
+---
+
+## 🗺️ Project Structure
+
+The repository is organized to support the Jekyll static site generation and the content of the Veteran's Preference Advisor:
+
+*   **`/` (Root Directory):**
+    *   `index.md`: The homepage of the website.
+    *   `README.md`: This file.
+    *   `LICENSE`: Project's MIT license.
+    *   `_config.yml`: Jekyll configuration file.
+    *   `Gemfile`, `Gemfile.lock`: Ruby dependency management.
+    *   `hrdocs.txt`: The raw text of the OPM Vet Guide, serving as the primary source material.
+    *   `faq.md`, `glossary.md`, `special_appointing_authorities.md`, etc.: Core informational markdown pages.
+    *   `generate_diagram.py`: Python script to generate the advisor logic diagram.
+*   **`/advisor/`**: The heart of the interactive tool. Contains numerous Markdown files (`.md`) representing each step, question, or outcome in the Veteran's Preference Advisor decision tree.
+    *   `start.md`: The entry point for the advisor tool.
+    *   `advisor_diagram.md`: Contains the Mermaid diagram visualizing the advisor's logic.
+*   **`/_layouts/`**: HTML template files (e.g., `default.html`, `post.html`) that define the structure for different page types.
+*   **`/_sass/`**: SASS files that compile into CSS, defining the visual styles of the website.
+*   **`/assets/`**: Contains static assets.
+    *   `/assets/css/style.scss`: Main SASS file that imports theme styles and custom styles.
+*   **`_data/`** (Potential Future Use): Could store structured data (YAML, JSON, CSV) for dynamic content generation (e.g., lists of campaign medals).
+*   **`_includes/`** (Potential Future Use): For reusable HTML or Markdown snippets to be included across pages or layouts.
+
+---
+
+## 🏁 Getting Started
+
+To run this website on your local machine for development or testing, follow these steps:
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+*   **Ruby**: It's recommended to use a recent stable version (e.g., 3.x).
+    *   Verify installation: `ruby -v`
+    *   If not installed, consider using a version manager like [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/), or download from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
+*   **Bundler**: A Ruby gem for managing project dependencies.
+    *   Install Bundler (if you don't have it): `gem install bundler`
+
+### Installation & Running Locally
 
 1.  **Clone the repository:**
     ```bash
@@ -53,7 +118,7 @@ To run this website on your local machine, you'll need to have a few prerequisit
     cd hadcomfort.github.io
     ```
 
-3.  **Install dependencies:** This command installs all necessary Ruby gems, including Jekyll and its dependencies, as defined by the project (typically in a `Gemfile` and `Gemfile.lock`, or default Jekyll gems if these files are not present).
+3.  **Install dependencies:** This command installs Jekyll and other necessary Ruby gems as defined in the `Gemfile`.
     ```bash
     bundle install
     ```
@@ -65,36 +130,118 @@ To run this website on your local machine, you'll need to have a few prerequisit
 
 ### Accessing the Local Site
 
-Once the server is running (you'll see output in your terminal indicating this), you can access the site by opening your web browser and navigating to:
+Once the server is running (you'll see output like `Server address: http://127.0.0.1:4000/`), open your web browser and navigate to:
 
-`http://localhost:4000`
+**`http://localhost:4000`**
 
-You should see the website running just as it would online. Jekyll will automatically rebuild the site when you save changes to most files (you might need to refresh your browser to see the updates).
+You should see the website. Jekyll will automatically monitor most files for changes and rebuild the site. You may need to refresh your browser to see updates.
 
-### Content Structure
+---
 
-This website is built using Jekyll, a static site generator. Jekyll processes the markdown files, layouts, and other assets in this repository to create the final HTML website. Here's a brief overview of the key directories and files:
+## 💡 How to Use
 
--   **`/advisor/`**: This directory is central to our site. It contains a series of Markdown files (`.md`) that make up the interactive Veteran's Preference Advisor. Each file typically represents a specific question, decision point, or outcome in the advisor's flow, guiding the user through the eligibility determination process.
+### The Veteran's Preference Advisor Tool
 
--   **`hrdocs.txt`**: This text file contains the full content of the Office of Personnel Management (OPM) Vet Guide. It serves as the primary source document and reference for the logic, definitions, and information presented in the Veteran's Preference Advisor.
+1.  Navigate to the **[Advisor Start Page](./advisor/start.md)** on the live site or your local instance.
+2.  Read the introductory information and disclaimer carefully.
+3.  Answer the questions presented on each page by clicking the most appropriate link.
+4.  The advisor will guide you through a series of steps based on your answers, leading to an assessment of potential veteran's preference eligibility or ineligibility.
+5.  Each step references OPM Vet Guide sections where applicable, allowing you to cross-reference with official documentation.
 
--   **`plan.md`**: This file outlines the project plan, including past achievements and future enhancements envisioned for the advisor tool and the overall website. It provides context on the project's development roadmap.
+### Informational Pages
 
--   **`faq.md`**: This file contains frequently asked questions about Veteran's Preference and the use of this advisor tool.
+Explore the various informational pages linked from the homepage or navigation:
+*   The **[FAQ](./faq.md)** answers common questions.
+*   The **[Glossary](./glossary.md)** defines key terms.
+*   Dedicated pages explain specific rules like **[VRA](./vra.md)**, **[VEOA](./veoa.md)**, and others.
 
--   **`glossary.md`**: This file provides definitions for key terms and acronyms related to Veteran's Preference and federal hiring.
+---
 
--   **`_layouts/`**: This directory holds the HTML template files that define the structure for different types of pages on the site. For example, `default.html` might define the main site template, and other layouts might exist for specific page types like blog posts or advisor pages.
+## 🔍 Advisor Logic Diagram
 
--   **`assets/`**: This folder is used for static assets. Currently, it primarily contains CSS files (under `assets/css/`) which define the visual styling of the website. In the future, it might also include images or other static resources.
+To better understand the comprehensive logic behind the Veteran's Preference Advisor, a visual diagram is provided:
 
--   **`_data/`** (potential future use): While not currently implemented, this directory could be used to store structured data in YAML, JSON, or CSV format. This is useful for content like lists of qualifying military campaigns, glossary definitions, or other data sets that can be easily managed and reused across the site (as envisioned in task 4.1 of `plan.md`).
+*   **View the Diagram:** [Advisor Logic Diagram](./advisor/advisor_diagram.md)
 
--   **`_includes/`** (potential future use): This directory, also a potential future enhancement (see task 4.2 in `plan.md`), would be used for reusable snippets of HTML or Markdown. These snippets could be included in multiple pages or layouts to avoid repetition and make site maintenance easier.
+This diagram is generated using Mermaid JS from a definition created by the `generate_diagram.py` script. It maps out all the decision points and pathways within the advisor tool, offering transparency into how different scenarios are handled.
 
-Understanding this structure can be helpful if you plan to contribute to the project or explore its technical details.
+---
 
-## License
+## 🤝 Contributing
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+We warmly welcome contributions to enhance the Veteran's Preference Advisor and its informational content! Your expertise and feedback can help make this resource even more valuable for veterans.
+
+**How You Can Contribute:**
+
+1.  **Report Bugs or Suggest Enhancements:** If you find an error, a point of confusion, or have an idea for improvement, please [open an issue](https://github.com/hadcomfort/hadcomfort.github.io/issues).
+2.  **Improve Content:**
+    *   Suggest clarifications or corrections to existing text.
+    *   Propose new FAQ entries or glossary terms.
+    *   Help update content based on new OPM guidance.
+3.  **Enhance the Advisor Tool:**
+    *   Identify areas where the logic flow could be improved.
+    *   Suggest new paths or considerations.
+4.  **Code Contributions:**
+    *   Help improve the Jekyll site structure or functionality.
+    *   Enhance the `generate_diagram.py` script.
+    *   Improve accessibility or user interface elements.
+
+**Pull Request Process:**
+
+1.  Fork the repository (`https://github.com/hadcomfort/hadcomfort.github.io/fork`).
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
+
+Please ensure your contributions align with the project's goal of providing clear, accurate, and user-friendly information based on official sources. If you're making significant changes, it's often best to open an issue first to discuss them.
+
+---
+
+## 🛣️ Roadmap
+
+We envision several future enhancements to make this resource even better (referencing ideas from `plan.md` where applicable):
+
+*   **Data-Driven Content:** Utilize Jekyll's `_data` directory for managing lists (e.g., qualifying campaigns, glossary terms) to make updates easier and content more dynamic.
+*   **Reusable Includes:** Implement `_includes/` for common HTML/Markdown snippets to improve site consistency and maintainability.
+*   **Enhanced User Interface:** Continuously improve the visual design and user experience of the advisor tool and informational pages.
+*   **Expanded Content:** Cover more nuanced topics related to veteran's preference.
+*   **Audit Trail Feature:** Further develop the `advisor_audit_report.md` to provide users with a summary of their path through the advisor.
+*   **Community Feedback Integration:** Systematically incorporate feedback from users and contributors.
+
+Your suggestions for the roadmap are also welcome!
+
+---
+
+## ⚠️ Disclaimer
+
+**This Veteran's Preference Advisor is an unofficial informational tool ONLY.**
+
+It is based on interpretation of publicly available U.S. government guidelines, primarily the OPM Vet Guide for HR Professionals. While efforts have been made to ensure accuracy and faithfully represent official guidance, this tool does not constitute legal or official advice, nor does it guarantee any outcome or preference eligibility.
+
+Eligibility for U.S. Federal Veteran's Preference is ultimately determined by the hiring federal agency based on official documentation and current laws and regulations.
+
+**Always refer to official U.S. government resources or consult with a Veteran Service Officer (VSO) or agency HR personnel for definitive answers and assistance with your specific situation.**
+
+**Official Resources:**
+
+*   **U.S. Office of Personnel Management (OPM) - VetGuide for HR Professionals:** [OPM VetGuide](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/)
+*   **U.S. Department of Veterans Affairs (VA) - Careers and Employment:** [VA Careers and Employment](https://www.va.gov/careers-employment/)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for full details.
+
+---
+
+## 🙏 Acknowledgements
+
+*   The content and logic of the Veteran's Preference Advisor are heavily based on the **U.S. Office of Personnel Management (OPM) Vet Guide for HR Professionals**. This project aims to make that valuable public information more accessible.
+*   The Jekyll theme used is [jekyll-theme-tactile](https://github.com/pages-themes/tactile).
+*   Community contributors who help improve this resource.
+
+---
+
+Thank you for your interest in and support of the Veteran's Preference Advisor project! We hope it serves as a valuable resource.
