@@ -1,4 +1,3 @@
-```markdown
 # Frequently Asked Questions
 
 This page answers common questions about Veteran's Preference and special appointing authorities for veterans in federal hiring. The information is based on the [OPM Vet Guide for HR Professionals](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/) and related guidance.
@@ -459,4 +458,3 @@ Applicants or employees who believe an agency has not complied with USERRA or OP
 The Veterans Employment Opportunities Act of 1998 (VEOA) allows preference eligibles to complain to the Department of Labor's VETS if they believe an agency violated their rights under any statute/regulation relating to veterans' preference.
 Additionally, under an MOU between OPM and DOL, eligible veterans who believe an agency didn't properly accord preference, list jobs with state employment services, or provide special placement consideration can file a complaint with the local DOL VETS representative.
 A willful violation of veterans' preference law is a Prohibited Personnel Practice. Disabled veterans can also file discrimination complaints with the agency's EEO office. (See OPM Vet Guide, 'Chapter 8: Other Actions').
-```
