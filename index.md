@@ -6,7 +6,7 @@ description: An interactive tool to help veterans and their families understand 
 
 # Welcome to the Veterans Information Resource
 
-This site is dedicated to providing helpful tools for U.S. veterans and their families. Featured here is the **Veteran's Preference Advisor**, an interactive guide designed to help you understand potential eligibility for veteran's preference in federal employment.
+This site is dedicated to providing helpful tools for U.S. veterans and their families. Featured here is the **Veteran's Preference Advisor**, an interactive guide designed to simplify the complexities of veteran's preference and help you understand your potential eligibility for federal employment.
 
 This Advisor is an **unofficial resource**. It has been developed by carefully structuring information from official U.S. government guidelines into an easy-to-follow, step-by-step format. Our aim is to make this complex topic more accessible.
 
@@ -18,10 +18,10 @@ Veteran's preference gives eligible veterans an advantage in hiring for most fed
 
 Navigating veteran's preference can be challenging. This tool is designed to help you:
 
-* **Understand your potential eligibility:** Get a clearer picture of where you might stand.
-* **Simplify complex rules:** Break down confusing regulations, including how different service periods affect eligibility. Many veterans find figuring out eligibility based on service dates difficult, and this tool is built to assist with that.
-* **Feel more prepared:** Gain confidence in identifying relevant job postings and understanding your application advantages.
-* **Know what questions to ask:** Be better equipped if you need to discuss your status with a Veteran Service Officer (VSO) or HR personnel.
+* **Clarify your eligibility:** Get a clear understanding of your potential standing for veteran's preference.
+* **Simplify complex rules:** Easily navigate confusing regulations and understand how different service periods impact eligibility—a common challenge this tool is built to address.
+* **Increase your preparedness:** Confidently identify relevant job postings and understand your application advantages.
+* **Equip yourself with knowledge:** Be better prepared for discussions with Veteran Service Officers (VSO) or HR personnel regarding your status.
 
 ## How the Veteran's Preference Advisor Works
 
