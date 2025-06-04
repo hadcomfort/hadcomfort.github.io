@@ -1,6 +1,6 @@
 # Restoration Rights After Uniformed Service (USERRA)
 
-Federal employees who perform duty in a uniformed service are entitled to certain restoration rights under the Uniformed Services Employment and Reemployment Rights Act (USERRA). These rights ensure that employees can return to their civilian jobs after completing their military service.
+Veterans who leave federal civilian employment for military service generally have a right to be reemployed in their former position or an equivalent one. This page outlines these restoration rights, primarily governed by the Uniformed Services Employment and Reemployment Rights Act (USERRA). These rights ensure that employees can return to their civilian jobs after completing their military service without loss of seniority, status, or pay they would have attained had they not been absent for military duty.
 
 ## Basic Entitlement
 
@@ -69,4 +69,6 @@ USERRA provides significant protections for employees:
 The primary legal and regulatory authorities for these restoration rights are:
 
 *   **Title 38 U.S.C. chapter 43:** This chapter of the United States Code is the main body of law for USERRA.
-*   **5 CFR Part 353:** This part of the Code of Federal Regulations contains OPM's regulations on restoration after uniformed service.
+*   **5 CFR Part 353:** This part of the Code of Federal Regulations contains OPM's (Office of Personnel Management) regulations on restoration after uniformed service.
+
+These restoration rights are crucial for ensuring that individuals are not disadvantaged in their civilian careers due to military service obligations.

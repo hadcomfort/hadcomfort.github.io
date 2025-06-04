@@ -31,5 +31,5 @@ This is an initial assessment based on your inputs and not a final determination
 
 The agency will then conduct the "more careful analysis" mentioned by OPM.
 
-* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
 * [Return to Advisor Start](./start.md)

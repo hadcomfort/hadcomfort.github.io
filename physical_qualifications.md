@@ -1,6 +1,6 @@
 # Physical Qualifications and Waivers
 
-When determining an individual's qualifications for a federal position, specific rules apply regarding physical and medical standards. These rules ensure that applicants are treated fairly, especially those with disabilities.
+This page addresses how physical qualifications are considered for preference eligibles in federal employment, particularly for positions with specific physical requirements. When determining an individual's qualifications for a federal position, specific rules apply regarding physical and medical standards. These rules ensure that applicants are treated fairly, especially those with disabilities.
 
 ## Waiver of Standards
 
@@ -26,6 +26,8 @@ Additional protections are in place for preference eligibles who have a compensa
 
 The guidelines concerning physical qualifications, waivers, and special provisions for disabled veterans are primarily found in:
 
-*   **5 U.S.C. 3312:** This section of the United States Code addresses physical qualifications for federal employment and the waiver of such requirements.
+*   **5 U.S.C. § 3312:** This section of the United States Code addresses physical qualifications for federal employment and the waiver of such requirements.
 *   **5 CFR Part 339.204:** This part of the Code of Federal Regulations details medical qualification determinations, including the process for waiving physical requirements.
-*   **5 U.S.C. 3318:** This section is also relevant for the procedures regarding the disqualification of disabled veterans.
+*   **5 U.S.C. § 3318:** This section is also relevant for the procedures regarding the disqualification of disabled veterans.
+
+Ultimately, preference eligibles cannot be disqualified based on physical requirements unless those requirements are essential for the job and alternatives (like reasonable accommodation or waiver) are not possible. An "annuitant" generally refers to someone receiving a retirement annuity. A "compensable disability" refers to a service-connected disability for which monetary compensation is paid by the Department of Veterans Affairs.

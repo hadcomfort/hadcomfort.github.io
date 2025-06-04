@@ -9,6 +9,8 @@ As a mother, you may be eligible for 10-point derived veteran's preference (XP).
 
 The Vet Guide further clarifies: *"Both a mother and a spouse (including widow or widower) may be entitled to preference on the basis of the same veteran's service if they both meet the requirements. However, neither may receive preference if the veteran is living and is qualified for Federal employment."*
 
+The veteran's current status (e.g., living or deceased) and their service-connected disability status (if applicable and living) are key factors in determining the specific type of derived preference a mother may be eligible for, and the subsequent questions you will be asked. For example, if the veteran is living, their disability must generally be "permanent and total" for the mother to potentially qualify. Further clarification on such terms will be provided in subsequent steps as needed.
+
 This page will help determine if the veteran's status (your son or daughter on whose service you are basing your claim) makes you potentially eligible. Is the veteran:
 
 * `"Deceased."` (See OPM Vet Guide, "Mother of a deceased veteran") -> `advisor/derived_mother_deceased_vetdeathcond.md`

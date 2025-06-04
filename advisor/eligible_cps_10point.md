@@ -15,5 +15,5 @@ Key considerations for CPS preference:
 
 Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
 
-* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
 * [Return to Advisor Start](./start.md)
