@@ -3,7 +3,7 @@ layout: default
 title: Veteran's Preference Advisor - Potential Conditional 10-Point Derived Preference (XP) - Spouse
 ---
 
-Based on your responses, you *may* meet the criteria for 10-point derived veteran's preference (XP) as the spouse of a veteran disqualified for their usual occupation due to a service-connected disability.
+Based on your responses, you *may* meet the criteria for 10-point derived veteran's preference (XP) as the spouse of a veteran disqualified for their usual occupation due to a service-connected disability. If your application for preference is approved after this careful analysis, it means 10 points would be added to your passing score on a civil service examination.
 
 However, because your situation does not fall under the standard presumptions for disqualification, your claim will require a more careful analysis by the hiring agency, and possibly OPM (OPM Vet Guide, section [136]).
 
@@ -13,5 +13,5 @@ Key reminders:
 
 This is an initial assessment and not a final determination of preference.
 
-*   `"Learn more about applying with 10-point preference (SF-15)"` #(Link to OPM guidance on SF-15 or a future detailed info page)
-*   `"[Return to Advisor Start]"` -> `start.md`
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
