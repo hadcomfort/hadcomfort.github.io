@@ -5,6 +5,8 @@ title: Derived Preference (Mother) - Veteran's Status (Deceased or Living Disabl
 
 # Derived Preference (Mother) - Veteran's Status (Deceased or Living Disabled)
 
+As a mother, you may be eligible for derived veteran's preference. The OPM Vet Guide notes that "Both a mother and a spouse (including widow or widower) may be entitled to preference on the basis of the same veteran's service if they both meet the requirements." However, it's important to understand that "neither may receive preference if the veteran is living and is qualified for Federal employment." This page will help determine if the veteran's status makes you potentially eligible.
+
 Is the veteran (your son or daughter) on whose service you are basing your claim:
 
 * `"Deceased."` -> `advisor/derived_mother_deceased_vetdeathcond.md`

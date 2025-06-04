@@ -5,7 +5,9 @@ title: Derived Preference (Spouse): Veteran's Disability Details
 
 # Derived Preference (Spouse): Veteran's Disability Details
 
-You indicated the veteran is disqualified for their usual occupation due to a service-connected disability. Such disqualification may be presumed if the veteran is unemployed AND one of the following situations applies. Which best describes the veteran's situation?
+According to the OPM Vet Guide (section [132]), for spousal derived preference, "Ten points are added to the passing examination score or rating of the spouse of a disabled veteran who is disqualified for a Federal position along the general lines of his or her usual occupation because of a service-connected disability."
+
+You previously indicated the veteran meets this general disqualification. Now, let's see if the disqualification can be presumed. Such disqualification may be presumed if the veteran is unemployed AND one of the following situations applies. Which best describes the veteran's situation?
 
 *   `"The veteran is unemployed AND is rated by appropriate military or Department of Veterans Affairs authorities to be 100 percent disabled and/or unemployable."` (OPM Vet Guide, section [133]) -> `advisor/eligible_xp_derived_spouse.md`
 *   `"The veteran is unemployed AND has retired, been separated, or resigned from a civil service position on the basis of a disability that is service-connected in origin."` (OPM Vet Guide, section [134]) -> `advisor/eligible_xp_derived_spouse.md`

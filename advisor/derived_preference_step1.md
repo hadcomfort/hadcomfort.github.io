@@ -5,7 +5,9 @@ title: Veteran's Preference Advisor - Derived Preference Step 1
 
 # Derived Veteran's Preference
 
-You indicated you are seeking preference based on the service of a qualifying veteran, as a spouse, widow(er), or mother (OPM Vet Guide, section [129]). This is known as "derived preference" because it is based on the service of a veteran who is not able to use the preference (OPM Vet Guide, section [129]).
+You are exploring 'derived preference'. According to the OPM Vet Guide (section [129]), for this type of preference, "Ten points are added to the passing examination score or rating of spouses, widows, widowers, or mothers of veterans... This type of preference is usually referred to as 'derived preference' because it is based on service of a veteran who is not able to use the preference."
+
+The OPM Vet Guide also notes that "Both a mother and a spouse (including widow or widower) may be entitled to preference on the basis of the same veteran's service if they both meet the requirements. However, neither may receive preference if the veteran is living and is qualified for Federal employment."
 
 To determine potential eligibility, we first need information about the **veteran** on whose service this claim is based.
 
