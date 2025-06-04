@@ -3,7 +3,7 @@ layout: default
 title: Veteran's Preference Advisor - Potential 10-Point Derived Preference (XP) - Spouse
 ---
 
-[cite_start]Based on your responses, you appear to meet the criteria for 10-point derived veteran's preference (XP) as the spouse of a veteran who is disqualified for a Federal position along the general lines of his or her usual occupation because of a service-connected disability[cite: 132, 133, 134, 135].
+Based on your responses, you appear to meet the criteria for 10-point derived veteran's preference (XP) as the spouse of a veteran who is disqualified for a Federal position along the general lines of his or her usual occupation because of a service-connected disability (OPM Vet Guide, sections [132, 133, 134, 135]).
 
 This is an initial assessment and not a final determination of preference. Remember to:
 * Claim preference when applying for Federal jobs.
