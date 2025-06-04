@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Sole Survivor Preference - Ineligible: Reason for Discharge
+title: Sole Survivor Preference - Ineligible: Reason for Discharge Not "Sole Survivorship"
 ---
 
-# Ineligible for Sole Survivor Preference: Reason for Discharge Not Met
+# Sole Survivor Preference - Ineligible: Reason for Discharge Not "Sole Survivorship"
 
-Eligibility for Sole Survivorship Preference (SSP) requires that the specific reason for your discharge (after August 29, 2008) was a **"sole survivorship discharge"** (OPM Vet Guide, '0-point Preference (SSP)').
+Based on your response, the reason for your discharge from active duty was not a "sole survivorship discharge."
 
-If your discharge was for other reasons, you would not qualify for SSP based on this specific provision. However, you might be eligible for other types of veteran's preference.
+The OPM Vet Guide for HR Professionals, in the section "0-point Preference (SSP)," explains that eligibility for this preference category is for:
+*"...veterans released or discharged from a period of active duty from the armed forces, after August 29, 2008, **by reason of a “sole survivorship discharge.”**"* (emphasis added)
 
-*   [I want to re-check the discharge reason criteria.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_reason.md)
-*   [Explore other types of veteran's preference.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md) <!-- Changed link to be more appropriate than disability intro -->
-*   [Return to Advisor Start](./start.md)
----
+If your discharge was for reasons other than a "sole survivorship discharge," you are not eligible for Sole Survivorship Preference (SSP), even if your discharge occurred after August 29, 2008.
+
+You may still be eligible for other types of veteran's preference (e.g., 5-point or 10-point disability preference) based on other aspects of your service.
+
+*   `"[I made a mistake, I want to re-evaluate the reason for my discharge]"` -> `ownservice_ssp_checkdd214_reason.md`
+*   `"[I want to explore other types of veteran's preference]"` -> `ownservice_nodisability_nossps_checkserviceperiod.md`
+*   `"[Return to Advisor Start]"` -> `start.md`

@@ -5,13 +5,18 @@ title: Derived Veteran's Preference - Relationship to Veteran
 
 # Derived Veteran's Preference - Relationship to Veteran
 
-Derived veteran's preference allows certain relatives of veterans to receive preference in hiring. According to the OPM Vet Guide for HR Professionals, derived preference is when "Ten points are added to the passing examination score or rating of spouses, widows, widowers, or mothers of veterans... because it is based on service of a veteran who is not able to use the preference." This type of preference is usually a 10-point preference, and applicants claiming it must typically complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit the requested documentation (as detailed in the OPM Vet Guide, section [34]).
+You are exploring eligibility for **derived veteran's preference**. This type of preference allows certain relatives of veterans to receive preference in hiring.
 
-You are seeking to determine potential eligibility for veteran's preference based on the service of a qualifying veteran. This is generally a 10-point preference. What is your relationship to this veteran?
+The OPM Vet Guide for HR Professionals, in its section on "10-Point Derived Preference (XP)," explains:
+*"Ten points are added to the passing examination score or rating of spouses, widows, widowers, or mothers of veterans as described below. This type of preference is usually referred to as "derived preference" because it is based on service of a veteran who is not able to use the preference."*
+
+This is generally a 10-point preference. The OPM Vet Guide also notes: *"Applicants claiming 10-point preference must complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit the requested documentation."*
+
+To begin, what is your relationship to the veteran on whose service this claim would be based?
 
 *   `"I am the spouse of a veteran."` -> `advisor/derived_spouse_vetliving.md`
 *   `"I am the widow or widower of a veteran."` -> `advisor/derived_widow_divorced.md`
 *   `"I am the mother of a veteran."` -> `advisor/derived_mother_vetstatus.md`
-*   `"None of the above / I made a mistake."` -> `advisor/start.md`
+*   `"None of the above / I made a mistake (Return to Start)."` -> `advisor/start.md`
 
 [Return to Advisor Start](./start.md)
