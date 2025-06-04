@@ -10,3 +10,5 @@ You will need to provide detailed documentation with your SF-15. This advisor ca
 *   `"Understood, proceed to information on conditional eligibility."` -> `eligible_xp_derived_spouse_conditional.md`
 *   `"[Return to disability detail choices]"` -> `derived_spouse_vetdisabilitydetails.md`
 *   `"[Return to Advisor Start]"` -> `start.md`
+
+[Return to Advisor Start](./start.md)

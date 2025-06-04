@@ -9,3 +9,5 @@ You indicated your veteran child is living and permanently and totally disabled 
 * `"No, or discharge was different."` -> `advisor/ineligible_derived_mother_living_vetseparation.md`
 * `"[Return to previous question]"` -> `advisor/derived_mother_vetstatus.md`
 * `"[Return to Advisor Start]"` -> `advisor/start.md`
+
+[Return to Advisor Start](./start.md)

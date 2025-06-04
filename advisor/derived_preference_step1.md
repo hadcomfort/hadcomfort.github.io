@@ -21,3 +21,5 @@ Is the veteran living?
 *This advisor provides guidance based on the U.S. Office of Personnel Management (OPM) Vet Guide for HR Professionals. For official determinations, please consult directly with the hiring agency or OPM.*
 
 [Return to Start](start.md)
+
+[Return to Advisor Start](./start.md)

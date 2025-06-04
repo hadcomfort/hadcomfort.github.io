@@ -9,3 +9,5 @@ You indicated your relevant original enlistment or start of active duty was afte
 *   [No, I did not complete 24 months OR the full period.](./ownservice_tp_24month_exceptions.md)
 *   [I made a mistake with my enlistment date.](./ownservice_tp_24month_rule_check.md)
 *   [Return to Advisor Start](./start.md)
+
+[Return to previous question](./ownservice_tp_24month_rule_check.md)

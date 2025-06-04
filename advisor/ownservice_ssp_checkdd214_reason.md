@@ -12,5 +12,5 @@ Please check your DD Form 214 (Certificate of Release or Discharge from Active D
 *   [Yes, the reason documented was "sole survivorship discharge".]({{ site.baseurl }}/advisor/ownservice_ssp_familycriteria_info.md)
 *   [No, the reason documented was different or unclear regarding sole survivorship.]({{ site.baseurl }}/advisor/ineligible_ssp_reason.md)
 *   [I need to check the discharge date again.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_date.md)
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Return to Advisor Start](./start.md)
 ---

@@ -8,3 +8,5 @@ For a spouse to claim derived preference for a living veteran, the veteran must 
 *   `[Return to check reason for non-qualification]` -> `derived_spouse_vetdisabilityreason.md`
 *   `[Return to Relationship Choice]` -> `derived_intro.md`
 *   `[Return to Advisor Start]` -> `start.md`
+
+[Return to Advisor Start](./start.md)

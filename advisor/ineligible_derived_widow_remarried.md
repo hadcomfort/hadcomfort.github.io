@@ -8,4 +8,4 @@ To be eligible for derived preference as a widow or widower, you must not have r
 
 * [Return to check remarriage status]({{ site.baseurl }}/advisor/derived_widow_remarried.md)
 * [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

@@ -11,5 +11,5 @@ Based on your response, your discharge date does not meet this requirement for S
 
 *   [I want to re-check the discharge date criteria.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_date.md)
 *   [Explore other types of veteran's preference.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md) <!-- Changed link to be more appropriate than disability intro -->
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Return to Advisor Start](./start.md)
 ---

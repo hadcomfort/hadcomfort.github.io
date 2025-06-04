@@ -7,4 +7,4 @@ Based on your responses, you do not currently meet the preliminary requirements 
 
 * [Learn more about VOW Act eligibility requirements]({{ site.baseurl }}/advisor/ownservice_intro.md)
 * [I made a mistake in my previous answers, take me back.]({{ site.baseurl }}/advisor/ownservice_intro.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

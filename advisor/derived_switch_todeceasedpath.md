@@ -14,3 +14,5 @@ How would you like to proceed?
 * `"The veteran is actually living (I made a mistake)."` -> `derived_spouse_vetqualifiedforemployment.md`
 * `[Return to Relationship Choice]` -> `derived_intro.md`
 * `[Return to Advisor Start]` -> `start.md`
+
+[Return to Advisor Start](./start.md)

@@ -32,4 +32,4 @@ You can download the official SF-15 form from the U.S. Office of Personnel Manag
 
 When completing the SF-15, read the instructions carefully and ensure all information is accurate and all required documents are attached. Submitting an incomplete or incorrect SF-15 can delay the processing of your application.
 
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Return to Advisor Start](./start.md)

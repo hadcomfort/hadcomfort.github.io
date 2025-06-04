@@ -10,4 +10,4 @@ Preference is generally not granted to widows or mothers if the deceased veteran
 
 * [Return to check veteran's service conditions]({{ site.baseurl }}/advisor/derived_widow_vetservice_condition.md)
 * [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

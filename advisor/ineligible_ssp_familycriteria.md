@@ -13,4 +13,4 @@ To be eligible for SSP, the "sole survivorship discharge" must be connected to t
 *   You may still be eligible for other types of veteran's preference based on your service.
 *   [Explore other preference types]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md)
 *   [Review the family criteria for SSP again]({{ site.baseurl }}/advisor/ownservice_ssp_familycriteria_info.md)
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Return to Advisor Start](./start.md)
