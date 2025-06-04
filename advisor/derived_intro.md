@@ -15,9 +15,9 @@ This is generally a 10-point preference. The OPM (Office of Personnel Management
 
 To begin, what is your relationship to the veteran on whose service this claim would be based?
 
-*   `"I am the spouse of a veteran."` -> `advisor/derived_spouse_vetliving.md`
-*   `"I am the widow or widower of a veteran."` -> `advisor/derived_widow_divorced.md`
-*   `"I am the mother of a veteran."` -> `advisor/derived_mother_vetstatus.md`
-*   `"None of the above / I made a mistake (Return to Start)."` -> `advisor/start.md`
+*   [I am the spouse of a veteran](./derived_spouse_vetliving.md)
+*   [I am the widow or widower of a veteran](./derived_widow_divorced.md)
+*   [I am the mother of a veteran.](./derived_mother_vetstatus.md)
+*   [None of the above / I made a mistake (Return to Start)](./start.md)
 
 [Return to Advisor Start](./start.md)
