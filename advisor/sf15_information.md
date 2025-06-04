@@ -27,7 +27,6 @@ If you are only eligible for 5-point preference (TP), you generally do not need 
 The SF-15 can typically be found on the U.S. Office of Personnel Management (OPM) website or the GSA Forms Library. It's important to use the most current version of the form.
 
 *   [Link to OPM Forms Page](https://www.opm.gov/forms/) (Search for SF-15)
-*   [Link to GSA Forms Library](https://www.gsa.gov/forms-library) (Search for SF-15)
 
 ## General Guidance for Completing the SF-15
 
