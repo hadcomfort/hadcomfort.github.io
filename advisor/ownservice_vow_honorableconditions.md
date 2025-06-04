@@ -18,7 +18,7 @@ You will need a **certification document** from the armed forces. According to t
 
 **Does your VOW Act certification (or a document you can obtain) meet these requirements and state you are expected to be discharged/released under honorable conditions?**
 
-*   [Yes, my certification meets these requirements and indicates an expected Honorable or General discharge.]({{ site.baseurl }}/advisor/ownservice_checkdisability_intro.md)
-*   [No, my certification does not meet these requirements, indicates otherwise, or I cannot obtain such certification.]({{ site.baseurl }}/advisor/ineligible_vow_discharge_type.md)
-*   [I need to review the previous VOW Act questions.]({{ site.baseurl }}/advisor/ownservice_vow_checkretired.md)
+*   [Yes, my certification meets these requirements and indicates an expected Honorable or General discharge.](./ownservice_checkdisability_intro.md)
+*   [No, my certification does not meet these requirements, indicates otherwise, or I cannot obtain such certification.](./ineligible_vow_discharge_type.md)
+*   [I need to review the previous VOW Act questions.](./ownservice_vow_checkretired.md)
 *   [Return to Advisor Start](./start.md)
