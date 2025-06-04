@@ -3,6 +3,8 @@ layout: default
 title: Mother's Preference: Potentially Ineligible - Current Marital/Living Status
 ---
 
+# Mother's Preference: Potentially Ineligible - Current Marital/Living Status
+
 To be eligible for derived preference as a mother, your current marital and living situation must meet specific criteria. These include:
 * Living with your husband (veteran's father or remarried husband) who is totally and permanently disabled (OPM Vet Guide, sections [143, 148]), OR
 * Being widowed, divorced, or legally separated (from veteran's father or subsequent husband) and not having remarried since that event (OPM Vet Guide, sections [144, 145, 149, 150]).

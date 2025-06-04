@@ -3,6 +3,8 @@ layout: default
 title: Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 ---
 
+# Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
+
 Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. (OPM Vet Guide, '10-Point Preference Other Than CP or CPS (XP)')
 
 Key considerations for XP preference:

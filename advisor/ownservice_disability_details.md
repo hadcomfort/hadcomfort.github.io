@@ -3,6 +3,8 @@ layout: default
 title: Own Service: Disability or Purple Heart Details
 ---
 
+# Own Service: Disability or Purple Heart Details
+
 You indicated you have a service-connected disability or received a Purple Heart. To determine the type of 10-point preference, please select the option that best describes your situation. [cite_start](Remember, if you are claiming 10-point preference, you will typically need to complete an SF-15 form and provide supporting documentation. )
 
 *   ["I received a Purple Heart."](./ownservice_xp_purpleheart.md)

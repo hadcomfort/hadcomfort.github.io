@@ -17,5 +17,5 @@ According to the OPM Vet Guide, a "sole survivor" discharge may be granted to an
 
 *   [Yes, these circumstances apply.]({{ site.baseurl }}/advisor/ownservice_ssp_eligible.md)
 *   [No, these circumstances do not apply.]({{ site.baseurl }}/advisor/ineligible_ssp_familycriteria.md) <!-- Placeholder, will create this ineligible page if needed, or route to a general one -->
-*   [I'm not sure / I need to review the previous question.]({{ site.baseurl }}/advisor/ownservice_ssp_discharge_reason.md)
+*   [I'm not sure / I need to review the previous question.](./ownservice_ssp_checkdd214_reason.md)
 *   [Return to Advisor Start](./start.md)

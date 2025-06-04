@@ -3,6 +3,8 @@ layout: default
 title: "Own Service: Check Service Periods for 5-Point Preference (TP)"
 ---
 
+# Own Service: Check Service Periods for 5-Point Preference (TP)
+
 Since you haven't indicated eligibility for disability or sole survivorship preference at this stage, let's check if your service meets criteria for 5-point preference (TP). Did your active service (not solely for training, if you are non-disabled) include any of the following periods or events? (Select all that apply, or the one that best fits. We will address the 24-month service requirement later if applicable. See OPM Vet Guide, '5-Point Preference (TP)' for details on qualifying periods.)
 
 *   [Service during a declared war (specifically World War II: December 7, 1941 - April 28, 1952).](./ownservice_tp_wartime_wwii.md)

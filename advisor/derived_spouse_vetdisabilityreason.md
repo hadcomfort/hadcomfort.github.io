@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Spouse): Reason for Veteran's Non-Qualification
 ---
 
+# Derived Preference (Spouse): Reason for Veteran's Non-Qualification
+
 Is the veteran disqualified for a Federal position along the general lines of his or her usual occupation *because of a service-connected disability*? (OPM Vet Guide, section [132])
 
 *   `"Yes, due to a service-connected disability."` -> `advisor/derived_spouse_vetdisabilitydetails.md`

@@ -3,6 +3,8 @@ layout: default
 title: Veteran's Preference Advisor - Potential Conditional 10-Point Derived Preference (XP) - Spouse
 ---
 
+# Veteran's Preference Advisor - Potential Conditional 10-Point Derived Preference (XP) - Spouse
+
 Based on your responses, you *may* meet the criteria for 10-point derived veteran's preference (XP) as the spouse of a veteran disqualified for their usual occupation due to a service-connected disability. If your application for preference is approved after this careful analysis, it means 10 points would be added to your passing score on a civil service examination.
 
 However, because your situation does not fall under the standard presumptions for disqualification, your claim will require a more careful analysis by the hiring agency, and possibly OPM (OPM Vet Guide, section [136]).

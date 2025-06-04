@@ -2,6 +2,9 @@
 layout: default
 title: Derived Preference (Widow/Widower): Remarriage Status
 ---
+
+# Derived Preference (Widow/Widower): Remarriage Status
+
 ## Derived Preference (Widow/Widower): Remarriage Status
 
 Have you remarried since the veteran's death? (If you remarried but that subsequent marriage was annulled, select 'No, or my remarriage was annulled.' (OPM Vet Guide, section [139]))

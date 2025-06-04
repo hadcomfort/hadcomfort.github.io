@@ -3,6 +3,8 @@ layout: default
 title: Derived Preference (Mother) - Veteran's Status (Deceased or Living Disabled)
 ---
 
+# Derived Preference (Mother) - Veteran's Status (Deceased or Living Disabled)
+
 Is the veteran (your son or daughter) on whose service you are basing your claim:
 
 * `"Deceased."` -> `advisor/derived_mother_deceased_vetdeathcond.md`

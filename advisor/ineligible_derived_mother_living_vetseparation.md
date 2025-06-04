@@ -3,6 +3,8 @@ layout: default
 title: Mother's Preference - Potentially Ineligible - Living Veteran's Separation
 ---
 
+# Mother's Preference - Potentially Ineligible - Living Veteran's Separation
+
 For a mother to claim preference for a living, permanently and totally disabled veteran, the veteran must have been separated from active duty (including training service) with an honorable or general discharge (OPM Vet Guide, section [146]). Based on your response, this condition may not be met.
 
 *   `"[Return to check veteran's separation]"` -> `derived_mother_living_vetseparation.md`
