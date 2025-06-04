@@ -5,7 +5,7 @@ title: Veteran's Preference Advisor - Potential 10-Point Eligibility (CP)
 
 # Veteran's Preference Advisor - Potential 10-Point Eligibility (CP)
 
-Based on your responses, you appear to meet the criteria for 10-point veteran's preference (CP) due to a service-connected disability rating of at least 10 percent but less than 30 percent. This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. It also provides other benefits in the application process. (OPM Vet Guide, '10-Point Preference Due to Compensable Service-Connected Disability of Less Than 30 Percent (CP)')
+Based on your responses, you appear to meet the criteria for 10-point veteran's preference (CP). The U.S. Office of Personnel Management (OPM) Vet Guide states for this category: "Ten points are added to the passing examination score or rating of: A veteran who served at any time and who has a compensable service-connected disability rating of at least 10 percent but less than 30 percent." This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. It also provides other benefits in the application process. (OPM Vet Guide, '10-Point Compensable Disability Preference (CP)')
 
 Key considerations for CP preference:
 * You must have been discharged or released from active duty under honorable conditions (or expect to be if applying under the VOW Act).

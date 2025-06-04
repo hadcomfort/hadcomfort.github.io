@@ -5,10 +5,10 @@ title: Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 
 # Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 
-Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. (OPM Vet Guide, '10-Point Preference Other Than CP or CPS (XP)')
+Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). The U.S. Office of Personnel Management (OPM) Vet Guide specifies that this preference means "Ten points are added to the passing examination score or rating of: A veteran who served at any time and has a present service-connected disability or is receiving compensation, disability retirement benefits, or pension from the military or the Department of Veterans Affairs but does not qualify as a CP or CPS; or A veteran who received a Purple Heart." This is an initial assessment and not a final determination of preference. (OPM Vet Guide, '10-Point Disability Preference (XP)')
 
 Key considerations for XP preference:
-* It can be based on receiving a Purple Heart OR having a service-connected disability (or receiving compensation/pension for it) that doesn't fall into the specific CP (10-20%) or CPS (30%+) categories.
+* This category applies if you received a Purple Heart OR have a service-connected disability (or receive compensation/pension for it) that does not meet the specific percentage thresholds for CP (10% but less than 30%) or CPS (30% or more).
 * You must have been discharged or released from active duty under honorable conditions (or expect to be if applying under the VOW Act).
 * Applicants claiming 10-point preference must typically complete Standard Form (SF) 15, Application for 10-Point Veteran Preference, and submit required documentation.
 * For disabled veterans, "active duty" includes training service in the Reserves or National Guard.

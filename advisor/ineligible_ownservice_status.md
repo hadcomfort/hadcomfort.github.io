@@ -5,7 +5,12 @@ title: Ineligible Based on Current Service Status
 
 # Ineligible Based on Current Service Status
 
-Based on your responses, you do not currently meet the preliminary requirements for veteran's preference. Generally, you must be discharged or released from active duty under honorable conditions to be eligible. If you are still on active duty, you may be eligible under the VOW Act if you are within 120 days of discharge and can provide a certification. For more information, please review the OPM Vet Guide (OPM Vet Guide, section [Appendix A - Definitions of Terms and Categories, Page 31]).
+Based on your responses, you do not currently meet the preliminary requirements for veteran's preference based on your own service status.
+
+The U.S. Office of Personnel Management (OPM) Vet Guide states, "To receive preference, a veteran must have been discharged or released from active duty in the Armed Forces under honorable conditions..." (OPM Vet Guide, 'Types of Preference').
+For those still on active duty, the VOW (Veterans Opportunity to Work) to Hire Heroes Act allows consideration if you are "expected to be discharged or released from active duty service in the armed forces under honorable conditions within 120 days after the certification is submitted by the applicant." (OPM Vet Guide, 'A word about the VOW (Veterans Opportunity to Work) Act').
+
+If neither of these situations applies to you (e.g., you are not yet within 120 days of an expected honorable discharge, or your service has not yet concluded under honorable conditions), you typically would not yet be eligible for preference.
 
 * [Learn more about VOW Act eligibility requirements]({{ site.baseurl }}/advisor/ownservice_intro.md)
 * [I made a mistake in my previous answers, take me back.]({{ site.baseurl }}/advisor/ownservice_intro.md)
