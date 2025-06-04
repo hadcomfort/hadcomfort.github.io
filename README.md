@@ -2,6 +2,10 @@
 
 This README provides an overview of the Veteran's Preference Advisor website project, how to run it locally, and its content structure.
 
+## Purpose
+
+The primary goal of the Veteran's Preference Advisor website is to provide a clear, accessible, and user-friendly tool for U.S. veterans to understand their eligibility for veteran's preference in federal hiring. We aim to demystify the complex regulations and guidance provided by the Office of Personnel Management (OPM) and empower veterans with the knowledge to confidently navigate the federal job application process.
+
 ## Overview
 
 ### Project Description
@@ -13,6 +17,15 @@ Our core feature is the "Veteran's Preference Advisor" tool. This interactive to
 The information provided by this tool is based on the Office of Personnel Management (OPM) Vet Guide. Our goal is to make this information more accessible and easier to understand.
 
 We hope this tool empowers you with the knowledge to navigate the federal hiring process with greater confidence.
+
+## Contributing
+
+We welcome contributions to improve and expand the Veteran's Preference Advisor. If you have suggestions, find errors, or want to contribute to the content or codebase, please feel free to:
+
+1.  **Open an issue:** Report bugs, suggest enhancements, or discuss new features.
+2.  **Fork the repository and submit a pull request:** For direct contributions to code or content, please fork the project, make your changes in a separate branch, and then submit a pull request for review.
+
+Please ensure that any contributions align with the project's goal of providing clear and accurate information to veterans.
 
 ## Development
 
@@ -68,6 +81,10 @@ This website is built using Jekyll, a static site generator. Jekyll processes th
 
 -   **`plan.md`**: This file outlines the project plan, including past achievements and future enhancements envisioned for the advisor tool and the overall website. It provides context on the project's development roadmap.
 
+-   **`faq.md`**: This file contains frequently asked questions about Veteran's Preference and the use of this advisor tool.
+
+-   **`glossary.md`**: This file provides definitions for key terms and acronyms related to Veteran's Preference and federal hiring.
+
 -   **`_layouts/`**: This directory holds the HTML template files that define the structure for different types of pages on the site. For example, `default.html` might define the main site template, and other layouts might exist for specific page types like blog posts or advisor pages.
 
 -   **`assets/`**: This folder is used for static assets. Currently, it primarily contains CSS files (under `assets/css/`) which define the visual styling of the website. In the future, it might also include images or other static resources.
@@ -77,3 +94,7 @@ This website is built using Jekyll, a static site generator. Jekyll processes th
 -   **`_includes/`** (potential future use): This directory, also a potential future enhancement (see task 4.2 in `plan.md`), would be used for reusable snippets of HTML or Markdown. These snippets could be included in multiple pages or layouts to avoid repetition and make site maintenance easier.
 
 Understanding this structure can be helpful if you plan to contribute to the project or explore its technical details.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
