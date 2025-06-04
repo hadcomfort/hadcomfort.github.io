@@ -18,9 +18,9 @@ Considering these guidelines, did your deceased veteran child die **under honora
 * The specific period of April 28, 1952, through July 1, 1955? OR
 * In a campaign or expedition for which a campaign medal has been authorized? (Consult the OPM Vet Guide Appendix A for a list of qualifying campaigns and expeditions.)
 
-* `"Yes, all these conditions regarding the veteran's death and service apply."` -> `advisor/derived_mother_common_fatherinfo.md`
-* `"No, one or more of these conditions do not apply."` (For example, the veteran died on active duty under honorable conditions, but their service after 1955 was not in a war, campaign, or expedition for which a medal was authorized.) -> `advisor/ineligible_derived_mother_deceased_vetdeathcond.md`
-* `"[Return to previous question (Veteran's Status)]"` -> `advisor/derived_mother_vetstatus.md`
-* `"[Return to Advisor Start]"` -> `advisor/start.md`
+*   [Yes, all these conditions regarding the veteran's death and service apply.](./derived_mother_common_fatherinfo.md)
+*   [No, one or more of these conditions do not apply. (For example, the veteran died on active duty under honorable conditions, but their service after 1955 was not in a war, campaign, or expedition for which a medal was authorized.)](./ineligible_derived_mother_deceased_vetdeathcond.md)
+*   [Return to previous question (Veteran's Status)](./derived_mother_vetstatus.md)
+*   [Return to Advisor Start](./start.md)
 
 [Return to Advisor Start](./start.md)
