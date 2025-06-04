@@ -12,6 +12,6 @@ For those still on active duty, the VOW (Veterans Opportunity to Work) to Hire H
 
 If neither of these situations applies to you (e.g., you are not yet within 120 days of an expected honorable discharge, or your service has not yet concluded under honorable conditions), you typically would not yet be eligible for preference.
 
-* [Learn more about VOW Act eligibility requirements]({{ site.baseurl }}/advisor/ownservice_intro.html)
-* [I made a mistake in my previous answers, take me back.]({{ site.baseurl }}/advisor/ownservice_intro.html)
+* [Learn more about VOW Act eligibility requirements](./ownservice_intro.md)
+* [I made a mistake in my previous answers, take me back.](./ownservice_intro.md)
 * [Return to Advisor Start](./start.md)
