@@ -11,4 +11,4 @@ This is an initial assessment and not a final determination of preference. Remem
 * Be prepared to provide necessary documentation (e.g., marriage certificate, veteran's proof of service-connected disability and unemployability/disqualification for usual occupation).
 
 * [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

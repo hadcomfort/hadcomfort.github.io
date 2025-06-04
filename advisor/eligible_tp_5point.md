@@ -6,4 +6,4 @@ layout: default
 Based on your responses, you appear to meet the criteria for 5-point veteran's preference (TP), provided your discharge was (or will be, if VOW Act applies) under honorable conditions and all other general eligibility requirements are met. This is an initial assessment and not a final determination of preference. This preference means that 5 points are added to your passing score on a civil service examination. (OPM Vet Guide, '5-Point Preference (TP)') Remember to claim preference when applying for Federal jobs and be prepared to provide necessary documentation (like your DD Form 214 or VOW Act certification).
 
 * [Understanding how to claim your preference on USAJOBS](https://www.usajobs.gov/help/faq/application/veterans-preference/) (External Link)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

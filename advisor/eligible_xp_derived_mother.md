@@ -11,4 +11,4 @@ This is an initial assessment and not a final determination of preference. Remem
 * Be prepared to provide necessary documentation (e.g., veteran's birth certificate listing you as mother, proof of your marriage to veteran's father, veteran's proof of service/disability/death as applicable, documentation for your current marital/living status).
 
 * [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

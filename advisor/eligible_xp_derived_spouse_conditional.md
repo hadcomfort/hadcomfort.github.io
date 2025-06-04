@@ -14,4 +14,4 @@ Key reminders:
 This is an initial assessment and not a final determination of preference.
 
 * [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

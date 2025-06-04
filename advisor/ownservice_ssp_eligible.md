@@ -24,5 +24,5 @@ Specifically, if you are an SSP eligible, an agency may not select a non-prefere
 
 While this advisor provides guidance, the hiring agency makes the final determination on veteran's preference.
 
-*   [Learn more about different types of Veteran's Preference (OPM Vet Guide)]({{ site.baseurl }}/hrdocs.txt#ゼロポイントプリファレンスssp) <!-- Placeholder link, actual anchor may vary -->
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Learn more about different types of Veteran's Preference (OPM Vet Guide)](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/) <!-- Placeholder link, actual anchor may vary -->
+*   [Return to Advisor Start](./start.md)

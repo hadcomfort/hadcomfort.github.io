@@ -12,3 +12,5 @@ Regarding your deceased veteran child: Did they die under honorable conditions w
 * `"No, those conditions do not all apply."` (This may include situations where the veteran's service was after 1955 but not in a war/campaign, making the mother ineligible for derived preference (OPM Vet Guide, section [152])) -> `advisor/ineligible_derived_mother_deceased_vetdeathcond.md`
 * `"[Return to previous question]"` -> `advisor/derived_mother_vetstatus.md`
 * `"[Return to Advisor Start]"` -> `advisor/start.md`
+
+[Return to Advisor Start](./start.md)

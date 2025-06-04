@@ -11,4 +11,4 @@ First, were you released or discharged from active duty **after August 29, 2008*
 
 * [Yes, I believe these conditions might apply to me, or I want to check.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_date.md)
 * [No, these conditions do not apply, or I'm not sure.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

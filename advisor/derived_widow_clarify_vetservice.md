@@ -13,3 +13,5 @@ You can find details in the OPM Vet Guide under "10-Point Derived Preference (XP
 
 * `"[Return to veteran's service condition choices]"` -> `advisor/derived_widow_vetservice_condition.md`
 * `"[Return to Advisor Start]"` -> `advisor/start.md`
+
+[Return to Advisor Start](./start.md)

@@ -13,4 +13,4 @@ If your situation is complex or not clearly covered by these options, you may wa
 
 * [Return to check current marital/living status]({{ site.baseurl }}/advisor/derived_mother_common_currentmarital.md)
 * [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
-* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+* [Return to Advisor Start](./start.md)

@@ -11,5 +11,5 @@ If your discharge was for other reasons, you would not qualify for SSP based on 
 
 *   [I want to re-check the discharge reason criteria.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_reason.md)
 *   [Explore other types of veteran's preference.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md) <!-- Changed link to be more appropriate than disability intro -->
-*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+*   [Return to Advisor Start](./start.md)
 ---

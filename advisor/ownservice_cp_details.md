@@ -8,3 +8,5 @@ You indicated a service-connected disability rating of 10% or 20%. This generall
 *   [Confirm, proceed to eligibility summary.](./eligible_cp_10point.md)
 *   [I made a mistake, review disability/Purple Heart options.](./ownservice_disability_details.md)
 *   [Return to Advisor Start](./start.md)
+
+[Return to previous question](./ownservice_disability_details.md)
