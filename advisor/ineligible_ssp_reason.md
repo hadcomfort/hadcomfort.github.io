@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Sole Survivor Preference: Potentially Ineligible - Reason for Discharge Not Met
+title: Sole Survivor Preference - Ineligible: Reason for Discharge
 ---
 
-Eligibility for 0-point Sole Survivor Preference (SSP) requires that the specific reason for your discharge (after August 29, 2008) was a 'sole survivorship discharge'.
+# Ineligible for Sole Survivor Preference: Reason for Discharge Not Met
 
-If your discharge was for other reasons, you would not qualify for SSP. However, you might be eligible for other types of veteran's preference (e.g., 5-point preference based on service period or campaign medal, or 10-point preference if disabled).
+Eligibility for Sole Survivorship Preference (SSP) requires that the specific reason for your discharge (after August 29, 2008) was a **"sole survivorship discharge"** (OPM Vet Guide, '0-point Preference (SSP)').
 
-Choices:
-* "[Re-check reason for discharge information]" -> advisor/ownservice_ssp_discharge_reason.md
-* "[Explore other preference types (e.g., 5-point, disability)]" -> advisor/ownservice_checkdisability_intro.md
-* "[Return to Advisor Start]" -> advisor/start.md
+If your discharge was for other reasons, you would not qualify for SSP based on this specific provision. However, you might be eligible for other types of veteran's preference.
+
+*   [I want to re-check the discharge reason criteria.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_reason.md)
+*   [Explore other types of veteran's preference.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md) <!-- Changed link to be more appropriate than disability intro -->
+*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
 ---

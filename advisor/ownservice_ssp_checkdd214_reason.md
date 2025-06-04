@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Sole Survivor Preference: Check DD Form 214 for Discharge Reason
+title: Sole Survivor Preference - Step 2: Discharge Reason
 ---
 
-Your DD Form 214 (Certificate of Release or Discharge from Active Duty) or other official separation documents should state the specific reason or authority for your discharge. Please review these documents to confirm if the reason was explicitly a 'sole survivorship discharge'.
+# Sole Survivor Preference - Step 2: Discharge Reason
 
-Once you have this information, please select an option:
+For Sole Survivorship Preference, your discharge must have been explicitly by reason of **"sole survivorship discharge."**
 
-Choices:
-* "Yes, the reason documented was 'sole survivorship discharge'." -> advisor/ownservice_ssp_familycriteria_info.md
-* "No, the reason documented was different or unclear regarding sole survivorship." -> advisor/ineligible_ssp_reason.md
-* "[Return to Advisor Start]" -> advisor/start.md
+Please check your DD Form 214 (Certificate of Release or Discharge from Active Duty) or other official separation documents for the stated reason or authority for your discharge.
+
+*   [Yes, the reason documented was "sole survivorship discharge".]({{ site.baseurl }}/advisor/ownservice_ssp_familycriteria_info.md)
+*   [No, the reason documented was different or unclear regarding sole survivorship.]({{ site.baseurl }}/advisor/ineligible_ssp_reason.md)
+*   [I need to check the discharge date again.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_date.md)
+*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
 ---

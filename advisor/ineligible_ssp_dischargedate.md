@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Sole Survivor Preference: Potentially Ineligible - Discharge Date Not Met
+title: Sole Survivor Preference - Ineligible: Discharge Date
 ---
 
-To be eligible for 0-point Sole Survivor Preference (SSP) under the Hubbard Act, your release or discharge from active duty must have occurred *after August 29, 2008*.
+# Ineligible for Sole Survivor Preference: Discharge Date Not Met
+
+To be eligible for Sole Survivorship Preference (SSP) under the Hubbard Act, your release or discharge from active duty must have occurred **after August 29, 2008** (OPM Vet Guide, '0-point Preference (SSP)').
 
 Based on your response, your discharge date does not meet this requirement for SSP. You may still be eligible for other types of veteran's preference based on your service.
 
-Choices:
-* "[Re-check discharge date information]" -> advisor/ownservice_ssp_dischargedate.md
-* "[Explore other preference types (e.g., 5-point, disability)]" -> advisor/ownservice_checkdisability_intro.md
-* "[Return to Advisor Start]" -> advisor/start.md
+*   [I want to re-check the discharge date criteria.]({{ site.baseurl }}/advisor/ownservice_ssp_checkdd214_date.md)
+*   [Explore other types of veteran's preference.]({{ site.baseurl }}/advisor/ownservice_nodisability_nossps_checkserviceperiod.md) <!-- Changed link to be more appropriate than disability intro -->
+*   [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
+---
