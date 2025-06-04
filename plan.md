@@ -1,136 +1,126 @@
-Phase 4
-
-Okay, here is a multi-step asynchronous plan for Phase 4: Sole Survivor Preference Path. This phase focuses on users who are seeking 0-point preference based on a "sole survivorship discharge."
-This plan assumes users arrive from advisor/ownservice_discharged_checkfirst_solesurvivor.md (from Phase 1) by selecting "Yes, I believe I had a sole survivorship discharge," which should then link to the first file in this phase: advisor/ownservice_ssp_dischargedate.md.
-
-Veteran's Preference Advisor: Site Development Plan - Phase 4: Sole Survivor Preference Path
-Overall Goal for Phase 4: To create the decision tree path for veterans claiming 0-point Sole Survivor Preference (SSP).
-General Instructions for AI Agent:
-* For each task below, create the specified Markdown file in the /advisor/ directory.
-* Ensure each file uses layout: default (or the custom advisor layout).
-* Include a link back to the start: [Return to Advisor Start](./start.md) on nearly every page.
-* Incorporate citations from hrdocs.txt as indicated, using the format ``.
-* Content should guide the user to determine potential eligibility for 0-point SSP.
-
-Phase 4 Development Tasks (Asynchronous)
-Each task involves creating one Markdown file with the specified attributes.
-Task 4.1: Create advisor/ownservice_ssp_dischargedate.md
-* File: advisor/ownservice_ssp_dischargedate.md (New)
-* Title: Sole Survivor Preference: Date of Discharge
-* Purpose: To verify if the veteran's discharge date meets the statutory requirement for SSP (after August 29, 2008).
-* Content/Question: Markdown     You indicated you believe you had a 'sole survivorship discharge.' [cite_start]To be eligible for Sole Survivor Preference (SSP), your release or discharge from the relevant period of active duty must have occurred *after August 29, 2008*. 
-* 
-* When were you released or discharged from this period of active duty?
-*     
-* Choices:
-    * "On or before August 29, 2008." -> advisor/ineligible_ssp_dischargedate.md
-    * "After August 29, 2008." -> advisor/ownservice_ssp_discharge_reason.md
-    * "I'm not sure / I need to check my DD Form 214." -> advisor/ownservice_ssp_checkdd214_date.md
-    * "[Return to previous question (Own Service: Check for Sole Survivorship Preference)]" -> advisor/ownservice_discharged_checkfirst_solesurvivor.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.2: Create advisor/ownservice_ssp_discharge_reason.md
-* File: advisor/ownservice_ssp_discharge_reason.md (New)
-* Title: Sole Survivor Preference: Reason for Discharge
-* Purpose: To verify if the specific reason for discharge was "sole survivorship."
-* Content/Question: Markdown     You indicated your discharge was after August 29, 2008. Was the specific reason stated for your release or discharge from that period of active duty a 'sole survivorship discharge'? [cite_start]This should be documented on your DD Form 214 or other official separation papers. 
-*     
-* Choices:
-    * "Yes, the reason documented was a 'sole survivorship discharge'." -> advisor/ownservice_ssp_familycriteria_info.md
-    * "No, the reason documented was different." -> advisor/ineligible_ssp_reason.md
-    * "I'm not sure / I need to check my DD Form 214." -> advisor/ownservice_ssp_checkdd214_reason.md
-    * "[Return to previous question (Date of Discharge)]" -> advisor/ownservice_ssp_dischargedate.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.3: Create advisor/ownservice_ssp_familycriteria_info.md
-* File: advisor/ownservice_ssp_familycriteria_info.md (New)
-* Title: Sole Survivor Preference: Basis for Discharge (Information)
-* Purpose: To provide context on the family circumstances that typically lead to a "sole survivorship discharge."
-* Content/Question: Markdown     You've indicated you received a 'sole survivorship discharge' after August 29, 2008. This type of discharge is typically granted to protect 'the only surviving child in a family' where a parent or one or more siblings served in the U.S. Armed Forces AND:
-* 
-* * Was killed, died as a result of wounds, accident, or disease; OR
-* * Is in a captured or missing in action status; OR
-* * [cite_start]Is permanently 100 percent disabled or hospitalized on a continuing basis (and is not gainfully employed because of the disability or hospitalization). 
-* 
-* [cite_start]And, the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence. 
-* 
-* If your 'sole survivorship discharge' was granted based on these family circumstances, you may be eligible for 0-point Sole Survivor Preference (SSP).
-*     
-* Choices:
-    * "Yes, this aligns with the basis for my discharge. Proceed to eligibility summary." -> advisor/eligible_ssp_0point.md
-    * "No, this does not sound like the basis for my discharge, or my discharge was different." -> advisor/ineligible_ssp_reason.md
-    * "[I need to re-check the reason for my discharge]" -> advisor/ownservice_ssp_checkdd214_reason.md
-    * "[Return to previous question (Reason for Discharge)]" -> advisor/ownservice_ssp_discharge_reason.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.4: Create advisor/eligible_ssp_0point.md
-* File: advisor/eligible_ssp_0point.md (Replaces placeholder ownservice_ssp_eligible.md from previous plan's outline)
-* Title: Veteran's Preference Advisor - Potential 0-Point Sole Survivor Preference (SSP)
-* Purpose: Informs the user they may be eligible for 0-point SSP and its benefits.
-* Content/Question: Markdown     Based on your responses, you appear to meet the criteria for 0-point Sole Survivor Preference (SSP). [cite_start]This is because you indicated you received a 'sole survivorship discharge' after August 29, 2008, based on qualifying family member service and loss/disability. 
-* 
-* Key aspects of 0-point Sole Survivor Preference (SSP) include:
-* * [cite_start]You do *not* receive additional points added to your passing score or rating. 
-* * [cite_start]You *are* entitled to be listed ahead of non-preference eligibles who have the same score on an examination, or listed ahead of non-preference eligibles in the same quality category when agencies use category rating. 
-* * [cite_start]You *are* entitled to receive the same pass-over rights as other preference eligibles. 
-* * [cite_start]You *are* entitled to credit experience in the armed forces to meet the qualification requirements for Federal jobs. 
-* 
-* This is an initial assessment and not a final determination of preference. Ensure your DD Form 214 or other official separation documents clearly indicate a 'sole survivorship discharge' and the date of discharge.
-*     
-* Choices:
-    * "Learn more about veteran's preference procedures" (Link to a general info page or OPM guidance)
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.5: Create advisor/ineligible_ssp_dischargedate.md
-* File: advisor/ineligible_ssp_dischargedate.md (New)
-* Title: Sole Survivor Preference: Potentially Ineligible - Discharge Date Not Met
-* Purpose: Explains potential ineligibility if the discharge date does not meet the SSP requirement.
-* Content/Question: Markdown     [cite_start]To be eligible for 0-point Sole Survivor Preference (SSP) under the Hubbard Act, your release or discharge from active duty must have occurred *after August 29, 2008*. 
-* 
-* Based on your response, your discharge date does not meet this requirement for SSP. You may still be eligible for other types of veteran's preference based on your service.
-*     
-* Choices:
-    * "[Re-check discharge date information]" -> advisor/ownservice_ssp_dischargedate.md
-    * "[Explore other preference types (e.g., 5-point, disability)]" -> advisor/ownservice_checkdisability_intro.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.6: Create advisor/ineligible_ssp_reason.md
-* File: advisor/ineligible_ssp_reason.md (New)
-* Title: Sole Survivor Preference: Potentially Ineligible - Reason for Discharge Not Met
-* Purpose: Explains potential ineligibility if the discharge was not a "sole survivorship discharge."
-* Content/Question: Markdown     [cite_start]Eligibility for 0-point Sole Survivor Preference (SSP) requires that the specific reason for your discharge (after August 29, 2008) was a 'sole survivorship discharge'. 
-* 
-* If your discharge was for other reasons, you would not qualify for SSP. However, you might be eligible for other types of veteran's preference (e.g., 5-point preference based on service period or campaign medal, or 10-point preference if disabled).
-*     
-* Choices:
-    * "[Re-check reason for discharge information]" -> advisor/ownservice_ssp_discharge_reason.md
-    * "[Explore other preference types (e.g., 5-point, disability)]" -> advisor/ownservice_checkdisability_intro.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.7: Create advisor/ownservice_ssp_checkdd214_date.md
-* File: advisor/ownservice_ssp_checkdd214_date.md (New)
-* Title: Sole Survivor Preference: Check DD Form 214 for Discharge Date
-* Purpose: Advises the user to check their DD Form 214 for the discharge date.
-* Content/Question: Markdown     Your DD Form 214 (Certificate of Release or Discharge from Active Duty) will state your date of discharge for the relevant period of service. Please review this document to confirm if your discharge occurred *after August 29, 2008*.
-* 
-* Once you have this information, please select an option:
-*     
-* Choices:
-    * "My discharge was after August 29, 2008." -> advisor/ownservice_ssp_discharge_reason.md
-    * "My discharge was on or before August 29, 2008." -> advisor/ineligible_ssp_dischargedate.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-Task 4.8: Create advisor/ownservice_ssp_checkdd214_reason.md
-* File: advisor/ownservice_ssp_checkdd214_reason.md (New)
-* Title: Sole Survivor Preference: Check DD Form 214 for Discharge Reason
-* Purpose: Advises the user to check their DD Form 214 for the specific reason for discharge.
-* Content/Question: Markdown     Your DD Form 214 (Certificate of Release or Discharge from Active Duty) or other official separation documents should state the specific reason or authority for your discharge. Please review these documents to confirm if the reason was explicitly a 'sole survivorship discharge'.
-* 
-* Once you have this information, please select an option:
-*     
-* Choices:
-    * "Yes, the reason documented was 'sole survivorship discharge'." -> advisor/ownservice_ssp_familycriteria_info.md
-    * "No, the reason documented was different or unclear regarding sole survivorship." -> advisor/ineligible_ssp_reason.md
-    * "[Return to Advisor Start]" -> advisor/start.md
-
-This concludes the development plan for Phase 4, focusing on Sole Survivor Preference. If there are other "complex cases" to be added to Phase 4, they would need their own set of tasks and file definitions.
+Phase 1: Foundational Accuracy and Core Advisor Enhancement
+Goal: Ensure the "Veteran's Preference Advisor" tool is accurate and comprehensive, based on the OPM Vet Guide.
+Tasks:
+ * Full Audit of Advisor Logic:
+   * Action: Systematically review every path and decision point within the /advisor/ markdown files.
+   * Reference: Cross-reference all logic, conditions, and outcomes against the OPM Vet Guide.
+   * Deliverable: A report of discrepancies, gaps, or areas needing clarification.
+ * Overhaul Citation System:
+   * Problem: Current citations in advisor markdown files (e.g., [R7.2.1]) refer to internal Repomix source tags or other unrelated files, not directly or clearly to the OPM Vet Guide content. This is evident in files like advisor/derived_intro.md and advisor/derived_mother_common_currentmarital.md.
+   * Action: Replace existing citations with a clear and consistent format that directly references the OPM Vet Guide.
+   * Recommendation: Use references like "(OPM Vet Guide, 'Section Name')" or "(OPM Vet Guide, 'Eligibility for 5-Point Preference (TP)')." For instance, information on "Mother of a disabled veteran" relating to living with a disabled husband should be cited accordingly.
+   * Deliverable: Updated advisor markdown files with accurate and meaningful citations.
+ * Address Content Gaps in Advisor:
+   * Action: Based on the audit (Task 1.1) and the OPM Vet Guide, identify any veteran's preference scenarios, eligibility criteria, or specific conditions not currently covered or inadequately explained in the advisor.
+   * Examples: Nuances in "derived preference," specific conditions for VOW Act eligibility, or details on different discharge types.
+   * Deliverable: New or updated markdown files in /advisor/ to cover these gaps, ensuring clear, plain language.
+ * Enhance "Ineligible" and "Eligibility Summary" Pages:
+   * Action: Review all "ineligible_.md" and "eligible_.md" pages.
+   * For "Ineligible" pages: Ensure they clearly state why a user might be ineligible according to the OPM Vet Guide and, where appropriate, guide the user to re-evaluate their answers or explore other potential paths (e.g., "Explore other preference types").
+   * For "Eligibility Summary" pages: Ensure they accurately summarize the specific preference type (e.g., TP 5-point, XP 10-point, CP 10-point, CPS 10-point), key entitlements, and immediate next steps, including the importance of the SF-15 for 10-point preferences.
+   * Deliverable: Revised markdown files with improved explanations and guidance.
+ * Develop SF-15 Informational Content:
+   * Action: The current links like "Learn more about applying with 10-point preference (SF-15)" are placeholders. Create a dedicated page (or section on relevant eligibility pages) explaining what the SF-15 ("Application for 10-Point Veteran Preference") is, why it's needed, and link to the official OPM form/guidance. The OPM Vet Guide mentions the SF-15 extensively.
+   * Deliverable: New markdown page(s) for SF-15 information and updated links in advisor pages.
+Phase 2: User Experience (UX) and Navigation Improvement
+Goal: Make the website, particularly the advisor tool, more intuitive, user-friendly, and easier to navigate.
+Tasks:
+ * Refine Advisor Introduction and Instructions:
+   * Action: Review the index.md and advisor/start.md pages. Ensure the purpose of the advisor, what users can expect, and what information they might need (like DD Form 214) is exceptionally clear and encouraging.
+   * Deliverable: Updated index.md and advisor/start.md.
+ * Consistency in Navigation Links:
+   * Action: Ensure all advisor pages consistently feature:
+     * Correct and clearly labeled links for choices.
+     * A "Return to previous question" link where logical.
+     * A persistent "Return to Advisor Start" link.
+   * Deliverable: Standardized navigation across all /advisor/ pages.
+ * Mobile Responsiveness and Readability Review:
+   * Action: The jekyll-theme-minimal is generally responsive. Thoroughly test the advisor flow and all content pages on various screen sizes (desktop, tablet, mobile). Pay attention to font sizes, line spacing, and link tap targets. The current SCSS defines responsive behavior.
+   * Deliverable: CSS adjustments in _sass/jekyll-theme-minimal.scss or assets/css/style.scss if needed.
+ * Accessibility Audit (Basic):
+   * Action: Review for basic accessibility:
+     * Sufficient color contrast (e.g., body text color:#727272; on white is WCAG AA for normal text, but check other elements).
+     * Logical heading structure (H1, H2, H3) in markdown files for screen readers.
+     * Ensure links are descriptive.
+   * Deliverable: Report of accessibility issues and implemented fixes.
+Phase 3: Content Expansion and Value Addition
+Goal: Broaden the scope of information available on the site by leveraging the rich content within the OPM Vet Guide.
+Tasks:
+ * Create a Glossary of Terms:
+   * Action: Develop a glossary page defining key terms used in veteran's preference and federal hiring (e.g., "Active Duty," "Honorable Conditions," "Compensable Service-Connected Disability," "VRA," "VEOA," "RIF").
+   * Reference: The OPM Vet Guide (e.g., definitions in Appendix A, types of preference).
+   * Deliverable: A new glossary.md page, with terms linked from advisor and other content pages.
+ * Develop an FAQ Section:
+   * Action: Create an FAQ page addressing common questions veterans might have.
+   * Potential Topics (derived from the OPM Vet Guide):
+     * How is "war" defined for preference purposes?
+     * What's the difference between 5-point and 10-point preference?
+     * How does preference apply in Reductions in Force (RIF)?
+     * What if I don't have my DD Form 214?
+     * What is "derived preference"?
+     * Does preference apply to all federal jobs?
+   * Deliverable: A new faq.md page.
+ * Summaries of Key OPM Vet Guide Sections:
+   * Action: Create reader-friendly summary pages for complex but important topics from the OPM Vet Guide.
+   * Examples:
+     * "Crediting Experience of Preference Eligibles."
+     * "Physical Qualifications and Waivers."
+     * "Restoration After Uniformed Service" (USERRA rights).
+     * "Special Appointing Authorities for Veterans" (VRA, 30% Disabled, etc.).
+   * Deliverable: New markdown pages for each summary.
+ * Detailed Guides on Veteran Hiring Authorities:
+   * Action: Expand on specific hiring authorities like:
+     * Veterans Recruitment Appointment (VRA).
+     * Veterans Employment Opportunities Act (VEOA).
+     * Appointment of 30 Percent or More Disabled Veterans.
+     * Hubbard Act (Sole Survivor Preference).
+   * Deliverable: Dedicated pages for each authority, explaining eligibility, how to apply, and benefits.
+Phase 4: Technical Refinements and Maintainability
+Goal: Improve the Jekyll site's structure, performance, and ease of future updates.
+Tasks:
+ * Implement Jekyll Data Files:
+   * Action: For repetitive data, such as lists of qualifying campaigns/medals or definitions for the glossary, use Jekyll data files (in _data directory).
+   * Benefit: Centralizes data, making updates easier and content more consistent.
+   * Deliverable: Relevant .yml or .json data files and updated markdown to use them.
+ * Utilize Jekyll Includes for Repetitive Content:
+   * Action: Identify blocks of text or HTML repeated across multiple pages (e.g., the disclaimer on index.md, "Return to Advisor Start" link structure). Convert these into Jekyll includes (_includes directory).
+   * Benefit: Reduces redundancy and simplifies updates to common elements.
+   * Deliverable: Include files and updated markdown.
+ * Content Organization with Jekyll Collections (Optional but Recommended):
+   * Action: Consider structuring related content like FAQ items, Glossary terms, or Advisor path segments as Jekyll Collections.
+   * Benefit: Better organization of source files and more flexible presentation options.
+   * Deliverable: Configuration in _config.yml and reorganized files if implemented.
+ * Improve OPM Vet Guide Management & Citation (Advanced):
+   * Challenge: The OPM Vet Guide is a very large, single text file. Citing it meaningfully (as per Phase 1.2) is key. For long-term maintainability:
+   * Option 1 (Simpler): Create an internal "anchor" system within the OPM Vet Guide if you decide to display it directly, or use clear section headings from the original OPM Vet Guide for citations.
+   * Option 2 (More Complex): Break down the OPM Vet Guide into multiple smaller markdown files (e.g., _opm_guide_sections/introduction.md, _opm_guide_sections/5_point_preference.md). Then, citations in advisor pages can link directly to these more granular, human-readable files. This would also allow these sections to be displayed as standalone pages if desired.
+   * Deliverable: A chosen strategy implemented for better OPM Vet Guide integration.
+ * Enhance README.md:
+   * Action: The current README.md is minimal. Expand it to include:
+     * A detailed description of the project's purpose.
+     * How to run the Jekyll site locally for development or contributions.
+     * Brief overview of the content structure.
+   * Deliverable: Updated README.md.
+ * Review _config.yml:
+   * Action: Check for unused plugins (e.g., mathjax is listed but likely unused). Ensure settings are optimal.
+   * Deliverable: Cleaned up and optimized _config.yml.
+Phase 5: Review, Testing, and Launch Preparations
+Goal: Ensure all changes are implemented correctly, the site functions as expected, and content is polished before wider announcement.
+Tasks:
+ * Comprehensive Advisor Path Testing:
+   * Action: Manually go through every possible path in the Veteran's Preference Advisor. Verify:
+     * Correct logic and outcomes.
+     * All links work.
+     * Citations are accurate and helpful.
+     * Content is clear and free of typos/grammar errors.
+   * Deliverable: Testing checklist and bug/issue report.
+ * Cross-Browser and Cross-Device Testing:
+   * Action: Test the entire website on major browsers (Chrome, Firefox, Safari, Edge) and different devices (desktop, tablet, mobile).
+   * Deliverable: Browser/device compatibility report.
+ * Proofreading and Editing:
+   * Action: Have a fresh pair of eyes review all new and significantly modified content for clarity, grammar, spelling, and tone.
+   * Deliverable: Edited and polished content.
+ * Final Link Check:
+   * Action: Use a link checker tool (or manually verify) all internal and external links. Ensure links to official resources like OPM and VA are current.
+   * Deliverable: Report of broken links and fixes.
+By following this multi-phase plan, you can significantly enhance the quality, accuracy, and user-friendliness of your Veterans Information Resource website, making it an even more valuable tool for veterans and their families.
