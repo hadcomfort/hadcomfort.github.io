@@ -108,3 +108,12 @@ An applicant must be:
 *   5 CFR 213.3202(n) (refers to the older Schedule B authority)
 *   5 CFR 335.106
 *   Pub. L. 106-117, Section 511 (for new VEOA appointments)
+
+## Detailed Guides on Specific Authorities
+
+For more in-depth information on specific appointing authorities, please refer to the following guides:
+
+*   [Learn more about Veterans Recruitment Appointment (VRA)](vra.md)
+*   [Learn more about the Veterans Employment Opportunities Act (VEOA)](veoa.md)
+*   [Learn more about the Appointment of 30 Percent or More Disabled Veterans](disabled_vets_30_percent.md)
+*   [Learn more about the Hubbard Act (Sole Survivor Preference)](hubbard_act.md)
