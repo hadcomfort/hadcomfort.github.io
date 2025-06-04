@@ -5,14 +5,20 @@ title: Mother's Preference - Current Living and Marital Status
 
 # Mother's Preference - Current Living and Marital Status
 
-The OPM guidelines for a mother's current marital and living status are very specific. Select the option that best describes your situation. For the full OPM text, see the "None of these..." option below. (These options assume you also meet the OPM condition that 'she is or was married to the father of the veteran'.)
+You have indicated that you are or were married to the father of the veteran. The next set of conditions for derived preference relates to your current marital and living situation.
 
-Which of the following best describes your current living and marital situation?
+The OPM Vet Guide for HR Professionals states that, in addition to being married to the father of the veteran, the mother also meets one of the following conditions at the time she claims preference:
+*   She *"lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
+*   She *"is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
+*   She *"remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
 
-*   ["I live with my husband who 'is totally and permanently disabled'. This husband can be the veteran's father or your husband through remarriage." (OPM Vet Guide, sections [143, 148])](./eligible_xp_derived_mother.md)
-*   ["I am 'widowed, divorced, or legally separated' (from the veteran's father OR a subsequent husband) AND 'have not remarried' since that event." (This covers OPM Vet Guide, sections [144, 149] and the essence of [145, 150])](./eligible_xp_derived_mother.md)
-*   ["I am currently married, and my husband is NOT totally and permanently disabled."](./ineligible_derived_mother_currentmarital.md)
-*   ["None of these situations accurately describe mine (see full OPM text here)."](./derived_mother_clarify_currentmarital.md)
+Which of these specific OPM-defined situations best describes your current status?
 
-[Return to previous question](./derived_mother_common_fatherinfo.md)
+*   `"I live with my husband (this can be the veteran's father or my husband through remarriage), and he is totally and permanently disabled."` -> `eligible_xp_derived_mother.md`
+*   `"I am widowed, divorced, or separated from the veteran's father AND I have not remarried."` -> `eligible_xp_derived_mother.md`
+*   `"I remarried after my connection to the veteran's father ended, but I am now widowed, divorced, or legally separated from that subsequent husband."` -> `eligible_xp_derived_mother.md`
+*   `"I am currently married, and my current husband is NOT totally and permanently disabled."` (This implies you do not meet the first condition, and if you are married, the other two conditions about being widowed/divorced/separated would not apply to your current status.) -> `ineligible_derived_mother_currentmarital.md`
+*   `"None of these situations accurately describe my current marital or living status, or I need more clarification."` -> `derived_mother_clarify_currentmarital.md`
+
+[Return to previous question (Relationship to Veteran's Father)](./derived_mother_common_fatherinfo.md)
 [Return to Advisor Start](./start.md)

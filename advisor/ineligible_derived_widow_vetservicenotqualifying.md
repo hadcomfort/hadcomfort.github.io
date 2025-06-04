@@ -1,16 +1,21 @@
 ---
 layout: default
-title: Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
+title: Derived Preference (Widow/Widower) - Ineligible: Veteran's Service Not Qualifying
 ---
 
-# Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
+# Derived Preference (Widow/Widower) - Ineligible: Veteran's Service Not Qualifying
 
-## Derived Preference (Widow/Widower): Potentially Ineligible - Veteran's Service
+Based on your response, the veteran's service does not appear to meet the specific conditions required for you to claim 10-point derived preference (XP) as a widow or widower.
 
-For derived preference as a widow/widower, the veteran's service generally must have been during a declared war, specific post-war periods (April 28, 1952 - July 1, 1955), or in a campaign or expedition for which a medal was authorized; OR the veteran must have died on active duty during such qualifying service (OPM Vet Guide, sections [139, 140]).
+The OPM Vet Guide for HR Professionals, in the "Widow/Widower" subsection of "10-Point Derived Preference (XP)," states that the veteran must have *either*:
+*   *"served during a war or during the period April 28, 1952, through July 1, 1955, or in a campaign or expedition for which a campaign medal has been authorized; or"*
+*   *"died while on active duty that included service described immediately above under conditions that would not have been the basis for other than an honorable or general discharge."*
 
-Preference is generally not granted to widows or mothers if the deceased veteran's own preference eligibility was based *only* on other criteria (e.g., service after 1955 that was not in a war or campaign, such as >180 days of active duty or Gulf War service without a specific campaign medal) (OPM Vet Guide, section [152]). Based on your response, the veteran's service may not qualify for this type of derived preference.
+Furthermore, the **Note** in the Vet Guide clarifies an important restriction:
+*"Preference is not given to widows or mothers of deceased veterans who qualify for preference under 5 U.S.C. 2108 (1) (B), (C) or (2). Thus, the widow or mother of a deceased disabled veteran who served after 1955, but did not serve in a war, campaign, or expedition, would not be entitled to preference."*
 
-* [Return to check veteran's service conditions]({{ site.baseurl }}/advisor/derived_widow_vetservice_condition.md)
-* [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
-* [Return to Advisor Start](./start.md)
+This means that if the veteran's service was entirely after July 1, 1955, and was **not** in a declared war or a campaign/expedition for which a medal was authorized, AND the veteran did not die on active duty *during such specific qualifying service*, then derived preference for a widow or widower is generally not granted. Your responses suggest this might be the case.
+
+*   `"[I made a mistake, I want to re-evaluate the veteran's service conditions]"` -> `derived_widow_vetservice_condition.md`
+*   `"[Return to Relationship Choice]"` -> `derived_intro.md`
+*   `"[Return to Advisor Start]"` -> `start.md`
