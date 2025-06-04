@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sole Survivor Preference - Ineligible: Reason for Discharge Not "Sole Survivorship"
+title: "Sole Survivor Preference - Ineligible: Reason for Discharge Not - Sole Survivorship"
 ---
 
 # Sole Survivor Preference - Ineligible: Reason for Discharge Not "Sole Survivorship"
