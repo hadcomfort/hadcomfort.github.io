@@ -30,5 +30,5 @@ This is an initial assessment based on your inputs and not a final determination
     * If the veteran is living and disabled, official documentation of the veteran's permanent and total service-connected disability rating.
     * Documentation supporting your current marital and living status as declared.
 
-* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
 * [Return to Advisor Start](./start.md)

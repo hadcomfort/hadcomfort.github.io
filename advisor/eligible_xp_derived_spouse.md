@@ -29,5 +29,5 @@ This is an initial assessment based on your inputs and not a final determination
     * Official documentation of the veteran's service-connected disability.
     * Evidence of the veteran's unemployability and that it meets one of the conditions listed above (e.g., VA rating of 100% disabled/unemployable, documentation of retirement/separation from civil service due to service-connected disability, or evidence of attempts to find work and failure to qualify due to the disability).
 
-* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
 * [Return to Advisor Start](./start.md)

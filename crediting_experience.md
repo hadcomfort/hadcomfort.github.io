@@ -1,6 +1,6 @@
 # Crediting Experience of Preference Eligibles
 
-When evaluating the experience of a preference eligible individual for federal employment, an examining office employs specific methods to ensure fair consideration of their Armed Forces service and other job-related experiences. These guidelines are based on U.S. Office of Personnel Management (OPM) regulations.
+This page explains how military service and other relevant experience are evaluated for federal job applications by preference eligibles. When evaluating the experience of a preference eligible individual for federal employment, an examining office employs specific methods to ensure fair consideration of their Armed Forces service and other job-related experiences. These guidelines are based on U.S. Office of Personnel Management (OPM) regulations.
 
 ## Armed Forces Service Crediting
 
@@ -30,5 +30,7 @@ The key is that the experience, whether paid or unpaid, must be *relevant* to th
 
 The guidelines for crediting experience for preference eligibles are established in the following legal and regulatory provisions:
 
-*   **5 U.S.C. 3311:** This section of the United States Code pertains to the crediting of experience.
-*   **5 CFR 337.101:** This section of the Code of Federal Regulations provides further details on qualifying experience.
+*   **5 U.S.C. § 3311:** This section of the United States Code pertains to the crediting of experience.
+*   **5 CFR § 337.101:** This section of the Code of Federal Regulations provides further details on qualifying experience.
+
+Understanding how your experience is credited can help you better tailor your federal job applications.

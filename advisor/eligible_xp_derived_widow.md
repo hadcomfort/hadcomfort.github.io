@@ -27,5 +27,5 @@ This is an initial assessment based on your inputs and not a final determination
     * The veteran's DD Form 214 or other official proof of service demonstrating qualifying service or death during qualifying active duty.
     * If applicable, documentation of annulment of any subsequent remarriage.
 
-* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
 * [Return to Advisor Start](./start.md)

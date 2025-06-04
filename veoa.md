@@ -1,6 +1,15 @@
 # Veterans Employment Opportunities Act of 1998 (VEOA)
+Last Updated: October 26, 2023
 
-The Veterans Employment Opportunities Act (VEOA) of 1998, as amended by Section 511 of the Veterans Millennium Health Care Act (Pub. Law 106-117) of November 30, 1999, provides that agencies must allow preference eligibles or eligible veterans to apply for positions announced under merit promotion procedures when the agency is recruiting from outside its own workforce. ("Agency," in this context, means the parent agency, i.e., Treasury, not the Internal Revenue Service and the Department of Defense, not Department of the Army.) A VEOA eligible who competes under merit promotion procedures and is selected will be given a career or career conditional appointment. Veterans' preference is not a factor in these appointments.
+The Veterans Employment Opportunities Act of 1998 (VEOA) is a law that allows veterans and preference eligibles to compete for federal job announcements that might otherwise be open only to current federal employees (i.e., "merit promotion" announcements). This page details who is eligible and how VEOA works. Its main purpose is to expand the opportunities for veterans to apply for federal positions.
+
+## Key Takeaways
+* VEOA allows eligible veterans to apply for federal jobs announced under merit promotion procedures when recruiting from outside the agency's workforce.
+* Selection under VEOA results in a career or career conditional appointment; veterans' preference points are not applied in this process.
+* Eligibility includes preference eligibles and veterans with 3+ years of continuous active service (honorably discharged).
+* VEOA provides access and opportunity, not a guarantee of selection.
+
+The Veterans Employment Opportunities Act (VEOA) of 1998, as amended by Section 511 of the Veterans Millennium Health Care Act (Pub. L. 106-117) of November 30, 1999, provides that agencies must allow preference eligibles or eligible veterans to apply for positions announced under merit promotion procedures when the agency is recruiting from outside its own workforce. ("Agency," in this context, means the parent agency, e.g., the Department of Treasury, not the Internal Revenue Service; or the Department of Defense, not the Department of the Army.) A VEOA eligible who competes under merit promotion procedures and is selected will be given a career or career conditional appointment. Veterans' preference is not a factor in these appointments.
 
 ## Eligibility Requirements
 
@@ -83,4 +92,6 @@ Agencies announcing a position outside their workforces have three options for p
 *   **To be eligible for an appointment under the VEOA authority, a veteran must be "separated" from the service. Does this mean that he or she cannot apply and be considered until actually separated?**
     No. Whether or not to consider someone who is still in the military is entirely at the discretion of the employing agency. By law, a person on military duty cannot be appointed to a civilian position (unless on terminal leave), but he or she can certainly be considered should the agency wish to do so. The determining factor, here, should be whether the person will be available when the agency needs to have the job filled.
 
-*References: 5 U.S.C. 3304, 3330; 5 CFR 213.3202 (n) and 335.106*
+In essence, VEOA provides a pathway for eligible veterans to access more federal job opportunities by allowing them to apply for certain merit promotion jobs that might otherwise be restricted to internal candidates.
+
+*References: 5 U.S.C. §§ 3304, 3330; 5 CFR §§ 213.3202(n), 335.106*
