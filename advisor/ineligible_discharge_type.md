@@ -13,5 +13,5 @@ If your discharge was characterized differently, you generally do not qualify fo
 If you believe your discharge records are incorrect or have questions about their characterization and potential for upgrade, you may wish to contact the Department of Veterans Affairs (VA) or a Veteran Service Organization (VSO) for advice on how to apply for a discharge review or correction.
 
 *   Learn more about [Creditable Service and Acceptable Documentation](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/#creditable-service) from the OPM VetGuide.
-*   [Re-check discharge character]({{ site.baseurl }}/advisor/ownservice_discharged_honorableconditions.md)
+*   [Re-check discharge character](./ownservice_discharged_honorableconditions.md)
 *   [Return to Advisor Start](./start.md)
