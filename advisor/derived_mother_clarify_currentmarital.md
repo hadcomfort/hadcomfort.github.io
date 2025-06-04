@@ -31,7 +31,7 @@ The OPM Vet Guide for HR Professionals states that, in addition to the primary c
 
 If your situation is complex, it is highly recommended to consult the full text in the "10-Point Derived Preference (XP)" section of the OPM Vet Guide for HR Professionals, specifically under "Mother of a deceased veteran" or "Mother of a disabled veteran," and review your SF-15 documentation. This advisor aims to clarify but cannot cover every unique circumstance.
 
-* `[Return to current marital/living status choices]` -> `derived_mother_common_currentmarital.md`
-* `[Return to Advisor Start]` -> `start.md`
+*   [Return to current marital/living status choices](./derived_mother_common_currentmarital.md)
+*   [Return to Advisor Start](./start.md)
 
 [Return to Advisor Start](./start.md)
