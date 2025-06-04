@@ -13,10 +13,10 @@ The veteran's current status (e.g., living or deceased) and their service-connec
 
 This page will help determine if the veteran's status (your son or daughter on whose service you are basing your claim) makes you potentially eligible. Is the veteran:
 
-* `"Deceased."` (See OPM Vet Guide, "Mother of a deceased veteran") -> `advisor/derived_mother_deceased_vetdeathcond.md`
-* `"Living AND is permanently and totally disabled from a service-connected injury or illness."` (See OPM Vet Guide, "Mother of a disabled veteran" [section 146]) -> `advisor/derived_mother_living_vetseparation.md`
-* `"Neither of these apply / I'm unsure (e.g., veteran is living but not qualified for Federal employment due to reasons other than permanent and total service-connected disability, or veteran is living and qualified)."` -> `advisor/ineligible_derived_mother_vetstatus.md`
-* `"[Return to Relationship Choice]"` -> `advisor/derived_intro.md`
-* `"[Return to Advisor Start]"` -> `advisor/start.md`
+*   [Deceased](./derived_mother_deceased_vetdeathcond.md)
+*   [Living AND is permanently and totally disabled from a service-connected injury or illness.](./derived_mother_living_vetseparation.md)
+*   [Neither of these apply / I'm unsure (e.g., veteran is living but not qualified for Federal employment due to reasons other than permanent and total service-connected disability, or veteran is living and qualified)](./ineligible_derived_mother_vetstatus.md)
+*   [Return to Relationship Choice](./derived_intro.md)
+*   [Return to Advisor Start](./start.md)
 
 [Return to Advisor Start](./start.md)
