@@ -8,6 +8,6 @@ For derived preference as a widow/widower, the veteran's service generally must 
 
 Preference is generally not granted to widows or mothers if the deceased veteran's own preference eligibility was based *only* on other criteria (e.g., service after 1955 that was not in a war or campaign, such as >180 days of active duty or Gulf War service without a specific campaign medal) (OPM Vet Guide, section [152]). Based on your response, the veteran's service may not qualify for this type of derived preference.
 
-* [Return to check veteran's service conditions](./derived_widow_vetservice_condition.md)
-* [Return to Relationship Choice](./derived_intro.md)
-* [Return to Advisor Start](./start.md)
+* [Return to check veteran's service conditions]({{ site.baseurl }}/advisor/derived_widow_vetservice_condition.md)
+* [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
+* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)

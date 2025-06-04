@@ -3,7 +3,7 @@ layout: default
 title: Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 ---
 
-Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). This is an initial assessment and not a final determination of preference.
+Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). This is an initial assessment and not a final determination of preference. This preference means that 10 points are added to your passing score on a civil service examination. (OPM Vet Guide, '10-Point Preference Other Than CP or CPS (XP)')
 
 Key considerations for XP preference:
 * It can be based on receiving a Purple Heart OR having a service-connected disability (or receiving compensation/pension for it) that doesn't fall into the specific CP (10-20%) or CPS (30%+) categories.
@@ -14,7 +14,5 @@ Key considerations for XP preference:
 
 Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
 
-Choices:
-* "Learn more about applying with 10-point preference (SF-15)" (Link to OPM guidance on SF-15 or a future detailed info page)
-* "[Return to Advisor Start](./start.md)"
-```
+* [Learn more about the SF-15 (Application for 10-Point Veteran Preference)]({{ site.baseurl }}/advisor/sf15_information.md)
+* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)

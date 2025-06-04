@@ -9,6 +9,8 @@ To be eligible for derived preference as a mother, your current marital and livi
 
 Based on your response (currently married and husband is not P&T disabled), you may not meet these conditions.
 
-* `[Return to check current marital/living status]` -> `derived_mother_common_currentmarital.md`
-* `[Return to Relationship Choice]` -> `derived_intro.md`
-* `[Return to Advisor Start]` -> `start.md`
+If your situation is complex or not clearly covered by these options, you may want to consult the OPM Vet Guide directly or seek assistance from a Veterans Service Organization.
+
+* [Return to check current marital/living status]({{ site.baseurl }}/advisor/derived_mother_common_currentmarital.md)
+* [Return to Relationship Choice]({{ site.baseurl }}/advisor/derived_intro.md)
+* [Return to Advisor Start]({{ site.baseurl }}/advisor/start.md)
