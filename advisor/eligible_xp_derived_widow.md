@@ -3,7 +3,7 @@ layout: default
 title: Veteran's Preference Advisor - Potential 10-Point Derived Preference (XP) - Widow/Widower
 ---
 
-[cite_start]Based on your responses, you appear to meet the criteria for 10-point derived veteran's preference (XP) as the widow/widower of a qualifying veteran[cite: 139, 140].
+Based on your responses, you appear to meet the criteria for 10-point derived veteran's preference (XP) as the widow/widower of a qualifying veteran (OPM Vet Guide, sections [139, 140]).
 
 This is an initial assessment and not a final determination of preference. Remember to:
 * Claim preference when applying for Federal jobs.

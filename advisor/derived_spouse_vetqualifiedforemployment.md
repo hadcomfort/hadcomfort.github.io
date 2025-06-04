@@ -5,7 +5,7 @@ title: Derived Preference (Spouse): Veteran's Employment Qualification
 
 Is the living veteran qualified for Federal employment (i.e., able to work and apply for Federal jobs)?
 
-[cite_start](A spouse generally cannot receive preference if the veteran is living and is qualified for Federal employment [cite: 131]).
+(A spouse generally cannot receive preference if the veteran is living and is qualified for Federal employment (OPM Vet Guide, section [131])).
 
 *   `"Yes, the veteran is living and qualified for Federal employment."` -> `advisor/ineligible_derived_spouse_vetqualified.md`
 *   `"No, the veteran is living but is NOT qualified for Federal employment."` -> `advisor/derived_spouse_vetdisabilityreason.md`

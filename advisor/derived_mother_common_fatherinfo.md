@@ -3,7 +3,7 @@ layout: default
 title: Mother's Preference - Relationship to Veteran's Father
 ---
 
-[cite_start]Are you now, or were you previously, married to the father of the veteran? [cite: 142, 147]
+Are you now, or were you previously, married to the father of the veteran? (OPM Vet Guide, sections [142, 147])
 
 * `"Yes."` -> `advisor/derived_mother_common_currentmarital.md`
 * `"No."` -> `advisor/ineligible_derived_mother_notmarriedtofather.md`

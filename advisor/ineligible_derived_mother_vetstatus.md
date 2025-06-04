@@ -4,8 +4,8 @@ title: Mother's Preference - Potentially Ineligible - Veteran's Status
 ---
 
 To be eligible for derived preference as a mother, the veteran (your son or daughter) must generally be either:
-1. [cite_start]Deceased under specific conditions related to their active duty service (during a war, specific period, or campaign)[cite: 141], OR
-2. [cite_start]Living and permanently and totally disabled from a service-connected injury or illness, and honorably separated[cite: 146].
+1. Deceased under specific conditions related to their active duty service (during a war, specific period, or campaign) (OPM Vet Guide, section [141]), OR
+2. Living and permanently and totally disabled from a service-connected injury or illness, and honorably separated (OPM Vet Guide, section [146]).
 
 Based on your response, the veteran's status may not meet these requirements.
 

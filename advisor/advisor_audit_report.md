@@ -212,8 +212,8 @@ This section details the specific observations and discrepancies found during th
     *   `advisor/derived_mother_clarify_currentmarital.md` (common path: clarification)
     *   `advisor/eligible_xp_derived_mother.md` (common path: eligible outcome)
 *   **Advisor Logic:**
-    1.  `derived_mother_vetstatus.md`: User selects "Living AND is permanently and totally disabled from a service-connected injury or illness." This directly cites OPM [146].
-    2.  `derived_mother_living_vetseparation.md`: Asks if "veteran separated with an honorable or general discharge from active duty? (This active duty could have been performed at any time and includes training service in the Reserves or National Guard [cite: 146])". If "No," leads to `ineligible_derived_mother_living_vetseparation.md`. This aligns with OPM.
+    *   `advisor/derived_mother_vetstatus.md` (selects "Living AND is permanently and totally disabled...") This directly cites OPM (OPM Vet Guide, section [146]).
+    2.  `derived_mother_living_vetseparation.md`: Asks if "veteran separated with an honorable or general discharge from active duty? (This active duty could have been performed at any time and includes training service in the Reserves or National Guard (OPM Vet Guide, section [146]))". If "No," leads to `ineligible_derived_mother_living_vetseparation.md`. This aligns with OPM.
     3.  The path then merges with the common logic used for "Mother of Deceased Veteran":
         *   `derived_mother_common_fatherinfo.md`: Checks marriage to veteran's father.
         *   `derived_mother_common_currentmarital.md`: Checks mother's current marital/living status.
@@ -281,10 +281,10 @@ The main logical paths have been reviewed. Other specific details or less common
 ### Citation Issues
 
 *   (Initial observations, more detailed review in Task 1.2, which is dedicated to citations)
-    *   Citations are generally to page numbers in the OPM Vet Guide (e.g., `[cite: 123]`), which can be broad.
+    *   Citations are generally to page numbers in the OPM Vet Guide (e.g., `(OPM Vet Guide, section [123])`), which can be broad.
     *   Not all decision points or guidance statements derived from the Vet Guide are directly cited. For example, `ownservice_discharged_honorableconditions.md` explains honorable/general discharge requirements but doesn't have a specific citation number in that sentence.
-    *   The SSP files (`ineligible_ssp_reason.md`, `ineligible_s_s_p_dischargedate.md`) have `[cite_end]` without a preceding `[cite_start]` and actual citation number. This seems to be a formatting error. `ownservice_discharged_checkfirst_solesurvivor.md` correctly cites "OPM Vet Guide, '0-point Preference (SSP)'".
-    *   Some citations are to "OPM Vet Guide, 'Types of Preference'" which is a very broad section.
+    *   The SSP files (`ineligible_ssp_reason.md`, `ineligible_s_s_p_dischargedate.md`) have  without a preceding `[cite_start]` and actual citation number. This seems to be a formatting error. `ownservice_discharged_checkfirst_solesurvivor.md` correctly cites "(OPM Vet Guide, section [OPM Vet Guide, '0-point Preference (SSP)'])".
+    *   Some citations are to "(OPM Vet Guide, section [OPM Vet Guide, 'Types of Preference'])" which is a very broad section.
 
 ## Recommendations
 
@@ -315,7 +315,7 @@ Based on the findings of this audit, the following recommendations are made to i
 6.  **Citation Improvement (Cross-reference with Task 1.2):**
     *   Wherever possible, make citations more specific to sections or sub-sections of the OPM Vet Guide rather than just page numbers.
     *   Ensure all critical decision points based on Vet Guide rules have a corresponding citation.
-    *   Review and correct formatting errors for citations (e.g., `[cite_end]` issues).
+    *   Review and correct formatting errors for citations (e.g.,  issues).
 
 ## Conclusion
 
