@@ -33,4 +33,4 @@ The guidelines for crediting experience for preference eligibles are established
 *   **5 U.S.C. § 3311:** This section of the United States Code pertains to the crediting of experience.
 *   **5 CFR § 337.101:** This section of the Code of Federal Regulations provides further details on qualifying experience.
 
-Understanding how your experience is credited can help you better tailor your federal job applications.
+Understanding how your military service and other job-related experiences are evaluated and credited is crucial for effectively presenting your qualifications on federal job applications. By being aware of these guidelines, preference eligibles can better articulate their skills and maximize their opportunities.

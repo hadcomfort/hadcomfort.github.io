@@ -1,5 +1,7 @@
 # The Hubbard Act (Sole Survivor Preference)
 
+This page explains the "Sole Survivor Preference" established by the Hubbard Act, a specific type of veterans' preference for individuals affected by significant family losses related to military service.
+
 The Hubbard Act provides a specific type of 0-point preference, often called 'sole survivorship preference,' for individuals released or discharged from active duty military service under certain circumstances involving the death or permanent disability of family members who also served in the armed forces. On August 29, 2008, the Hubbard Act was enacted as Public Law 110-317. This Act amended the eligibility categories for veterans’ preference by adding this new category for veterans released or discharged from active duty after August 29, 2008, due to a “sole survivorship discharge.” This is also known as 0-point Preference (SSP).
 
 ## Definition of Sole Survivorship Preference
