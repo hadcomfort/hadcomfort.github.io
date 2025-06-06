@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Own Service: Discharged - Check DD Form 214 for Discharge"
+title: Own Service: Discharged - Check DD Form 214 for Discharge
 ---
 
 # Own Service: Discharged - Check DD Form 214 for Discharge
