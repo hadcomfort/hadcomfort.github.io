@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference (Spouse): Veteran's Status
+title: "Derived Preference (Spouse): Veteran's Status"
 ---
 
 # Derived Preference (Spouse): Veteran's Status
