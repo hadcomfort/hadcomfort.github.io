@@ -3,7 +3,7 @@ layout: default
 title: Veterans Information Resource - Preference Advisor
 description: An interactive tool to help veterans and their families understand veteran's preference eligibility for federal jobs, simplifying complex rules and service period requirements.
 ---
-Last Updated: October 26, 2023
+Last Updated: June 6, 2025
 
 # Welcome to the Veterans Information Resource
 
