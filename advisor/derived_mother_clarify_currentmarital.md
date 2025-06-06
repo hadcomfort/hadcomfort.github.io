@@ -7,11 +7,11 @@ title: "Mother's Preference: Clarification on Current Marital/Living Status"
 
 You've requested clarification on the marital and living status requirements for a mother's derived preference. These conditions are a crucial part of determining eligibility and apply whether the veteran is deceased or living and disabled. Understanding these rules are essential for correctly claiming this benefit.
 
-The OPM Vet Guide for HR Professionals states that, in addition to the primary condition that the mother *"is or was married to the father of the veteran"*, she must also meet **one** of the following conditions at the time she claims preference:
+The OPM Vet Guide for HR Professionals states that, in addition to the primary condition that the mother > "is or was married to the father of the veteran", she must also meet **one** of the following conditions at the time she claims preference:
 
-*   *"she lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
-*   *"she is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
-*   *"she remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
+> *   *"she lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
+> *   *"she is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
+> *   *"she remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
 
 **Explanation of these conditions:**
 
@@ -38,5 +38,5 @@ The OPM Vet Guide for HR Professionals states that, in addition to the primary c
 
 If your situation is complex, it is highly recommended to consult the full text in the "10-Point Derived Preference (XP)" section of the OPM Vet Guide for HR Professionals, specifically under "Mother of a deceased veteran" or "Mother of a disabled veteran," and review your SF-15 documentation. This advisor aims to clarify but cannot cover every unique circumstance.
 
-*   [Return to current marital/living status choices](./derived_mother_common_currentmarital.md)
-*   [Return to Advisor Start](./start.md)
+*   [**Return to current marital/living status choices**](./derived_mother_common_currentmarital.md)
+*   [**Return to Advisor Start**](./start.md)

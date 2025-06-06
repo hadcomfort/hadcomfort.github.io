@@ -20,9 +20,9 @@ A mother may be eligible for preference if her living veteran child was separate
 ### Marital Status Conditions
 
 For both scenarios, the mother must also meet one of the following conditions at the time she claims preference:
-*   She *"lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
-*   She *"is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
-*   She *"remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
+> *   She *"lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
+> *   She *"is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
+> *   She *"remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
 
 Which of these specific OPM-defined situations best describes your current status?
 
@@ -32,5 +32,5 @@ Which of these specific OPM-defined situations best describes your current statu
 *   [I am currently married, and my current husband is NOT totally and permanently disabled.](./ineligible_derived_mother_currentmarital.md)
 *   [None of these situations accurately describe my current marital or living status, or I need more clarification.](./derived_mother_clarify_currentmarital.md)
 
-[Return to previous question (Relationship to Veteran's Father)](./derived_mother_common_fatherinfo.md)
-[Return to Advisor Start](./start.md)
+[**Return to previous question (Relationship to Veteran's Father)**](./derived_mother_common_fatherinfo.md)
+[**Return to Advisor Start**](./start.md)
