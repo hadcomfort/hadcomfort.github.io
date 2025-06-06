@@ -1,5 +1,5 @@
 # Veterans Employment Opportunities Act of 1998 (VEOA)
-Last Updated: October 26, 2023
+Last Updated: June 6, 2025
 
 The Veterans Employment Opportunities Act of 1998 (VEOA) is a law that allows veterans and preference eligibles to compete for federal job announcements that might otherwise be open only to current federal employees (i.e., "merit promotion" announcements). This page details who is eligible and how VEOA works. Its main purpose is to expand the opportunities for veterans to apply for federal positions.
 
