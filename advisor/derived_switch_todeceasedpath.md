@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference: Clarification for Spouse of a Deceased Veteran
+title: "Derived Preference: Clarification for Spouse of a Deceased Veteran"
 ---
 
 # Derived Preference: Clarification for Spouse of a Deceased Veteran
