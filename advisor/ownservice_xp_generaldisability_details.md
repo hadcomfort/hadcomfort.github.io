@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: 10-Point Preference (XP) - General Disability
+title: "Own Service: 10-Point Preference (XP) - General Disability"
 ---
 
 # Own Service: 10-Point Preference (XP) - General Disability

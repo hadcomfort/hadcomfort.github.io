@@ -17,6 +17,6 @@ If you are currently married and your husband is not totally and permanently dis
 Therefore, under these OPM guidelines, you would not be eligible for derived preference as a mother.
 
 If you believe your situation is more complex or was misinterpreted:
-* `"[I want to re-evaluate my current marital/living status]"` -> `derived_mother_common_currentmarital.md`
-* `"[Return to Relationship Choice]"` -> `derived_intro.md`
-* `"[Return to Advisor Start]"` -> `start.md`
+* [I want to re-evaluate my current marital/living status](./derived_mother_common_currentmarital.md)
+* [Return to Relationship Choice](./derived_intro.md)
+* [Return to Advisor Start](./start.md)

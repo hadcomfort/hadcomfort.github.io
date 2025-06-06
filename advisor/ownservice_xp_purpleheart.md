@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: 10-Point Preference (XP) - Purple Heart
+title: "Own Service: 10-Point Preference (XP) - Purple Heart"
 ---
 
 # Own Service: 10-Point Preference (XP) - Purple Heart

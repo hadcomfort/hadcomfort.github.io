@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference (Widow/Widower): Remarriage Status
+title: "Derived Preference (Widow/Widower): Remarriage Status"
 ---
 
 # Derived Preference (Widow/Widower): Remarriage Status

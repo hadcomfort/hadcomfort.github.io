@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Own Service: 10-Point Preference (CPS) - 30%+ Disability
+title: "Own Service: 10-Point Preference (CPS) - 30%+ Disability"
 ---
 
 # Own Service: 10-Point Preference (CPS) - 30%+ Disability

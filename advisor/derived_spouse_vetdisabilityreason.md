@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference (Spouse): Reason for Veteran's Non-Qualification
+title: "Derived Preference (Spouse): Reason for Veteran's Non-Qualification"
 ---
 
 # Derived Preference (Spouse): Reason for Veteran's Non-Qualification
