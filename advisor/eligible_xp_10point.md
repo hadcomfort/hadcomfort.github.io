@@ -5,7 +5,11 @@ title: Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 
 # Veteran's Preference Advisor - Potential 10-Point Eligibility (XP)
 
-Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). The U.S. Office of Personnel Management (OPM) Vet Guide specifies that this preference means "Ten points are added to the passing examination score or rating of: A veteran who served at any time and has a present service-connected disability or is receiving compensation, disability retirement benefits, or pension from the military or the Department of Veterans Affairs but does not qualify as a CP or CPS; or A veteran who received a Purple Heart." This is an initial assessment and not a final determination of preference. (OPM Vet Guide, '10-Point Disability Preference (XP)')
+Based on your responses, you appear to meet the criteria for 10-point veteran's preference (XP). The U.S. Office of Personnel Management (OPM) Vet Guide specifies that this preference means:
+
+> "Ten points are added to the passing examination score or rating of: A veteran who served at any time and has a present service-connected disability or is receiving compensation, disability retirement benefits, or pension from the military or the Department of Veterans Affairs but does not qualify as a CP or CPS; or A veteran who received a Purple Heart."
+
+This is an initial assessment and not a final determination of preference. (OPM Vet Guide, '10-Point Disability Preference (XP)')
 
 Key considerations for XP preference:
 * This category applies if you received a Purple Heart OR have a service-connected disability (or receive compensation/pension for it) that does not meet the specific percentage thresholds for CP (10% but less than 30%) or CPS (30% or more).
@@ -17,4 +21,4 @@ Key considerations for XP preference:
 Remember to claim preference when applying for Federal jobs and be prepared to provide documentation.
 
 * [Learn more about the SF-15 (Application for 10-Point Veteran Preference)](./sf15_information.md)
-* [Return to Advisor Start](./start.md)
+* [**Return to Advisor Start**](./start.md)
