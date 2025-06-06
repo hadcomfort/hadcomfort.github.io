@@ -13,8 +13,8 @@ The OPM Vet Guide for HR Professionals, under "Mother of a disabled veteran," st
 If the veteran was not separated from active duty with an **honorable or general discharge**, then derived preference for a mother is not granted, even if the veteran is permanently and totally disabled from a service-connected injury or illness.
 
 If you believe the veteran's separation conditions were misinterpreted:
-*   `"[I want to re-evaluate the veteran's separation conditions]"` -> `derived_mother_living_vetseparation.md`
-*   `"[Return to Relationship Choice]"` -> `derived_intro.md`
-*   `"[Return to Advisor Start]"` -> `start.md`
+*   [I want to re-evaluate the veteran's separation conditions](./derived_mother_living_vetseparation.md)
+*   [Return to Relationship Choice](./derived_intro.md)
+*   [Return to Advisor Start](./start.md)
 
 [Return to Advisor Start](./start.md)
