@@ -3,16 +3,15 @@
   <head>
     <meta charset="UTF-8">
 {% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans:wght@400;700&display=swap">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <style>
-      /* New Custom Styles */
+      /* New Custom Styles with Accessibility Fixes */
       body {
         font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* Keep sans-serif for body */
       }
@@ -27,22 +26,24 @@
       .main-content {
         max-width: 72rem; /* Increased max-width by ~12.5% from 64rem */
       }
+      /* -- ACCESSIBILITY FIX: High-contrast buttons -- */
       .btn {
-        color: #ffffff;
+        color: #000000; /* Black text for high contrast */
         background-color: #f1c40f; /* Gold/yellow accent for buttons */
         border-color: #f1c40f;
         transition: background-color 0.2s, color 0.2s;
       }
       .btn:hover {
         background-color: #f39c12; /* Darker gold on hover */
-        color: #ffffff;
+        color: #000000;
         text-decoration: none;
       }
+      /* -- ACCESSIBILITY FIX: High-contrast links -- */
       a {
-        color: #f1c40f; /* Gold/yellow accent for links */
+        color: #b8860b; /* A darker, accessible gold */
       }
       a:hover {
-        color: #f39c12; /* Darker gold on hover */
+        color: #a0760a; /* Darker gold on hover */
       }
       .site-footer-nav {
         margin-top: 1rem;
@@ -58,7 +59,7 @@
         margin: 0 10px;
       }
       .site-footer-nav a {
-        color: #f1c40f;
+        color: #f1c40f; /* This yellow is OK on the dark footer background */
         text-decoration: none;
       }
       .site-footer-nav a:hover {
