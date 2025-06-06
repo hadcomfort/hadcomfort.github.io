@@ -1,13 +1,25 @@
 ---
 layout: default
-title: Mother's Preference - Current Living and Marital Status
+title: "Mother's Preference - Current Living and Marital Status"
 ---
 
 # Mother's Preference - Current Living and Marital Status
 
-You have indicated that you are or were married to the father of the veteran. The next set of conditions for derived preference relates to your current marital and living situation.
+You have indicated that you are or were married to the father of the veteran. The next set of conditions for derived preference relates to your current marital and living situation, as well as the status of the veteran.
 
-The OPM Vet Guide for HR Professionals states that, in addition to being married to the father of the veteran, the mother also meets one of the following conditions at the time she claims preference:
+The OPM Vet Guide for HR Professionals states that a mother may be entitled to a 10-point derived preference under two circumstances: as the mother of a deceased veteran or as the mother of a disabled veteran.
+
+### Mother of a Deceased Veteran
+
+A mother may be eligible for preference if her veteran child died under honorable conditions while on active duty during a war, or in a campaign or expedition for which a campaign medal has been authorized.
+
+### Mother of a Disabled Veteran
+
+A mother may be eligible for preference if her living veteran child was separated from active duty with an honorable or general discharge and is permanently and totally disabled from a service-connected injury or illness.
+
+### Marital Status Conditions
+
+For both scenarios, the mother must also meet one of the following conditions at the time she claims preference:
 *   She *"lives with her totally and permanently disabled husband (either the veteran's father or her husband through remarriage); or"*
 *   She *"is widowed, divorced, or separated from the veteran's father and has not remarried; or"*
 *   She *"remarried but is widowed, divorced, or legally separated from her husband when she claims preference."*
