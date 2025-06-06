@@ -19,8 +19,15 @@ Having your service documents, especially your DD Form 214 (Certificate of Relea
 
 For a more detailed list of what might be useful, you can refer to the [Before You Begin section on our homepage](../index.md#before-you-begin).
 
-*   [My own service in the U.S. Armed Forces](./ownservice_intro.md)
-*   [The service of a qualifying veteran, if I am a spouse, widow(er), or mother](./derived_intro.md)
-*   [Neither of the above](./ineligible_general.md)
+---
 
-[Return to Advisor Start](./start.md)
+*   [**My own service in the U.S. Armed Forces**](./ownservice_intro.md)
+    <br>*(Select this if you are seeking preference based on your own military service.)*
+
+*   [**The service of a qualifying veteran, if I am a spouse, widow(er), or mother**](./derived_intro.md)
+    <br>*(Select this if you are seeking preference based on the service of a veteran relative.)*
+
+*   [**Neither of the above**](./ineligible_general.md)
+    <br>*(Select this if neither of the above categories applies to you.)*
+
+*   [**Return to Advisor Start**](./start.md)
