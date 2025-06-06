@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference (Widow/Widower): Veteran's Service or Death Conditions
+title: "Derived Preference (Widow/Widower): Veteran's Service or Death Conditions"
 ---
 
 # Derived Preference (Widow/Widower): Veteran's Service or Death Conditions
