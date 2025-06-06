@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derived Preference (Widow/Widower): Marital Status at Veteran's Death
+title: "Derived Preference (Widow/Widower): Marital Status at Veteran's Death"
 ---
 
 # Derived Preference (Widow/Widower): Marital Status at Veteran's Death
