@@ -16,8 +16,8 @@ Furthermore, the **Note** in the Vet Guide clarifies an important restriction:
 This means if the veteran's service was entirely after July 1, 1955, and was not in a declared war or a campaign/expedition for which a medal was authorized, or if they did not die on active duty *during such specific qualifying service*, then derived preference for a mother is generally not granted.
 
 If you believe the veteran's service or death circumstances were misinterpreted:
-*   `"[I want to re-evaluate the veteran's service/death conditions]"` -> `derived_mother_deceased_vetdeathcond.md`
-*   `"[Return to Relationship Choice]"` -> `derived_intro.md`
-*   `"[Return to Advisor Start]"` -> `start.md`
+*   [I want to re-evaluate the veteran's service/death conditions](./derived_mother_deceased_vetdeathcond.md)
+*   [Return to Relationship Choice](./derived_intro.md)
+*   [Return to Advisor Start](./start.md)
 
 [Return to Advisor Start](./start.md)
