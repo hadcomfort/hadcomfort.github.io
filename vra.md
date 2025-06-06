@@ -1,5 +1,5 @@
 # Veterans Recruitment Appointment (VRA)
-Last Updated: October 26, 2023
+Last Updated: June 6, 2025
 
 The Veterans Recruitment Appointment (VRA) authority is a special hiring path that allows federal agencies to appoint eligible veterans to jobs without competition, up to certain grade levels (typically GS-11 or equivalent). This page outlines the eligibility criteria, terms, and conditions of VRA appointments. The primary benefit of VRA is that it provides a more direct route to federal employment for eligible veterans, bypassing the often lengthy competitive hiring process for certain positions.
 
