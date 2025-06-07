@@ -1,10 +1,10 @@
 - title: Home
   url: /
 - title: Preference Advisor
-  url: /advisor/start.md
+  url: ./advisor/start.md
 - title: All Guides
-  url: /guides.md
+  url: ./guides.md
 - title: FAQ
-  url: /faq.md
+  url: ./faq.md
 - title: Glossary
-  url: /glossary.md
+  url: ./glossary.md
