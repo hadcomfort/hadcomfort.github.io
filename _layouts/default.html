@@ -80,6 +80,44 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
+    <!-- New Navigation Bar -->
+    <style>
+      .nav-bar {
+        background-color: #f0f0f0;
+        padding: 0.5rem 1rem;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 1rem;
+      }
+      .nav-bar ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      .nav-bar li {
+        display: inline-block;
+        margin: 0 15px;
+      }
+      .nav-bar a {
+        text-decoration: none;
+        color: #157878;
+        font-weight: bold;
+        padding: 5px 0;
+        border-bottom: 2px solid transparent;
+        transition: border-bottom 0.2s;
+      }
+      .nav-bar a:hover {
+        border-bottom: 2px solid #b8860b;
+      }
+    </style>
+    <nav class="nav-bar" aria-label="Main navigation">
+      <ul>
+        {% for item in site.data.navigation %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <!-- End New Navigation Bar -->
     <main id="content" class="main-content" role="main">
       {{ content }}
       <footer class="site-footer">
