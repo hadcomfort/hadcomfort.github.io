@@ -1,12 +1,12 @@
 - title: Home
   url: /
 - title: Preference Advisor
-  url: /advisor/start.md
+  url: /advisor/start.html
 - title: All Guides
   url: ./guides.html
 - title: Case Studies
-  url: /case-studies.md
+  url: /case-studies.html
 - title: FAQ
-  url: /faq.md
+  url: /faq.html
 - title: Glossary
-  url: /glossary.md
+  url: /glossary.html
