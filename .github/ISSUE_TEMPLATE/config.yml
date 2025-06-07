@@ -1,0 +1,16 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+# This file configures the issue creation screen on GitHub.
+# It directs users to the correct templates and provides links for support.
+
+# When 'blank_issues_enabled' is false, users must select one of the templates.
+blank_issues_enabled: false
+
+# This section provides links to external sites, like your FAQ or home page.
+contact_links:
+  - name: ❓ General Question or Discussion
+    url: https://github.com/hadcomfort/hadcomfort.github.io/discussions
+    about: Please ask and answer questions here. This is the best place for general inquiries.
+  - name: 📖 Read the FAQ
+    url: https://hadcomfort.github.io/faq.html
+    about: Please check our Frequently Asked Questions page before opening an issue.
