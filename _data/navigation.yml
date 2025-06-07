@@ -4,6 +4,8 @@
   url: ./advisor/start.html
 - title: All Guides
   url: ./guides.html
+- title: Case Studies
+  url: /case-studies.md
 - title: FAQ
   url: ./faq.html
 - title: Glossary
