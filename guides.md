@@ -22,4 +22,5 @@ These authorities provide unique pathways for veterans to enter federal service.
 
 ## Key Forms & Documents
 *   [Understanding the SF-15 (for 10-Point Preference)](./advisor/sf15_information.md)
+*   [How-To: Decode Your DD Form 214 for Veteran's Preference](./how-to-read-dd214.md)
 ```
