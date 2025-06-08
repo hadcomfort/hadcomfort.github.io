@@ -38,7 +38,7 @@ This section provides a central resource for understanding the specific veterans
 *   Maryland (Page to be created)
 *   Massachusetts (Page to be created)
 *   Michigan (Page to be created)
-*   Minnesota: [Minnesota Veterans' Preference Information](states/minnesota.md)
+*   [Minnesota](./states/minnesota.md)
 *   [Mississippi](./states/mississippi.md)
 *   Missouri (Page to be created)
 *   Montana (Page to be created)
