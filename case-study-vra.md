@@ -3,7 +3,7 @@ layout: default
 title: "Case Study: John's Story - Starting a Federal Career with VRA"
 ---
 
-# Case Study: John's Story - Starting a Federal Career with VRA
+# <img src="./assets/images/study.png" alt="DD Form 214 Icon" style="height: 1em; vertical-align: middle; margin-right: 0.2em;"> Case Study: John's Story - Starting a Federal Career with VRA
 
 **Veteran:** John, 25 years old.
 **Service:** 4 years active duty, Army. Separated 8 months ago with an Honorable discharge.
