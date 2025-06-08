@@ -52,7 +52,7 @@ This section provides a central resource for understanding the specific veterans
 *   [North Dakota](./states/north-dakota.md)
 *   [Ohio](./states/ohio.md)
 *   [Oklahoma](./states/oklahoma.md)
-*   [Oregon](./states/oregona.md)
+*   [Oregon](./states/oregon.md)
 *   [Pennsylvania](./states/pennsylvania.md)
 *   [Puerto Rico](./states/puerto-rico.md)
 *   [Rhode Island](./states/rhode-island.md)
