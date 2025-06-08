@@ -1,41 +1,30 @@
 ---
 layout: default
 title: "Mississippi Veterans' Preference"
-description: "A summary of Mississippi's veterans' preference rules for state employment."
+description: "A summary of Mississippi's veterans' preference rules for public employment."
 ---
 
 # Mississippi Veterans' Preference
 
-Mississippi provides veterans' preference to eligible veterans for state employment. The Mississippi State Personnel Board (MSPB) oversees the state's personnel system and application of these preferences.
+The state of Mississippi provides veterans' preference in state government hiring. When an agency receives a list of eligible applicants, disabled veterans and veterans are listed at the top, with disabled veterans listed before other veterans. [2]
 
 **Disclaimer:** This is a summary. For the most accurate and up-to-date information, please consult the official Mississippi state government resources linked at the bottom of this page.
 
 ## Eligibility Requirements
 
-Eligibility for veterans' preference in Mississippi is defined in Mississippi Code Section 25-9-301:
-
-*   **Veteran (Section 25-9-301(a)):**
-    *   An individual who served on active duty in any branch of the United States Armed Forces for at least ninety (90) consecutive days during a time of war or armed conflict and was discharged or released under conditions other than dishonorable.
-    *   OR, an individual who was discharged or released from active duty for a service-connected injury or disability in less than ninety (90) days.
-*   **Disabled Veteran (Section 25-9-301(b)):**
-    *   An individual who has established the present existence of a service-connected disability of thirty percent (30%) or more, as certified by the United States Department of Veterans Affairs, within ninety (90) days of the date of application for employment.
-    *   OR, an individual who was awarded the Purple Heart medal.
+To be eligible for veterans' preference, a veteran must have served on active duty in the U.S. Armed Forces for at least 90 days during a period of war or armed conflict and received an honorable discharge. [5] Veterans who served less than 90 days and were discharged due to a service-connected injury are also eligible. [5]
 
 ## Type of Preference
 
-When the Mississippi State Personnel Board (MSPB) provides lists of eligible applicants to state agencies:
-*   Qualified disabled veterans are placed at the top of the list.
-*   Qualified veterans (who are not disabled veterans) are placed at the top of the list, following any disabled veterans.
-
-This means that eligible veterans who meet the minimum qualifications for a position are given priority consideration.
+*   **Points-Based:** Eligible veterans receive five preference points over other applicants for initial or promotional appointments. [5]
+*   **Disabled Veterans:** Veterans with a service-connected disability rating of 30% or more from the VA, or who have received the Purple Heart, are eligible for 10 preference points. [5]
+*   **Layoff Preference:** During a layoff, veterans and disabled veterans are granted retention preference over non-veteran employees. [5]
 
 ## How to Apply
 
-Applicants should indicate their veteran status on their employment application submitted through the Mississippi State Personnel Board. The preference is generally applied by the MSPB when generating lists of eligible candidates for state agencies.
+Applicants must indicate their veteran status on their state employment application. [2]
 
 ## Official State Resources
 
-*   **Mississippi State Personnel Board - Information for Veterans:** [https://www.mspb.ms.gov/information-veterans](https://www.mspb.ms.gov/information-veterans)
-*   **Senate Bill 2863 (Amends Miss. Code Ann. § 25-9-301):** [http://billstatus.ls.state.ms.us/documents/2019/html/SB/2800-2899/SB2863SG.htm](http://billstatus.ls.state.ms.us/documents/2019/html/SB/2800-2899/SB2863SG.htm)
-*   **Mississippi Code Section 25-9-301:** (This section defines veterans' preference; full text can typically be found via legislative portals or legal research services. The SB2863 link provides the amended text.)
----
+*   **Mississippi State Personnel Board - Information for Veterans:** [https://www.mspb.ms.gov/information-for-veterans](https://www.mspb.ms.gov/information-for-veterans)
+*   **Mississippi Code Title 25, Chapter 9, Article 7:** [https://law.justia.com/codes/mississippi/2022/title-25/chapter-9/article-7/](https://law.justia.com/codes/mississippi/2022/title-25/chapter-9/article-7/)
