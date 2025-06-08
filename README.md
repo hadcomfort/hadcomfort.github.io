@@ -232,7 +232,7 @@ Eligibility for U.S. Federal Veteran's Preference is ultimately determined by th
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for full details.
+This project is licensed under the **GPLv3 License**. See the [LICENSE](./LICENSE) file for full details.
 
 ---
 
