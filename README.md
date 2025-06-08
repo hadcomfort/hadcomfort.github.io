@@ -1,6 +1,6 @@
 # Veteran's Preference Advisor & Information Hub
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Pages](https://img.shields.io/github/deployments/hadcomfort/hadcomfort.github.io/github-pages?label=docs%20%26%20demo&logo=github)](https://hadcomfort.github.io/)
 
 **Demystifying U.S. Federal Veteran's Preference, one click at a time.**
