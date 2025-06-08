@@ -4,7 +4,7 @@ title: "How-To: Decode Your DD Form 214 for Veteran's Preference"
 description: A practical guide to understanding which boxes and codes on your DD Form 214 are critical for determining federal hiring preference.
 ---
 
-# How-To: Decode Your DD Form 214 for Veteran's Preference
+# <img src="./assets/images/dd214.png" alt="DD Form 214 Icon" style="height: 1em; vertical-align: middle; margin-right: 0.2em;"> How-To: Decode Your DD Form 214 for Veteran's Preference
 
 The Certificate of Release or Discharge from Active Duty (DD Form 214) is one of the most important documents for claiming veteran's preference. It contains the key information that federal agencies use to verify your eligibility. This guide will help you understand which boxes to look at.
 
