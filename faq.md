@@ -19,6 +19,7 @@ This page answers common questions about Veteran's Preference and special appoin
     *   [Does preference guarantee a job?](#does-preference-guarantee-a-job)
 *   [Types of Preference](#types-of-preference)
     *   [What documentation is generally needed to claim preference?](#what-documentation-is-generally-needed-to-claim-preference)
+    *   [What is the difference between Title 5 and Title 38 definitions of "war"?](#what-is-the-difference-between-title-5-and-title-38-definitions-of-war)
     *   [What is 0-point Sole Survivorship Preference (SSP)?](#what-is-0-point-sole-survivorship-preference-ssp)
     *   [What is 5-Point Preference (TP)?](#what-is-5-point-preference-tp)
     *   [What is the 24-month service requirement for 5-point preference, and are there exceptions?](#what-is-the-24-month-service-requirement-for-5-point-preference-and-are-there-exceptions)
@@ -89,7 +90,7 @@ This page answers common questions about Veteran's Preference and special appoin
 ## General Information About Veterans' Preference
 
 ### What is Veterans' Preference?
-[Veterans' Preference](./glossary.md#preference-eligible) gives eligible veterans a special advantage over other applicants in the competitive hiring process for Federal jobs. It also provides protections in retention during [reductions in force (RIF)](./glossary.md#reduction-in-force-rif). It is not a guarantee of a job. (See OPM Vet Guide, 'Introduction' and 'Chapter 2: Why Preference is Given').
+Veterans' Preference gives eligible veterans a special advantage over other applicants in the competitive hiring process for Federal jobs. It also provides protections in retention during reductions in force (RIF). It is not a guarantee of a job. (See OPM Vet Guide, 'Introduction' and 'Chapter 2: Why Preference is Given').
 
 ### Why is Veterans' Preference given?
 Since the Civil War, veterans have been given some preference in Federal appointments. It recognizes their sacrifice, aims to prevent penalization for time in military service, restores veterans to a favorable competitive position, and acknowledges the obligation owed to disabled veterans. The current form largely stems from the Veterans' Preference Act of 1944. (See OPM Vet Guide, 'Chapter 2: Why Preference is Given').
@@ -221,6 +222,13 @@ The mother of a living disabled veteran if the veteran was separated honorably (
 ### Are all campaign medals qualifying for preference?
 No. Only specific campaign or expeditionary medals authorized by the Armed Forces qualify for veterans' preference. Medals for non-combat operations or general service (e.g., Global War on Terrorism Service Medal (for general service, not specific campaigns), National Defense Service Medal, Antarctica Service Medal, Armed Forces Service Medal for non-hostile operations) are generally *not* a basis for preference. The DD Form 214 must show award of a qualifying Armed Forces Expeditionary Medal or other specific campaign medal. (See OPM Vet Guide, 'VetGuide Appendix A: Wars, Campaigns and Expeditions').
 
+### What is the difference between Title 5 and Title 38 definitions of "war"?
+This is a critical and often confusing distinction.
+*   **Title 5, U.S. Code** governs Federal employment and veteran's preference. For Title 5 purposes, OPM has always interpreted "war" to mean only an armed conflict for which Congress has passed a formal declaration of war. The last such declared war was World War II (December 7, 1941, to April 28, 1952).
+*   **Title 38, U.S. Code** governs benefits administered by the Department of Veterans Affairs (VA), such as healthcare and disability compensation. Title 38 defines "period of war" much more broadly to include non-declared conflicts like the Korean Conflict, the Vietnam Era, and the Persian Gulf War.
+
+**Why it matters:** A veteran might be eligible for VA benefits under Title 38 for service during the Vietnam Era but may *not* be eligible for 5-point veteran's preference under Title 5 based on that service alone (unless they also received a qualifying campaign medal). This website's Advisor focuses on the Title 5 definitions for federal employment preference. (See OPM Vet Guide, 'Introduction').
+
 ---
 
 ## Application Process and Documentation
@@ -232,7 +240,7 @@ Eligible veterans should claim preference on their application or resume.
 (See OPM Vet Guide, 'Chapter 2: Types of Preference').
 
 ### What if I am an active duty service member soon to be discharged and don't have my DD Form 214? (VOW Act)
-The Veterans Opportunity to Work ([VOW Act](./glossary.md#vow-veterans-opportunity-to-work-to-hire-heroes-act-of-2011-public-law-112-56)) to Hire Heroes Act of 2011 allows active duty service members who are expected to be discharged or released under honorable conditions within 120 days to apply for federal jobs using a "certification" instead of a DD Form 214.
+The Veterans Opportunity to Work (VOW) to Hire Heroes Act of 2011 allows active duty service members who are expected to be discharged or released under honorable conditions within 120 days to apply for federal jobs using a "certification" instead of a DD Form 214.
 The certification must be a written document from the armed forces, on official letterhead, stating:
 1.  Military service dates, including the expected discharge/release date.
 2.  The character of service.
@@ -273,7 +281,7 @@ When numerical scores are used (often called the 'Rule of Three' method):
 Selection is made from the highest three available eligibles on the certificate. (See OPM Vet Guide, 'Chapter 2: Preference in Competitive Examinations' and 'The "Rule of Three" and Veteran pass overs').
 
 ### How is preference applied when an agency uses Category Rating?
-Under [Category Rating](./glossary.md#category-rating), applicants meeting minimum qualifications are placed into two or more pre-defined quality categories (e.g., "Best Qualified," "Well Qualified") instead of being ranked by numerical score.
+Under category rating, applicants meeting minimum qualifications are placed into two or more pre-defined quality categories (e.g., "Best Qualified," "Well Qualified") instead of being ranked by numerical score.
 *   Preference eligibles are listed ahead of non-preference eligibles *within each quality category*.
 *   Veterans' preference is absolute within each category. An agency cannot select a non-preference eligible from a category if there are preference eligibles in the same or a higher category, unless pass-over procedures are followed.
 (See OPM Vet Guide, 'Chapter 2: Filling a Position Through the Competitive Examining Process, Category Rating').
@@ -301,10 +309,10 @@ A public official generally cannot appoint or advocate for a relative. However, 
 
 ### What are special appointing authorities for veterans?
 These are specific hiring paths that allow agencies to appoint eligible veterans to federal jobs, sometimes non-competitively. Key authorities include:
-*   **[Veterans Recruitment Appointment (VRA)](./glossary.md#veterans-recruitment-appointment-vra)**
+*   **Veterans Recruitment Appointment (VRA)**
 *   **30 Percent or More Disabled Veterans**
 *   **Disabled Veterans Enrolled in a VA Training Program**
-*   **[Veterans Employment Opportunities Act of 1998 (VEOA)](./glossary.md#veoa-veterans-employment-opportunities-act-of-1998)**
+*   **Veterans Employment Opportunities Act of 1998 (VEOA)**
 (See OPM Vet Guide, 'Chapter 4: Special Appointing Authorities for Veterans').
 
 ### What is the Veterans Recruitment Appointment (VRA) authority?
