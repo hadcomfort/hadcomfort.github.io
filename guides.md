@@ -6,6 +6,8 @@ description: A central hub for all detailed guides and key topics related to U.S
 
 # Guides & Key Topics
 
+*   [State-Level Veterans' Preference Rules](./state-veterans-preference.md)
+
 This page provides a central directory to all of our in-depth guides on veteran's preference and special appointing authorities.
 
 ## Special Appointing Authorities for Veterans
