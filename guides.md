@@ -22,6 +22,7 @@ These authorities provide unique pathways for veterans to enter federal service.
 *   [Physical Qualifications and Waivers](./physical_qualifications.md)
 *   [Restoration Rights After Uniformed Service (USERRA)](./restoration_rights.md)
 *   [A Guide for Spouses of Veterans](./guide-for-spouses.md)
+*   [A Guide for Military Retirees](./guide-for-retirees.md)
 
 ## Key Forms & Documents
 *   [Understanding the SF-15 (for 10-Point Preference)](./advisor/sf15_information.md)
