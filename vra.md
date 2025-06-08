@@ -9,9 +9,9 @@ The Veterans Recruitment Appointment (VRA) authority is a special hiring path th
 * Eligibility criteria include being a disabled veteran, a veteran who served in specific wars/campaigns/operations, a recipient of an Armed Forces Service Medal, or a recently separated veteran (all requiring an honorable or general discharge).
 * If multiple VRA candidates apply and one is preference eligible, preference rules apply.
 
-The VRA is a special authority by which agencies can, if they wish, appoint eligible veterans without competition to positions at any grade level through General Schedule (GS) 11 or equivalent. (The promotion potential of the position is not a factor.) VRA appointees are hired under excepted appointments to positions that are otherwise in the competitive service. There is no limitation to the number of VRA appointments an individual may receive, provided the individual is otherwise eligible.
+The VRA is a special authority by which agencies can, if they wish, appoint eligible veterans without competition to positions at any grade level through General Schedule (GS) 11 or equivalent. (The promotion potential of the position is not a factor.) VRA appointees are hired under [excepted appointments](./glossary.md#excepted-appointment) to positions that are otherwise in the competitive service. There is no limitation to the number of VRA appointments an individual may receive, provided the individual is otherwise eligible.
 
-If the agency has more than one VRA candidate for the same job and one (or more) is a preference eligible, the agency must apply the Veterans' preference procedures prescribed in 5 Code of Federal Regulations (CFR) Part 302 in making VRA appointments. A veteran who is eligible for a VRA appointment is not automatically eligible for Veterans' preference.
+If the agency has more than one VRA candidate for the same job and one (or more) is a [preference eligible](./glossary.md#preference-eligible), the agency must apply the Veterans' preference procedures prescribed in 5 Code of Federal Regulations (CFR) Part 302 in making VRA appointments. A veteran who is eligible for a VRA appointment is not automatically eligible for Veterans' preference.
 
 After two years of satisfactory service, the agency must convert the veteran to career or career-conditional appointment, as appropriate.
 
@@ -26,7 +26,7 @@ The Jobs for Veterans Act (Pub. L. 107-288) amended Title 38, United States Code
 
 Veterans claiming eligibility on the basis of service in a campaign or expedition for which a medal was awarded, or for an operation for which an AFSM was awarded, must be in receipt of the respective medal.
 
-In addition to meeting the criteria above, eligible veterans must have been separated under honorable conditions (i.e., the individual must have received either an honorable or general discharge).
+In addition to meeting the criteria above, eligible veterans must have been separated under [honorable conditions](./glossary.md#honorable-conditions-discharge) (i.e., the individual must have received either an honorable or general discharge).
 
 **Note:** Under the eligibility criteria, not all 5-point preference eligible veterans may be eligible for a VRA appointment. For example, a veteran who served during the Vietnam era (i.e., for more than 180 consecutive days, after January 31, 1955, and before October 15, 1976) but did not receive a service-connected disability or an Armed Forces Service medal or campaign or expeditionary medal would be entitled to 5 pt. veterans' preference. This veteran, however, would not be eligible for a VRA appointment under the above criteria.
 
