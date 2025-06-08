@@ -15,3 +15,6 @@ The rules for veteran's preference can be abstract. These case studies provide f
 
 *   **[Maria's Story: Using 10-Point Preference for a Mid-Career Change](./case-study-10-point-xp.md)**
     <br>_Learn how a veteran with a service-connected disability and a Purple Heart leveraged 10-point preference to successfully apply for a competitive federal position._
+
+*   **[David's Story: Qualifying with 5-Point Preference](./case-study-5-point-tp.md)**
+    <br>_Follow a veteran who uses his campaign medal to gain a 5-point advantage in a competitive hiring process._
