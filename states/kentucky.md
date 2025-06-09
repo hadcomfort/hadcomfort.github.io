@@ -36,4 +36,4 @@ The preference also extends to:
 
 ## Official State Resources
 
-*   **Kentucky Personnel Cabinet - Veterans' Preference:** [https://personnel.ky.gov/Pages/veterans.aspx](https://personnel.ky.gov/Pages/veterans.aspx)
+*   **Kentucky Personnel Cabinet - Veterans' Preference:** [https://personnel.ky.gov/Pages/veteranspreference.aspx](https://personnel.ky.gov/Pages/veteranspreference.aspx)
