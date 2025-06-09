@@ -33,6 +33,6 @@ To be eligible, a veteran must have a service-connected disability of 0% or more
 
 ## Official State Resources
 
-*   **CalHR Veterans' Preference Information:** [https://www.calhr.ca.gov/state-hr-professionals/pages/veterans.aspx](https://www.calhr.ca.gov/state-hr-professionals/pages/veterans.aspx)
+*   **CalHR Veterans' Preference Information:** [https://www.calhr.ca.gov/employees/pages/veterans.aspx](https://www.calhr.ca.gov/employees/pages/veterans.aspx)
 *   **California Government Code:** Sections 18973.1-18979
 ---
