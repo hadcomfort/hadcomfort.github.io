@@ -32,4 +32,4 @@ To qualify, a veteran must have been honorably separated from the U.S. Armed For
 ## Official State Resources
 
 *   **Hawaii Office of Veterans' Services:** [https://dod.hawaii.gov/ovs/](https://dod.hawaii.gov/ovs/)
-*   **Department of Human Resources Development - Veterans' Preference:** [https://dhrd.hawaii.gov/wp-content/uploads/2020/01/Veterans-Preference-Information.pdf](https://dhrd.hawaii.gov/wp-content/uploads/2020/01/Veterans-Preference-Information.pdf)
+*   **Department of Human Resources Development - Veterans' Preference:** [https://dhrd.hawaii.gov/state-job-seekers/information-for-veterans/](https://dhrd.hawaii.gov/state-job-seekers/information-for-veterans/)
