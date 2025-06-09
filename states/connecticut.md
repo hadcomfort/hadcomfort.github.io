@@ -30,5 +30,5 @@ Applicants must submit proof of eligibility, such as a DD Form 214 and other req
 
 ## Official State Resources
 
-*   **CT Department of Administrative Services - Veterans Services:** [https://portal.ct.gov/DAS/SHRS/Veterans/Veterans-Services](https://portal.ct.gov/DAS/SHRS/Veterans/Veterans-Services)
+*   **CT Department of Administrative Services - Veterans Services:** [https://portal.ct.gov/DVA](https://portal.ct.gov/DVA)
 *   **CT Vets - Hire Vets First Program:** [http://www.ctdol.state.ct.us/veterans/default.htm](http://www.ctdol.state.ct.us/veterans/default.htm)
