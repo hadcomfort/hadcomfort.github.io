@@ -34,5 +34,5 @@ Documentation can be uploaded to your profile at azstatejobs.gov, faxed to (602)
 
 ## Official State Resources
 
-*   **Arizona Department of Administration - Veterans' Hiring Preference:** [https://hr.az.gov/work-arizona/veteran-toolkit/veterans-hiring-preference](https://hr.az.gov/work-arizona/veteran-toolkit/veterans-hiring-preference)
+*   **Arizona Department of Administration - Veterans' Hiring Preference:** [https://hr.az.gov/veterans-hiring-preference](https://hr.az.gov/veterans-hiring-preference)
 *   **Arizona Revised Statute § 38-492:** [https://www.azleg.gov/ars/38/00492.htm](https://www.azleg.gov/ars/38/00492.htm)

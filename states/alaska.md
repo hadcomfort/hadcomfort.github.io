@@ -32,5 +32,5 @@ Applicants must provide documentation of their eligibility, such as a DD Form 21
 
 ## Official State Resources
 
-*   **Alaska Department of Labor and Workforce Development, Veterans' Services:** [https://labor.alaska.gov/veterans/](https://labor.alaska.gov/veterans/)
+*   **Alaska Department of Labor and Workforce Development, Veterans' Services:** [https://labor.alaska.gov/veterans-services/](https://labor.alaska.gov/veterans-services/)
 *   **Alaska Law - AS 39.25.159:** [https://www.akleg.gov/basis/statutes.asp#39.25.159](https://www.akleg.gov/basis/statutes.asp#39.25.159)

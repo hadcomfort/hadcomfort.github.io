@@ -30,5 +30,5 @@ An applicant must voluntarily submit official proof of their status, such as a D
 
 ## Official State Resources
 
-*   **Arkansas Division of Workforce Services - Veterans' Services:** [https://www.dws.arkansas.gov/veterans-services/](https://www.dws.arkansas.gov/veterans-services/)
-*   **Arkansas Code § 21-3-302 (Veterans Preference Law):** [https://law.justia.com/codes/arkansas/2022/title-21/chapter-3/subchapter-3/section-21-3-302/](https://law.justia.com/codes/arkansas/2022/title-21/chapter-3/subchapter-3/section-21-3-302/)
+*   **Arkansas Division of Workforce Services - Veterans' Services:** [https://www.dws.arkansas.gov/workforce-services/veterans/](https://www.dws.arkansas.gov/workforce-services/veterans/)
+*   **Arkansas Code § 21-3-302 (Veterans Preference Law):** [https://law.justia.com/codes/arkansas/2023/title-21/chapter-3/subchapter-3/section-21-3-302/](https://law.justia.com/codes/arkansas/2023/title-21/chapter-3/subchapter-3/section-21-3-302/)
