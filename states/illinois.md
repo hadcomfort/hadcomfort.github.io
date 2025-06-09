@@ -32,6 +32,6 @@ To receive veterans' preference, an individual must have been honorably discharg
 
 ## Official State Resources
 
-*   **Illinois Department of Veterans' Affairs:** [https://veterans.illinois.gov/employment/state-employment-and-licenses.html](https://veterans.illinois.gov/employment/state-employment-and-licenses.html)
+*   **Illinois Department of Veterans' Affairs:** [https://ides.illinois.gov/jobs-workforce/veterans.html](https://ides.illinois.gov/jobs-workforce/veterans.html)
 *   **Work 4 Illinois - Veterans Preference:** [https://work.illinois.gov/why-work-for-illinois/benefits/veterans-preference.html](https://work.illinois.gov/why-work-for-illinois/benefits/veterans-preference.html)
 *   **Illinois Attorney General - Military and Veterans Rights:** [https://illinoisattorneygeneral.gov/rights-of-the-people/military-and-veterans-rights/](https://illinoisattorneygeneral.gov/rights-of-the-people/military-and-veterans-rights/)
