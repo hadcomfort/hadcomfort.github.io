@@ -30,4 +30,4 @@ To be eligible for veterans' preference in Georgia, an individual must be a vete
 ## Official State Resources
 
 *   **Georgia Department of Veterans Service:** [https://veterans.georgia.gov/](https://veterans.georgia.gov/)
-*   **Team Georgia Careers - Veterans Preference:** [https://team.georgia.gov/careers/veterans-preference](https://team.georgia.gov/careers/veterans-preference)
+*   **Team Georgia Careers - Veterans Preference:** [https://dvs.georgia.gov/veterans-preference-hiring](https://dvs.georgia.gov/veterans-preference-hiring)
