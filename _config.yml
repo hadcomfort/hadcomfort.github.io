@@ -10,6 +10,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-mentions
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 markdown: kramdown
 kramdown:
