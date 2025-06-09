@@ -32,4 +32,4 @@ Eligibility is granted to veterans who have served honorably on active duty. Spe
 
 ## Official State Resources
 
-*   **Louisiana Department of State Civil Service - Veterans' Preference:** [https://www.governmentjobs.com/careers/louisiana/veterans](https://www.governmentjobs.com/careers/louisiana/veterans)
+*   **Louisiana Department of State Civil Service - Veterans' Preference:** [https://vetaffairs.la.gov/benefit/louisiana-state-and-federal-civil-service/](https://vetaffairs.la.gov/benefit/louisiana-state-and-federal-civil-service/)
