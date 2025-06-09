@@ -34,4 +34,4 @@ To be eligible for veterans' preference, a candidate must:
 ## Official State Resources
 
 *   **Maine Bureau of Human Resources - Veterans' Hiring Preference:** [https://www.maine.gov/bhr/career-opportunities/veterans-information](https://www.maine.gov/bhr/career-opportunities/veterans-information)
-*   **Maine Revised Statutes Title 5, §7050:** [https://www.mainelegislature.org/legis/statutes/5/title5sec7050.html](https://www.mainelegislature.org/legis/statutes/5/title5sec7050.html)
+*   **Maine Revised Statutes Title 5, §7050:** [https://legislature.maine.gov/statutes/5/title5sec7050.html](https://legislature.maine.gov/statutes/5/title5sec7050.html)
