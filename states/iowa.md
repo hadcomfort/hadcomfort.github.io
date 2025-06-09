@@ -31,5 +31,5 @@ To qualify for preference, an individual must be an honorably discharged veteran
 ## Official State Resources
 
 *   **Iowa Department of Veterans Affairs:** [https://va.iowa.gov/](https://va.iowa.gov/)
-*   **Iowa Department of Administrative Services - Veterans Resource Page:** [https://das.iowa.gov/human-resources/state-employment/veterans-resource-page](https://das.iowa.gov/human-resources/state-employment/veterans-resource-page)
+*   **Iowa Department of Administrative Services - Veterans Resource Page:** [https://das.iowa.gov/job-seekers/veterans-resource-page](https://das.iowa.gov/job-seekers/veterans-resource-page)
 *   **Iowa Code Chapter 35C (Veterans Preference):** [https://www.legis.iowa.gov/docs/code/35C.html](https://www.legis.iowa.gov/docs/code/35C.html)
