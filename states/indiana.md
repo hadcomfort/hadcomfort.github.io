@@ -30,5 +30,5 @@ To be eligible for the preference, a veteran must have: [2]
 ## Official State Resources
 
 *   **Indiana Department of Veterans Affairs:** [https://www.in.gov/dva/](https://www.in.gov/dva/)
-*   **Work for Indiana - Veteran & Military Family Resources:** [https://www.in.gov/spd/careers/veteran-military-family-resources/](https://www.in.gov/spd/careers/veteran-military-family-resources/)
+*   **Work for Indiana - Veteran & Military Family Resources:** [https://www.in.gov/dva/](https://www.in.gov/dva/)
 *   **Indiana Code § 5-9-3-2 (Preference Points):** [https://law.justia.com/codes/indiana/2022/title-5/article-9/chapter-3/section-5-9-3-2/](https://law.justia.com/codes/indiana/2022/title-5/article-9/chapter-3/section-5-9-3-2/)
