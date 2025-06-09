@@ -32,4 +32,4 @@ When applying for state jobs through the Delaware Employment Link (DEL), applica
 ## Official State Resources
 
 *   **Delaware Office of Veterans Services - Delaware Bets on Vets:** [https://veteransaffairs.delaware.gov/delaware-bets-on-vets/](https://veteransaffairs.delaware.gov/delaware-bets-on-vets/)
-*   **Delaware Department of Human Resources - Veterans' Preference:** [https://dhr.delaware.gov/veterans/](https://dhr.delaware.gov/veterans/)
+*   **Delaware Department of Human Resources - Veterans' Preference:** [https://dhr.delaware.gov/personnel/relations/veteran.shtml](https://dhr.delaware.gov/personnel/relations/veteran.shtml)
