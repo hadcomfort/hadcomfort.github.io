@@ -5,6 +5,7 @@ description: Veterans Information Resource
 plugins:
   - jekyll-feed
   - jekyll-default-layout
+  - jekyll-optional-front-matter
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
