@@ -32,4 +32,4 @@ An applicant must be a veteran who has been honorably discharged or released und
 
 ## Official State Resources
 
-*   **Maryland Department of Budget and Management - Veterans' Preference:** [https://dbm.maryland.gov/job-seekers/Pages/Veterans-Preference.aspx](https://dbm.maryland.gov/job-seekers/Pages/Veterans-Preference.aspx)
+*   **Maryland Department of Budget and Management - Veterans' Preference:** [https://dbm.maryland.gov/job-seekers/pages/veteranspreference.aspx](https://dbm.maryland.gov/job-seekers/pages/veteranspreference.aspx)
