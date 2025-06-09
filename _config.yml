@@ -11,6 +11,7 @@ plugins:
   - jekyll-mentions
   - jekyll-include-cache
   - jekyll-titles-from-headings
+  - jemoji
 
 markdown: kramdown
 kramdown:
