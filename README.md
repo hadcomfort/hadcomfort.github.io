@@ -7,7 +7,7 @@
 
 This project provides a clear, accessible, and user-friendly resource for U.S. veterans, their families, and those assisting them to understand eligibility for veteran's preference in federal hiring. Our core feature is an interactive **Veteran's Preference Advisor** tool, complemented by a wealth of informational content based directly on official U.S. Office of Personnel Management (OPM) guidance.
 
-**➡️ Visit the Live Site & Advisor Tool: [https://www.myvetsguide.com/](https://www.myvetsguide.com/)**
+**➡️ Visit the Live Site & Advisor Tool: [https://www.myvetguides.com/](https://www.myvetguides.com/)**
 
 ---
 
