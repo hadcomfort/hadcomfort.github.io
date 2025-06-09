@@ -31,5 +31,5 @@ To be eligible, a veteran must have been discharged or released from active duty
 
 ## Official State Resources
 
-*   **Idaho Division of Human Resources - Veterans' Preference:** [https://dhr.idaho.gov/veterans-preference/](https://dhr.idaho.gov/veterans-preference/)
+*   **Idaho Division of Human Resources - Veterans' Preference:** [https://dhr.idaho.gov/job-seekers/veterans-preference/](https://dhr.idaho.gov/job-seekers/veterans-preference/)
 *   **Idaho Statutes, Title 65, Chapter 5:** [https://legislature.idaho.gov/statutesrules/idstat/title65/t65ch5/](https://legislature.idaho.gov/statutesrules/idstat/title65/t65ch5/)
