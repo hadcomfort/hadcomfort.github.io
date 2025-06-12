@@ -1,48 +1,65 @@
 ---
 layout: default
-title: "Arkansas Veterans' Preference"
-description: "A summary of Arkansas's veterans' preference rules for state employment."
+title: "Alabama Veterans' Preference and Benefits"
+description: "A summary of Alabama's veterans' preference rules for state employment and other state-level benefits for veterans."
 ---
 
-# Arkansas Veterans' Preference
+# Alabama Veterans' Preference and Benefits
 
-Arkansas provides a veterans' preference for qualified veterans, their spouses, and surviving spouses in hiring, promotion, and retention for state employment. The preference is applied when developing the list of candidates to be interviewed and again when making the final selection.
+Alabama offers a range of benefits to its veterans, from hiring preferences in state employment to tax exemptions and educational assistance. This page provides a summary of some of the key benefits available to eligible veterans, their spouses, and their families.
 
-**Disclaimer:** This is a summary. For the most accurate and up-to-date information, please consult the official Arkansas state government resources linked at the bottom of this page.
+**Disclaimer:** This is a summary of benefits. For the most accurate and up-to-date information, please consult the official Alabama state government resources and enabling legislation.
 
-## Eligibility Requirements
+## State Employment Hiring Preference
 
-To be eligible, an applicant must be a citizen and resident of Arkansas and have qualifications substantially equal to other applicants. An applicant entitled to preference cannot be disqualified due to age or physical disability, provided it does not hinder their ability to perform the job duties. The preference applies to:
+Alabama provides a veterans' preference in the form of points added to passing examination scores for state employment. This preference is available to eligible veterans, their spouses, and surviving spouses.
 
-*   **Veterans:** A person honorably discharged from a tour of active duty, which cannot be for training purposes only.
-*   **National Guard/Reserves:** Any person who has served honorably for at least six years in the National Guard or reserve forces.
-*   **Disabled Veterans:** A veteran with a service-connected disability established by the U.S. Department of Veterans Affairs. This includes veterans over age 55 who are entitled to a pension or compensation.
-*   **Spouses of Disabled Veterans:** The spouse of a disabled veteran whose disability disqualifies them from being selected for the position.
-*   **Unmarried Surviving Spouses:** The surviving spouse of a deceased qualified veteran, provided they are unmarried at the time of application and hiring.
+### Eligibility Requirements
 
-## Type of Preference
+To be eligible for the hiring preference, an individual must have been honorably discharged from the U.S. Armed Forces. The preference also extends to:
 
-Preference is applied differently depending on whether a numerical scoring system is used for hiring.
+*   Spouses of disabled veterans who are unable to work due to their service-connected disability.
+*   The unremarried surviving spouse of a service member killed in the line of duty.
 
-*   **When a Numerical Score is Used:** If an examination or other scored evaluation is used to create a list of qualified candidates, points are added to the final passing score of an eligible applicant.
-    *   **5 points** are added for eligible veterans, members of the National Guard/Reserves, and their unmarried surviving spouses.
-    *   **10 points** are added for disabled veterans or the spouse of a disabled veteran who is disqualified from the position due to their disability.
+### Type of Preference
 
-*   **When a Numerical Score is Not Used:** The hiring authority must be able to demonstrate how veteran's preference was applied in developing the list of candidates to be interviewed and in selecting the final candidate.
+*   **Points-Based:** Eligible applicants receive points added to their passing examination scores for state employment applications.
+    *   **Standard Veterans:** Receive 5 preference points.
+    *   **Disabled Veterans:** Veterans receiving disability compensation from the VA receive 10 preference points.
+    *   **Eligible Spouses/Surviving Spouses:** Receive 10 preference points.
+*   **Reduction in Force:** In the event of a workforce reduction, employees eligible for veterans' preference who have a good record and an efficiency rating equal to or greater than other employees in competition must be the last to be discharged, dropped, or reduced in rank or salary.
 
-*   **Promotion and Retention:** A qualified veteran's status must be considered in decisions regarding promotions. In a reduction-in-force scenario, a veteran's status is counted as part of the employee's seniority.
+### How to Apply
 
-## How to Apply and Applicant Rights
+Applicants should indicate their veteran status on their state employment application. You will be required to provide proof of service and eligibility, such as a DD Form 214 and, if applicable, a VA disability rating letter. For more information, you can contact the Alabama State Personnel Department.
 
-An applicant must voluntarily submit official proof of their status, such as a DD-214 or a letter from the U.S. Department of Veterans Affairs, to the hiring authority to receive preference.
+## Other State Benefits for Veterans
 
-If an applicant eligible for veteran's preference is not hired, they may request that the hiring authority provide the reason in writing.
-*   If scoring was used, the applicant can request their base score, their adjusted score, and the successful candidate's score.
-*   If no scoring was used, the applicant can request all documentation demonstrating how preference was applied to develop the interview list and select the successful candidate.
+Beyond the hiring preference, Alabama offers a variety of other benefits for veterans and their families.
+
+### Tax Benefits
+
+*   **Military Retired Pay:** Military retired pay is exempt from Alabama income tax.
+*   **Combat Pay:** Pay received in a designated combat zone is exempt from Alabama income tax.
+*   **Property Tax Exemption:** The home of a veteran acquired through a VA Specially Adapted Housing Grant is exempt from all Alabama property taxes.
+*   **Vehicle Taxes:** Vehicles owned by disabled veterans that are all or partly paid for by the VA are exempt from all license fees and property taxes.
+
+### Education Benefits
+
+*   **Alabama G.I. Dependent Scholarship Program:** This program provides scholarships for eligible dependents of resident disabled veterans for use at Alabama state-supported schools. The scholarship covers tuition, fees, and textbooks up to a certain amount.
+*   **Tuition Waiver for Purple Heart Recipients:** Alabama state-supported schools offer a waiver of tuition and fees for Purple Heart recipients who are Alabama residents.
+*   **Alabama National Guard Education Assistance Program (ANGEAP):** This program provides financial assistance for Alabama National Guard service members enrolled in an Alabama state-supported school.
+
+### Recreational Benefits
+
+*   **Parks for Patriots Program:** This program offers free admission to Alabama State Parks for resident veterans and active duty service members. Nonresident service members and veterans receive free admission on state and federal holidays.
+*   **Hunting and Fishing Licenses:** Alabama offers reduced-price lifetime and annual hunting and fishing licenses for resident disabled veterans. Active duty service members stationed in Alabama and their dependents can purchase licenses at resident rates.
 
 ## Official State Resources
 
-*   **Arkansas Department of Veterans Affairs:** [https://www.veterans.arkansas.gov/](https://www.veterans.arkansas.gov/)
-*   **Office of Personnel Management Policy on Veterans Preference:** [https://www.transform.ar.gov/wp-content/uploads/2021/05/13-Veterans-Preference-and-Reemployment-5.19.2021.pdf](https://www.transform.ar.gov/wp-content/uploads/2021/05/13-Veterans-Preference-and-Reemployment-5.19.2021.pdf)
-*   **University of Arkansas - Arkansas Veterans Preference:** [https://oeoc.uark.edu/recruitment-information/recruitment-manual/backups/recruitment-manual-avp.php](https://oeoc.uark.edu/recruitment-information/recruitment-manual/backups/recruitment-manual-avp.php)
-*   **MyArmyBenefits - Arkansas Employment Benefits:** [https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/ARKANSAS](https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/ARKANSAS)
+*   **Alabama Department of Veterans Affairs (ADVA):** [https://va.alabama.gov/](https://va.alabama.gov/)
+*   **Alabama State Personnel:** [https://personnel.alabama.gov/](https://personnel.alabama.gov/)
+*   **Alabama Military and Veterans Benefits (myarmybenefits.us.army.mil):** [https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/ALABAMA](https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/ALABAMA)
+*   **Alabama's Heroes Welcome Initiative:** [https://www.heroeswelcome.alabama.gov/](https://www.heroeswelcome.alabama.gov/)
+*   **Alabama State & Federal Resources (Military OneSource):** [https://installations.militaryonesource.mil/state/AL/state-federal-resources](https://installations.militaryonesource.mil/state/AL/state-federal-resources)
+*   **Alabama Laws Affecting Veterans (PDF):** [https://va.alabama.gov/wp-content/uploads/2024/05/AL-Vets-Laws-Booklet-May-2024-Final.pdf](https://va.alabama.gov/wp-content/uploads/2024/05/AL-Vets-Laws-Booklet-May-2024-Final.pdf)
