@@ -1,13 +1,19 @@
 # .github/workflows/generate-diagram.yml
-
-name: Generate Advisor Diagram
+name: Generate Advisor Diagram # Corrected this line
 
 on:
+  # Run this when files in the advisor directory change
   push:
     branches:
-      - main # Or whichever branch triggers this
-  workflow_dispatch: # Allows manual triggering
+      - main
+    paths:
+      - 'advisor/**.md'
+      - 'generate_diagram.py'
+  # Also allow manual runs
+  workflow_dispatch:
 
+# This is the fix: Add the permissions block.
+# 'write' is required because the last step commits and pushes to the repo.
 permissions:
   contents: write
 
