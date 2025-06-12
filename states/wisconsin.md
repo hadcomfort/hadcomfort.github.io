@@ -32,4 +32,4 @@ Applicants should claim veteran status on their Wisc.Jobs application. To use th
 ## Official State Resources
 
 *   **Wisconsin DPM - Veteran Hiring:** [https://dpm.wi.gov/Pages/Job_Seekers/VeteranHiring.aspx](https://dpm.wi.gov/Pages/Job_Seekers/VeteranHiring.aspx)
-*   **Wisconsin Jobs:** [[https://wisc.jobs](https://wisc.jobs/Pages/Agency/DVA.aspx?unit=48500)/](https://wisc.jobs/Pages/Agency/DVA.aspx?unit=48500)/)
+*   **Wisconsin Jobs:** [https://wisc.jobs/Pages/Agency/DVA.aspx?unit=48500](https://wisc.jobs/Pages/Agency/DVA.aspx?unit=48500)
