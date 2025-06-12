@@ -1,16 +1,15 @@
 # .github/workflows/generate-diagram.yml
+
 name: Generate Advisor Diagram
 
 on:
-  # Run this when files in the advisor directory change
   push:
     branches:
-      - main
-    paths:
-      - 'advisor/**.md'
-      - 'generate_diagram.py'
-  # Also allow manual runs
-  workflow_dispatch:
+      - main # Or whichever branch triggers this
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
 
 jobs:
   generate:
