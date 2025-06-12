@@ -25,5 +25,5 @@ Applicants must provide a copy of their DD 214 Form (Long Form) and/or their Dis
 
 ## Official State Resources
 
-*   **New Mexico State Personnel Office - Application Guide & FAQ:** [https://www.spo.state.nm.us/working-with-us/application-guide-faq/](https://www.spo.state.nm.us/working-with-us/application-guide-faq/)
+*   **New Mexico State Personnel Office - Application Guide & FAQ:** [https://www.spo.state.nm.us/work-for-new-mexico/faq/](https://www.spo.state.nm.us/work-for-new-mexico/faq/)
 *   **New Mexico Statutes Section 10-9-13.2:** [https://law.justia.com/codes/new-mexico/2021/chapter-10/article-9/section-10-9-13-2/](https://law.justia.com/codes/new-mexico/2021/chapter-10/article-9/section-10-9-13-2/)
