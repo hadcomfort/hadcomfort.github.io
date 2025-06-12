@@ -1,0 +1,24 @@
+# .github/workflows/spell-check.yml
+name: Spell Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  spellcheck:
+    name: Check Spelling
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Run spell check
+        uses: check-spelling/check-spelling@v0.0.22
+        with:
+          # This action is highly configurable. You can add a file
+          # with allowed words (e.g., .github/spellcheck.dic) to prevent
+          # false positives for technical terms or acronyms like VEOA, VRA, etc.
+          # For example:
+          # extra_dictionary_path: .github/spellcheck.dic
