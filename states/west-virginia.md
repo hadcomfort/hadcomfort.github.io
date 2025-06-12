@@ -27,4 +27,4 @@ Applicants must indicate their veteran status when applying for state jobs. Proo
 ## Official State Resources
 
 *   **West Virginia Division of Personnel:** [https://personnel.wv.gov/Pages/default.aspx](https://personnel.wv.gov/Pages/default.aspx)
-*   **West Virginia Code §6-13:** [https://code.wvlegislature.gov/wvcode/Chapter6/article13/](https://code.wvlegislature.gov/wvcode/Chapter6/article13/)
+*   **West Virginia Code §6-13:** [https://code.wvlegislature.gov/6-13/](https://code.wvlegislature.gov/6-13/)
