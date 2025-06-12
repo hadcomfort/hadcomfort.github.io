@@ -30,5 +30,5 @@ Applicants must claim the preference on their application and provide a copy of 
 
 ## Official State Resources
 
-*   **Colorado Department of Human Resources - Veterans' Preference:** [https://dhr.colorado.gov/state-employees/veterans-preference](https://dhr.colorado.gov/state-employees/veterans-preference)
+*   **Colorado Department of Human Resources - Veterans' Preference:** [https://cseap.colorado.gov/](https://cseap.colorado.gov/)
 *   **Colorado Military and Veterans Benefits:** [https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/Colorado](https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/Colorado)
