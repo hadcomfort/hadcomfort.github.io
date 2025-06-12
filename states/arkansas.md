@@ -1,5 +1,3 @@
-Here is the updated and expanded markdown page. I have incorporated details from all four of your provided links to create a more comprehensive resource. I've also added citations to the source material as requested.
-
 ---
 layout: default
 title: "Arkansas Veterans' Preference"
