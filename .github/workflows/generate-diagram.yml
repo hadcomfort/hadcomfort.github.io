@@ -1,0 +1,38 @@
+# .github/workflows/generate-diagram.yml
+name: Generate Advisor Diagram
+
+on:
+  # Run this when files in the advisor directory change
+  push:
+    branches:
+      - main
+    paths:
+      - 'advisor/**.md'
+      - 'generate_diagram.py'
+  # Also allow manual runs
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Or whatever version your script needs
+
+      # If your script has dependencies, you would add a step here:
+      # - name: Install Python dependencies
+      #   run: pip install -r requirements.txt
+
+      - name: Run script to generate diagram
+        run: python generate_diagram.py
+
+      - name: Commit and push if diagram changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Regenerate advisor logic diagram"
+          file_pattern: "advisor/advisor_diagram.md"
