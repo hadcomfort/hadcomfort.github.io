@@ -33,4 +33,4 @@ To be eligible, a veteran must:
 ## Official State Resources
 
 *   **Ohio Revised Code - Section 124.23 (Veterans' preference):** [https://codes.ohio.gov/ohio-revised-code/section-124.23](https://codes.ohio.gov/ohio-revised-code/section-124.23)
-*   **Ohio Department of Administrative Services - Veterans' Preference:** [https://das.ohio.gov/Divisions/Human-Resources/HR-Operations/Veterans-Preference](https://das.ohio.gov/Divisions/Human-Resources/HR-Operations/Veterans-Preference)
+*   **Ohio Department of Administrative Services - Veterans' Preference:** [https://dvs.ohio.gov/wps/portal/gov/dvs/home](https://dvs.ohio.gov/wps/portal/gov/dvs/home)
