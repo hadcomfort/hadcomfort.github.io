@@ -1,11 +1,14 @@
+---
+
 # Veteran's Preference Advisor & Information Hub
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Pages](https://img.shields.io/github/deployments/hadcomfort/hadcomfort.github.io/github-pages?label=docs%20%26%20demo&logo=github)](https://hadcomfort.github.io/)
+[![Lint & Links](https://github.com/hadcomfort/hadcomfort.github.io/actions/workflows/lint-and-links.yml/badge.svg)](https://github.com/hadcomfort/hadcomfort.github.io/actions/workflows/lint-and-links.yml)
 
-**Demystifying U.S. Federal Veteran's Preference, one click at a time.**
+**Demystifying U.S. Federal and State-Level Veteran's Preference, one click at a time.**
 
-This project provides a clear, accessible, and user-friendly resource for U.S. veterans, their families, and those assisting them to understand eligibility for veteran's preference in federal hiring. Our core feature is an interactive **Veteran's Preference Advisor** tool, complemented by a wealth of informational content based directly on official U.S. Office of Personnel Management (OPM) guidance.
+This project provides a clear, accessible, and user-friendly resource for U.S. veterans, their families, and advocates to understand eligibility for veteran's preference in public employment. The site features two primary tools: an interactive **Federal Veteran's Preference Advisor** and a new, comprehensive hub for **State-Level Veterans' Preference Rules**. All content is complemented by a wealth of informational guides, FAQs, and a glossary based directly on official U.S. government guidance.
 
 **➡️ Visit the Live Site & Advisor Tool: [https://www.myvetguides.com/](https://www.myvetguides.com/)**
 
@@ -13,19 +16,20 @@ This project provides a clear, accessible, and user-friendly resource for U.S. v
 
 ## 🌟 About The Project
 
-Navigating the rules and regulations surrounding U.S. Veteran's Preference for federal employment can be a daunting task. The official guidelines are comprehensive but can be dense and difficult to parse for specific situations. This project aims to bridge that gap.
+Navigating the rules surrounding U.S. Veteran's Preference for public employment can be a daunting task. The official guidelines are comprehensive but can be dense and difficult to parse for specific situations. This project aims to bridge that gap.
 
-**Our Mission:** To empower U.S. veterans and their advocates with an intuitive tool and clear information, making the complexities of veteran's preference more understandable and accessible.
+**Our Mission:** To empower U.S. veterans and their advocates with intuitive tools and clear information, making the complexities of both federal and state-level veteran's preference more understandable and accessible.
 
 **What This Project Offers:**
 
-*   **The Veteran's Preference Advisor:** An interactive, step-by-step tool that guides users through a series of questions to help determine potential eligibility for different types of veteran's preference (0-point, 5-point, 10-point, derived, etc.).
-*   **A Comprehensive Information Hub:** Detailed explanations of key concepts, specific appointing authorities (like VRA, VEOA), a glossary of terms, FAQs, and more.
-*   **Credible Foundation:** All guidance and logic within the Advisor are meticulously based on the official [OPM Vet Guide for HR Professionals](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/) (a copy of which is included in this repository as `hrdocs.txt` for reference).
+*   **The Federal Veteran's Preference Advisor:** An interactive, step-by-step tool that guides users through a series of questions to help determine potential eligibility for different types of federal veteran's preference (0-point, 5-point, 10-point, derived, etc.).
+*   **The State-Level Preference Hub:** A new, central directory with detailed summaries of veteran's preference rules for public employment in all 50 states, Washington D.C., and Puerto Rico.
+*   **A Comprehensive Information Hub:** Detailed explanations of key concepts, specific federal appointing authorities (like VRA and VEOA), a glossary of terms, case studies, and more.
+*   **Credible Foundation:** All guidance and logic are meticulously based on official sources like the OPM Vet Guide for HR Professionals and state-level statutes and resources.
 
 **Who Is This For?**
 
-*   U.S. Veterans seeking federal employment.
+*   U.S. Veterans seeking federal, state, or local government employment.
 *   Family members (spouses, mothers) exploring derived preference.
 *   Veteran Service Officers (VSOs) and advocates.
 *   HR professionals looking for a supplementary tool to explain preference.
@@ -35,20 +39,33 @@ Navigating the rules and regulations surrounding U.S. Veteran's Preference for f
 
 ## 🚀 Key Features
 
-*   **Interactive Veteran's Preference Advisor:** A decision-tree style tool that simplifies complex eligibility criteria into a series of manageable questions.
-*   **Visual Advisor Logic:** Includes a [Mermaid diagram](./advisor/advisor_diagram.md) visually mapping the entire decision flow of the Advisor tool, generated by a Python script (`generate_diagram.py`).
-*   **Detailed Informational Pages:**
-    *   [Frequently Asked Questions (FAQ)](./faq.md)
-    *   [Comprehensive Glossary of Terms](./glossary.md)
-    *   In-depth guides on [Special Appointing Authorities](./special_appointing_authorities.md) including:
-        *   [Veterans Recruitment Appointment (VRA)](./vra.md)
-        *   [Veterans Employment Opportunities Act (VEOA)](./veoa.md)
-        *   [Appointment of 30% or More Disabled Veterans](./disabled_vets_30_percent.md)
-        *   [Hubbard Act (Sole Survivor Preference)](./hubbard_act.md)
-    *   Guidance on [Crediting Experience](./crediting_experience.md), [Physical Qualifications](./physical_qualifications.md), and [Restoration Rights](./restoration_rights.md).
-*   **Grounded in Official Sources:** Information is derived from the OPM Vet Guide, ensuring accuracy and reliability.
-*   **User-Friendly Interface:** Built with Jekyll and a clean theme for easy navigation and readability.
-*   **Open Source & Community Driven:** We welcome contributions to enhance and improve this resource.
+This project is more than just a single tool; it's a multi-faceted information hub.
+
+#### 1. Interactive Federal Veteran's Preference Advisor
+A decision-tree style tool that simplifies complex federal eligibility criteria into a series of manageable questions.
+*   **Visual Logic:** Includes a [Mermaid diagram](./advisor/advisor_diagram.md) that visually maps the entire decision flow of the Advisor tool, automatically generated by a Python script (`generate_diagram.py`).
+
+#### 2. State-Level Veterans' Preference Hub (New!)
+A comprehensive directory covering hiring preferences for public employment in all 50 U.S. states, Washington D.C., and Puerto Rico.
+*   **Centralized Access:** The [State-Level Veterans' Preference](./state-veterans-preference.md) page serves as a launchpad to individual state pages.
+*   **Detailed Summaries:** Each state page provides a breakdown of eligibility, preference types, and links to official state resources.
+
+#### 3. In-Depth Information & Guides
+A rich library of content to explain key concepts and special programs:
+*   **[Frequently Asked Questions (FAQ)](./faq.md):** Answers to the most common questions about federal preference.
+*   **[Comprehensive Glossary of Terms](./glossary.md):** Clear definitions for over 70 technical terms.
+*   **Guides on Special Appointing Authorities:**
+    *   [Veterans Recruitment Appointment (VRA)](./vra.md)
+    *   [Veterans Employment Opportunities Act (VEOA)](./veoa.md)
+    *   [Appointment of 30% or More Disabled Veterans](./disabled_vets_30_percent.md)
+    *   [Hubbard Act (Sole Survivor Preference)](./hubbard_act.md)
+*   **Practical "How-To" Guides:**
+    *   [How to Read Your DD Form 214 for Preference](./how-to-read-dd214.md)
+    *   [Understanding the SF-15 Form](./advisor/sf15_information.md)
+*   **[Case Studies](./case-studies.md):** Fictional scenarios illustrating how VRA, 5-point, and 10-point preferences work in practice.
+
+#### 4. Grounded in Official Sources
+All information is derived from official documentation like the OPM Vet Guide (a copy is in `hrdocs.txt`) and state government websites, ensuring accuracy and reliability.
 
 ---
 
@@ -69,26 +86,15 @@ This website and its tools are built using a combination of open-source technolo
 
 ## 🗺️ Project Structure
 
-The repository is organized to support the Jekyll static site generation and the content of the Veteran's Preference Advisor:
+The repository is organized to support the Jekyll static site and its content:
 
-*   **`/` (Root Directory):**
-    *   `index.md`: The homepage of the website.
-    *   `README.md`: This file.
-    *   `LICENSE`: Project's MIT license.
-    *   `_config.yml`: Jekyll configuration file.
-    *   `Gemfile`, `Gemfile.lock`: Ruby dependency management.
-    *   `hrdocs.txt`: The raw text of the OPM Vet Guide, serving as the primary source material.
-    *   `faq.md`, `glossary.md`, `special_appointing_authorities.md`, etc.: Core informational markdown pages.
-    *   `generate_diagram.py`: Python script to generate the advisor logic diagram.
-*   **`/advisor/`**: The heart of the interactive tool. Contains numerous Markdown files (`.md`) representing each step, question, or outcome in the Veteran's Preference Advisor decision tree.
-    *   `start.md`: The entry point for the advisor tool.
-    *   `advisor_diagram.md`: Contains the Mermaid diagram visualizing the advisor's logic.
-*   **`/_layouts/`**: HTML template files (e.g., `default.html`, `post.html`) that define the structure for different page types.
-*   **`/_sass/`**: SASS files that compile into CSS, defining the visual styles of the website.
-*   **`/assets/`**: Contains static assets.
-    *   `/assets/css/style.scss`: Main SASS file that imports theme styles and custom styles.
-*   **`_data/`** (Potential Future Use): Could store structured data (YAML, JSON, CSV) for dynamic content generation (e.g., lists of campaign medals).
-*   **`_includes/`** (Potential Future Use): For reusable HTML or Markdown snippets to be included across pages or layouts.
+*   **`/advisor/`**: The heart of the interactive **Federal** preference tool. Contains dozens of Markdown files (`.md`) representing each step, question, or outcome in the decision tree.
+*   **`/states/`**: The new hub for **State-Level** preference. Contains a Markdown file for each state and territory.
+*   **`_layouts/` & `_sass/`**: Standard Jekyll directories for HTML templating and SASS/CSS styling.
+*   **`_data/`**: Contains structured data, like the site's main `navigation.yml`.
+*   **`/` (Root Directory):** Contains the main informational pages (`faq.md`, `glossary.md`, `vra.md`, etc.), the site's homepage (`index.md`), and configuration files.
+*   `generate_diagram.py`: The Python script that reads the `/advisor/` directory and automatically generates the visual logic map in `advisor/advisor_diagram.md`.
+*   `hrdocs.txt`: The raw text of the OPM Vet Guide, serving as the primary source material for federal preference rules.
 
 ---
 
@@ -99,10 +105,8 @@ To run this website on your local machine for development or testing, follow the
 ### Prerequisites
 
 Ensure you have the following installed:
-
 *   **Ruby**: It's recommended to use a recent stable version (e.g., 3.x).
     *   Verify installation: `ruby -v`
-    *   If not installed, consider using a version manager like [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/), or download from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
 *   **Bundler**: A Ruby gem for managing project dependencies.
     *   Install Bundler (if you don't have it): `gem install bundler`
 
@@ -134,57 +138,43 @@ Once the server is running (you'll see output like `Server address: http://127.0
 
 **`http://localhost:4000`**
 
-You should see the website. Jekyll will automatically monitor most files for changes and rebuild the site. You may need to refresh your browser to see updates.
+Jekyll will automatically monitor most files for changes and rebuild the site. You may need to refresh your browser to see updates.
 
 ---
 
 ## 💡 How to Use
 
-### The Veteran's Preference Advisor Tool
+### The Federal Veteran's Preference Advisor
 
-1.  Navigate to the **[Advisor Start Page](./advisor/start.md)** on the live site or your local instance.
-2.  Read the introductory information and disclaimer carefully.
-3.  Answer the questions presented on each page by clicking the most appropriate link.
-4.  The advisor will guide you through a series of steps based on your answers, leading to an assessment of potential veteran's preference eligibility or ineligibility.
-5.  Each step references OPM Vet Guide sections where applicable, allowing you to cross-reference with official documentation.
+1.  Navigate to the **[Advisor Start Page](./advisor/start.md)**.
+2.  Read the introductory information and disclaimer.
+3.  Answer the questions on each page by clicking the most appropriate link.
+4.  The advisor will guide you through a series of steps leading to an assessment of potential federal veteran's preference eligibility.
+
+### State-Level Preference Guides
+
+1.  Navigate to the main **[State-Level Veterans' Preference](./state-veterans-preference.md)** page.
+2.  Click on your state or territory from the list to view a detailed summary of its public employment preference rules.
 
 ### Informational Pages
 
-Explore the various informational pages linked from the homepage or navigation:
-*   The **[FAQ](./faq.md)** answers common questions.
+Explore the various informational pages linked from the navigation menu:
+*   The **[FAQ](./faq.md)** answers common questions about federal preference.
 *   The **[Glossary](./glossary.md)** defines key terms.
 *   Dedicated pages explain specific rules like **[VRA](./vra.md)**, **[VEOA](./veoa.md)**, and others.
 
 ---
 
-## 🔍 Advisor Logic Diagram
-
-To better understand the comprehensive logic behind the Veteran's Preference Advisor, a visual diagram is provided:
-
-*   **View the Diagram:** [Advisor Logic Diagram](./advisor/advisor_diagram.md)
-
-This diagram is generated using Mermaid JS from a definition created by the `generate_diagram.py` script. It maps out all the decision points and pathways within the advisor tool, offering transparency into how different scenarios are handled.
-
----
-
 ## 🤝 Contributing
 
-We warmly welcome contributions to enhance the Veteran's Preference Advisor and its informational content! Your expertise and feedback can help make this resource even more valuable for veterans.
+We warmly welcome contributions to enhance this resource! Your expertise and feedback can help make it even more valuable for veterans. We have detailed issue templates for bug reports, content suggestions, and feature requests to make contributing easy.
 
 **How You Can Contribute:**
 
 1.  **Report Bugs or Suggest Enhancements:** If you find an error, a point of confusion, or have an idea for improvement, please [open an issue](https://github.com/hadcomfort/hadcomfort.github.io/issues).
-2.  **Improve Content:**
-    *   Suggest clarifications or corrections to existing text.
-    *   Propose new FAQ entries or glossary terms.
-    *   Help update content based on new OPM guidance.
-3.  **Enhance the Advisor Tool:**
-    *   Identify areas where the logic flow could be improved.
-    *   Suggest new paths or considerations.
-4.  **Code Contributions:**
-    *   Help improve the Jekyll site structure or functionality.
-    *   Enhance the `generate_diagram.py` script.
-    *   Improve accessibility or user interface elements.
+2.  **Improve Content:** Suggest clarifications, fix typos, or propose new FAQ/glossary entries. Help update content based on new OPM or state-level guidance.
+3.  **Enhance the Advisor Tool:** Identify areas where the logic flow could be improved or suggest new paths.
+4.  **Code Contributions:** Help improve the Jekyll site structure, enhance the `generate_diagram.py` script, or improve accessibility and UI elements.
 
 **Pull Request Process:**
 
@@ -194,19 +184,18 @@ We warmly welcome contributions to enhance the Veteran's Preference Advisor and 
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
-Please ensure your contributions align with the project's goal of providing clear, accurate, and user-friendly information based on official sources. If you're making significant changes, it's often best to open an issue first to discuss them.
+Please ensure your contributions align with the project's goal of providing clear, accurate, and user-friendly information based on official sources.
 
 ---
 
 ## 🛣️ Roadmap
 
-We envision several future enhancements to make this resource even better (referencing ideas from `plan.md` where applicable):
+We envision several future enhancements to make this resource even better:
 
-*   **Data-Driven Content:** Utilize Jekyll's `_data` directory for managing lists (e.g., qualifying campaigns, glossary terms) to make updates easier and content more dynamic.
-*   **Reusable Includes:** Implement `_includes/` for common HTML/Markdown snippets to improve site consistency and maintainability.
-*   **Enhanced User Interface:** Continuously improve the visual design and user experience of the advisor tool and informational pages.
+*   **Data-Driven Content:** Utilize Jekyll's `_data` directory for managing lists (e.g., qualifying campaigns, glossary terms) to make updates easier.
+*   **Enhanced User Interface:** Continuously improve the visual design and user experience of the advisor and informational pages.
 *   **Expanded Content:** Cover more nuanced topics related to veteran's preference.
-*   **Audit Trail Feature:** Further develop the `advisor_audit_report.md` to provide users with a summary of their path through the advisor.
+*   **Audit Trail Feature:** Further develop the `advisor_audit_report.md` to provide users with a printable summary of their path through the advisor.
 *   **Community Feedback Integration:** Systematically incorporate feedback from users and contributors.
 
 Your suggestions for the roadmap are also welcome!
@@ -217,9 +206,9 @@ Your suggestions for the roadmap are also welcome!
 
 **This Veteran's Preference Advisor is an unofficial informational tool ONLY.**
 
-It is based on interpretation of publicly available U.S. government guidelines, primarily the OPM Vet Guide for HR Professionals. While efforts have been made to ensure accuracy and faithfully represent official guidance, this tool does not constitute legal or official advice, nor does it guarantee any outcome or preference eligibility.
+It is based on interpretation of publicly available U.S. government guidelines. While efforts have been made to ensure accuracy and faithfully represent official guidance, this tool does not constitute legal or official advice, nor does it guarantee any outcome or preference eligibility.
 
-Eligibility for U.S. Federal Veteran's Preference is ultimately determined by the hiring federal agency based on official documentation and current laws and regulations.
+Eligibility for U.S. Federal and State Veteran's Preference is ultimately determined by the hiring public agency based on official documentation and current laws and regulations.
 
 **Always refer to official U.S. government resources or consult with a Veteran Service Officer (VSO) or agency HR personnel for definitive answers and assistance with your specific situation.**
 
@@ -238,10 +227,10 @@ This project is licensed under the **GPLv3 License**. See the [LICENSE](./LICENS
 
 ## 🙏 Acknowledgements
 
-*   The content and logic of the Veteran's Preference Advisor are heavily based on the **U.S. Office of Personnel Management (OPM) Vet Guide for HR Professionals**. This project aims to make that valuable public information more accessible.
-*   The Jekyll theme used is [jekyll-theme-tactile](https://github.com/pages-themes/tactile).
+*   The content and logic of the Federal Veteran's Preference Advisor are heavily based on the **U.S. Office of Personnel Management (OPM) Vet Guide for HR Professionals**. This project aims to make that valuable public information more accessible.
+*   The Jekyll theme used is **jekyll-theme-cayman**.
 *   Community contributors who help improve this resource.
 
 ---
 
-Thank you for your interest in and support of the Veteran's Preference Advisor project! We hope it serves as a valuable resource.
+Thank you for your interest in and support of this project! We hope it serves as a valuable resource.
